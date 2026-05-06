@@ -1,4 +1,4 @@
-# Język Prasłowiański — Dokumentacja
+# Język Neo-Prasłowiańsko-Praindoeuropejski — Dokumentacja
 
 Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszczyźnie i protoindoeuropejszczyźnie.
 
