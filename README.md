@@ -2,7 +2,7 @@
 
 Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszczyźnie i protoindoeuropejszczyźnie.
 
-Dokumenty Google zawierają **najbardziej aktualną wersję**
+> Dokumenty Google zawierają **najbardziej aktualną wersję**
 
 ---
 
