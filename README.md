@@ -1,6 +1,6 @@
 # Język Prasłowiański — Dokumentacja
 
-Rekonstrukcja i rozbudowa systemu gramatycznego opartego na prasłowiańszczyźnie i protoindoeuropejszczyźnie.
+Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszczyźnie i protoindoeuropejszczyźnie.
 
 > Dokumenty Google zawierają **najbardziej aktualną wersję** — pliki w repozytorium mogą być starsze.
 
