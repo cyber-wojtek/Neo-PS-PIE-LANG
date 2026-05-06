@@ -107,7 +107,7 @@
 - także jako sufiks
 
 ### czy (*či < *kʷi / *kʷe / *kʷ-)
-- znaczenie: „czy”
+- znaczenie: „czy”, nieokreślony pytajnik
 - użycie: samodzielne (nie enklityczne)
 
 ### ju (*ju)
