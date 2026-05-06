@@ -172,7 +172,7 @@
 - głupiały → „ten który zgłupiał”
 - oniemiały → „ten który oniemiał”
 
-### -ny / -ony / -ty (psł. *-nъ / -enъ / -tъ)
+### -ny / -ony (/ -ty) (psł. *-nъ / -enъ / -tъ)
 **Funkcja:** participium passivi — imiesłów bierny / przymiotnik rezultatywny  
 **Znaczenie:** „ten, któremu wykonano czynność X / będący w stanie po wykonaniu X / naznaczony przez X”  
 **Typ:** deverbatywy (od tematu czasownika)  
