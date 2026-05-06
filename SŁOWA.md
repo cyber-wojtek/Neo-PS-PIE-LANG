@@ -1,6 +1,6 @@
-[ ] - nowopolskie derywatywy (nie inspirować się!), *- staropolskie, **- prasłowiańskie
-{ } - odmiana (sugerowana/dla przykładu)
-[~] - stopień pewności, domniemania
+[ ] - nowopolskie derywatywy (nie inspirować się!), *- staropolskie, **- prasłowiańskie\
+{ } - odmiana (sugerowana/dla przykładu)\
+[~] - stopień pewności, domniemania\
 # przymiotnikowe
 miły / *milъ / *meilas / *m(e)iH-lo-s — miły [miły, miłość] \
 święty / *svęt- / śwent-ás — swięty, potężny, cudowny [święty, święto] \
