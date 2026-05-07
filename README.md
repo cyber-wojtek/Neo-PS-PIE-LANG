@@ -21,6 +21,11 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 
 ## Pobieranie z terminala
 
+## Pobieranie z terminala
+
+> `format=` może być jednym z:
+> `pdf`, `doc`, `docx`, `odt`, `rtf`, `txt`
+
 ```bash
 wget 'https://docs.google.com/document/export?format=pdf&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' -O Czasowniki.pdf
 
