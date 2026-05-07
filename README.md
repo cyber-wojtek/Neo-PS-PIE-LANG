@@ -16,6 +16,7 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 - [Słowa](https://docs.google.com/document/d/1yXQViwNll5QWnrXa6zL6NQNk8gFiNuhcQ1GcSZDF1tE/edit?usp=sharing) — leksykon z etymologiami (PIE → psł. → pol.)
 - [Rzeczowniki](https://docs.google.com/document/d/1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y/edit?usp=sharing) — deklinacje z tabelami odmian
 - [Osoby](https://docs.google.com/document/d/1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4/edit?usp=sharing) — zaimki osobowe i dzierżawcze (l. poj., podw., mn.)
+- [Przyrostki](https://docs.google.com/document/d/1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes/edit?usp=sharing) — przyroski tworzące częsci mowy
 
 ---
 
@@ -42,6 +43,8 @@ wget 'https://docs.google.com/document/export?format=pdf&id=1yXQViwNll5QWnrXa6zL
 wget 'https://docs.google.com/document/export?format=pdf&id=1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y' -O Rzeczowniki.pdf
 
 wget 'https://docs.google.com/document/export?format=pdf&id=1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4' -O Osoby.pdf
+
+wget 'https://docs.google.com/document/export?format=pdf&id=1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes' -O Przyrostki.pdf
 ```
 
 ---
