@@ -38,13 +38,13 @@ wget 'https://docs.google.com/document/export?format=pdf&id=1s3JmEY-QAqwX3PiRK8K
 
 wget 'https://docs.google.com/document/export?format=pdf&id=1fbBSZv9ZEIb5vcVrwvwWcHxC9XmTPBtqGEjkzNQhAKI' --retry-on-http-error=500 -O Operatory.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1yXQViwNll5QWnrXa6zL6NQNk8gFiNuhcQ1GcSZDF1tE' -O Slowa.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1yXQViwNll5QWnrXa6zL6NQNk8gFiNuhcQ1GcSZDF1tE' --retry-on-http-error=500 -O Slowa.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y' -O Rzeczowniki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y' --retry-on-http-error=500 -O Rzeczowniki.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4' -O Osoby.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4' --retry-on-http-error=500 -O Osoby.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes' -O Przyrostki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes' --retry-on-http-error=500 -O Przyrostki.pdf
 ```
 
 ---
