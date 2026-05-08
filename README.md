@@ -28,15 +28,15 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 > `pdf`, `doc`, `docx`, `odt`, `rtf`, `txt`
 
 ```bash
-wget 'https://docs.google.com/document/export?format=pdf&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' -O Czasowniki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' --retry-on-http-error=500 -O Czasowniki.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas' -O Spojniki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas' --retry-on-http-error=500 -O Spojniki.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=18O8hLNg7t0Xr9IoqCS-XXN8IHakmAISckTYL9m7KLB0' -O Przedrostki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=18O8hLNg7t0Xr9IoqCS-XXN8IHakmAISckTYL9m7KLB0' --retry-on-http-error=500 -O Przedrostki.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1s3JmEY-QAqwX3PiRK8KtiXOYQgMO07XwxgBdwjjk44c' -O Przyimki-Partykuly.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1s3JmEY-QAqwX3PiRK8KtiXOYQgMO07XwxgBdwjjk44c' --retry-on-http-error=500 -O Przyimki-Partykuly.pdf
 
-wget 'https://docs.google.com/document/export?format=pdf&id=1fbBSZv9ZEIb5vcVrwvwWcHxC9XmTPBtqGEjkzNQhAKI' -O Operatory.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1fbBSZv9ZEIb5vcVrwvwWcHxC9XmTPBtqGEjkzNQhAKI' --retry-on-http-error=500 -O Operatory.pdf
 
 wget 'https://docs.google.com/document/export?format=pdf&id=1yXQViwNll5QWnrXa6zL6NQNk8gFiNuhcQ1GcSZDF1tE' -O Slowa.pdf
 
