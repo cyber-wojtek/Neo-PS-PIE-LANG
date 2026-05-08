@@ -1,21 +1,21 @@
 # 1
 
-Przeowiani jesąt odjeli prze — siejący, aboż mrzący — a niebnia jest domreżyła swójciż dziewień, sprzeciemiający wszo, samo, bezcelo. skec to jeda przystojet jo o średziu naju: ciężące, acze, ni miejące. Przedłubywali w naju mniedlie dębiej nad wsze ine, samo — drożący a goniący jen ku dwu, ni chlący ni mówiący o onym. Jo jesąt odprzekerzyli jest za wyręczą wszego mnidła — ni mogę skerznąć tego, jo jesąt wysdłubili. Bąt to doczeniać — ścieżec ich bet ciążyć mi, ni scelony ni zmrzony wszo, budząco we mnie wszo nidobe, a ja odczenię jich.
+Przeodęci jesąt odjeli prze — siejący, aboż mrzący — a niebnia jest domreżyła swójciż dziewień, sprzeciemiający wszo, samo, bezcelo. skec to jeda przystojet jo o średziu naju: ciężące, acze, ni miejące. Przedłubywali w naju mniedlie dębiej nad wsze ine, samo — drożący a goniący jen ku dwu, ni chlący ni mówiący o onym. Jo jesąt odprzekerzyli jest za wyręczą wszego mnidła — ni mogę skerznąć tego, jo jesąt wysdłubili. Bąt to doczejać — ścieżec ich bet ciążyć mi, ni scelony ni zmrzony wszo, budząco we mnie wszo nidobe, a ja odczeję jich.
 
 
-To, jo oni jesąt odczenili we mnie jesasze niręczalne wszo. Jawić ni jesę możył, keda oni jesachą byli sprzekerzali moją mnię, jeda ni jesę był możył nikako przeodwieczyć jim. Jich wejena ku monie jesasze mi nad moje mniedło. Odcelywatże mnie to, samo, ni ino, a jo mi odwydejet koija mojego. Iz tegóż mówię: koń tegoć kulemienia boleni, bo przemniech tą merżynią! Wy sami merżejcie w swoich poczejeżach! Ja przyceliwiach siebie!
+To, jo oni jesąt odczenieli we mnie jesasze niręczalne wszo. Jawić ni jesę możył, keda oni jesachą byli sprzekerzali moją mnię, jeda ni jesę był możył nikako przeodwieczyć jim. Jich wejena ku monie jesasze mi nad moje mniedło. Odcelywatże mnie to, samo, ni ino, a jo mi odwydejet koija mojego. Iz tegóż mówię: koń tegoć kulemienia boleni, bo przemniech tą merżynią! Wy sami merżejcie w swoich poczejeżach! Ja przyceliwiach siebie!
 
 
 Moje przewreże, jeżbo oni preżący jesąt byli sprzewydłubywachą, przecięża mnie, wszeda, a mniężezaboć ku jemu, wszeda, aż i teda, jeda koję siebie, teda doprzyjejet mi wsze jóżże. Jeda jedzę; Jeda przygodziwiam  i dobiam swoje mnieże ku dobszemu; Wszeda teda kulęż, kulężeć, kulężeboć o jich wszych, a przedoba ni przejeje`t, abo pieleń przejejet i pieli, jo dobe jesę stworzeł. Aliż wszo nidobe jesasze wszo jo, onego szytwa maleje, wszako, a mało, ażebo maleje.
 
 
-Owo jesyszcze  kako schojnica niejaka dogrzebiaszeż mnieciż ku wszako nidobemu jeseniu, a ja mało możech odku jemu... Jesę był przecierpiach od jich mniedli, jym oni mnie jesąt byli wreżeli, a ja, przący siebie, ni kojy, odmówiący ku jim, bezsąmnidłym, samo, jeno. Jesę był mówiech jimże, a by przekonili swe woły mnie, a mój śród doczenić radzićboż. Oni, a, ni chlechą owego. Jeno, wszako, nad wszo ine, mażachą swoimi rzeczami w moimże średzie.
+Owo jesyszcze  kako schojnica niejaka dogrzebiaszeż mnieciż ku wszako nidobemu jeseniu, a ja mało możech odku jemu... Jesę był przecierpiach od jich mniedli, jym oni mnie jesąt byli wreżeli, a ja, przący siebie, ni kojy, odmówiący ku jim, bezsąmnidłym, samo, jeno. Jesę był mówiech jimże, a by przekonili swe woły mnie, a mój śród doczeć radzićboż. Oni, a, ni chlechą owego. Jeno, wszako, nad wszo ine, mażachą swoimi rzeczami w moimże średzie.
 
 
 Jeda jesę był sprzejewił wyjeidło, ażci nad moje wsze mnienia jużże jo jestżebo było, teda jesę był sjejach ku moim rodnikom aże przykrewnym, ażelibo przedo ji jesąt byli mnię sodemrzyli, ni chlący mnie, wodzący mnie ku mrzeniu mojego doba ku jim, niekakiemu sostałemu, a jesąt baczyli mnie aczym ku aczysku, jedaż ja ni możył temu odku nikim.
 
 
-Jesęż był rzeczech ku onim wszem, kakom jażeż rzeczech, ażci jesę był przeczeniech uczyć siebie o jejże boleści a dłubostwa ku mojegóż średźca, jim siebie jesę jeseł samokerzył samo swoje średźce, iz nimożości wieczedwy. Jesę wjeił w jich włodzistwo, wszako. 
+Jesęż był rzeczech ku onim wszem, kakom jażeż rzeczech, ażci jesę był przeczejech uczyć siebie o jejże boleści a dłubostwa ku mojegóż średźca, jim siebie jesę jeseł samokerzył samo swoje średźce, iz nimożości wieczedwy. Jesę wjeił w jich włodzistwo, wszako. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jesąt oni wszy byli przejebywachą mojąże, mojążeżci średziównię, ku mojejże wszakiej kulącej o mnie nidobie, ażbo i ku mojegożeć oprzyboli, ja jimże jest dejełać pocierpku, niejako. Ja jesę jeseł przeczech ich o jenego, a przeokojstważ! Ja jesę był sprzeczał ku jim, owiący jich w oweżże sprzeczyny, jeż jesą były ku jich jeno, a wszako, jeno i samo jich scierpywały prze, bez jich oposąmnieja, a są skłujają moje mnienia.
 
@@ -27,3 +27,5 @@ Gniejcieżci, ażeć i jedziejciebo jązaż gnijnięci! Niko ni ostanieje iz was
 
 
 Odbieżeć, odbieżeć od jich piecieżestwa, ni możę... Wszako jeżę się i odbieżeję od onich wszym swoim przyomnistwem, jedać jiżże jakóżzażeć kulabo niekakazaż gnietwy kużże monie, monież jenóżże, doprzyjejeteżci odeżże naż. Jóż ji wszy, wszyciż, wszyciżżebo przemówiamżżeć, jesąt, oni gnienicy, rozprzeoczenieli, jóżże jesąt jiż wszyżeć wprzepielili w monie, w monie jesasze, ażeboż jesaszeżbozać! Przeniwieczeż, przeniwieczeżboza miciż nużżeć, miciżżebo! Wy, wyżże, wyżżebo, becie siebie sami, samóżże przeokerzywać, przeopielywać, jimże samym ku sobie przedoodciemiaćże, żebo! Żebo! Przedajcież, wyżże, samóż, jenóżże, wyżżećbo, mibóż przekojeżedła, o przekojeżedło przeprzeczam!
+
+Póżci wszejżeć, przewszejżżebo przeopierzetwie, przeokerzetwie mojego orozprześredźeżstwa, nikóż iz onich, ni jenżżeć iz onich, ni przykojet, ażeć ni jeno, mojego i przyśredźca, ażże orozprześredźeżstwa, wszóżże, nikakóżże. Jesę sociecił wszoliż iz jich tegoci, jóżże wszóż nidobce, jenozaż. Oprzeczam was! Was, jeno! Oprzeczam ażebo Przepreżam! Dejejcie mnieżbo, że, sprzeokoidła, ażeć sczejejcieliż siebieżże, aboż sowielejcie miżże ku wamże, jenoż, sczeć. Jesę był pełżech w sobie wszóżże, a nużże sokec, jóż mniebo przecięża, a ku wozosąkojebie spoczeniech dojać, żebo widzę wyjejebę, wsząże, przejebedło!
