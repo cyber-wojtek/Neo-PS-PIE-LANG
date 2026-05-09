@@ -22,8 +22,6 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 
 ## Pobieranie z terminala
 
-## Pobieranie z terminala
-
 > `format=` może być jednym z:
 > `pdf`, `doc`, `docx`, `odt`, `rtf`, `txt`
 
