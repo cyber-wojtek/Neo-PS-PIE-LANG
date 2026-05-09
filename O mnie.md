@@ -10,7 +10,7 @@ Owo jesyszcze  kako schojnica niejaka dogrzebiaszeż mnieciż ku wszako nidobemu
 ### V
 Jeda jesę był sprzejewił wyjeidło, ażci nad moje wsze mnienia jużże jo jestżebo było, teda jesę był sjejach ku moim rodnikom aże przykrewnym, ażelibo przedo ji jesąt byli mnię sodemrzyli, ni chlący mnie, wodzący mnie ku mrzeniu mojego doba ku jim, niekakiemu sostałemu, a jesąt baczyli mnie aczym ku aczysku, jedaż ja ni możył temu odku onikim.
 ### VI
-Jesęż był rzeczech ku onim wszem, jakom jażeż rzeczech, ażci jesę był przeczejech uczyć siebie o jejże boleści a dłubostwa ku mojegóż średźca, jim siebie jesę jeseł samokerzył samo swoje średźce, iz nimożości wieczedwy. Jesę wjeił w jich włodzistwo, wszako. 
+Jesęż był rzeczech ku onim wszem, jako jesę jażeż był rzeczech, ażci jesę był przeczejech uczyć siebie o jejże boleści a dłubostwa ku mojegóż średźca, jim siebie jesę jeseł samokerzył samo swoje średźce, iz nimożości wieczedwy. Jesę wjeił w jich włodzistwo, wszako. 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jesąt oni wszy byli przejebywachą mojąże, mojążeżci średziównię, ku mojejże wszakiej kulącej o mnie nidobie, ażbo i ku mojegożeć oprzyboli, ja jimże jest dejełać pocierpku, niejako. Ja jesę jeseł przeczech ich o jenego, a przeokojstważ! Ja jesę był sprzeczał ku jim, owiący jich w oweżże sprzeczyny, jeż jesą były ku jich jeno, a wszako, jeno i samo jich scierpywały prze, bez jich oposąmnieja, a są skłujają moje mnienia.
 ### VII
