@@ -1,6 +1,6 @@
 # 1
 ### I
-Odęci jesąt odjeli prze — siejący, aboż mrzący — a niebnia jest domreżyła swójciż dziewień, sprzeciemiający wszo, samo, bezcelo. skec to jeda przystojet jo o średziu naju: ciężące, acze, ni miejące. Przedłubywali w naju mniedlie dębiej nad wszo ine, samo — drożący a goniący jen ku dwu, ni chlący ni mówiący o onym. Jo jesąt odprzekerzyli jest za wyręczą wszego mnidła — ni mogę skerznąć tego, jo jesąt wysdłubili. Bąt to doczejać — ścieżec ich bet ciążyć mi, ni scelony ni zmrzony wszo, budząco we mnie wszo nidobe, a ja odczeję jich.
+Odęci jesąt odjeli prze — siejący, aboż mrzący — a niebnia jest domreżyła swójciż dziewień, sprzeciemiający wszo, samo, bezcelo. skec to jeda przystojet jo o średziu naju: ciężące, acze, ni miejące. Przedłubywali w naju mniedlie dębiej nad wszo ine, samo — drożący a goniący jen ku dwu, ni chlący ni mówiący o tym. Jo jesąt odprzekerzyli jest za wyręczą wszego mnidła — ni mogę skerznąć tego, jo jesąt wysdłubili. Bąt to doczejać — ścieżec ich bet ciążyć mi, ni scelony ni zmrzony wszo, budząco we mnie wszo nidobe, a ja odczeję jich.
 ### II
 To, jo oni jesąt odczenieli we mnie jesasze niręczalne wszo. Jawić ni jesę możył, keda oni jesachą byli sprzekerzali moją mnię, jeda ni jesę był możył nikako przeodwieczyć jim. Jich wejena ku monie jesasze mi nad moje mniedło. Odcelywatże mnie to, samo, ni ino, a jo mi odwydejet koija mojego. Iz tegóż mówię: koń tegoć kulemienia boleni, bo przemniech tą merżynią! Wy sami merżejcie w swoich poczejeżach! Ja przyceliwiach siebie!
 ### III
