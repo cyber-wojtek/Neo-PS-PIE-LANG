@@ -1,4 +1,3 @@
-# 1
 ### I
 Odęci jesąt odjeli prze — siejący, aboż mrzący — a niebnia jest domreżyła swójciż dziewień, sprzeciemiający wszo, samo, bezcelo. skec to jeda przystojet jo o średziu naju: ciężące, acze, ni miejące. Przedłubywali w naju mniedlie dębiej nad wszo inakie, samo — drożący a goniący jen ku dwu, ni chlący ni mówiący o tym. Jo jesąt odprzekerzyli jest za wyręczą wszego mnidła — ni możę skerznąć tego, jo jesąt wysdłubili. Bąt to doczejać — ścieżec ich bet ciążyć mi, ni scelony ni zmrzony wszako, budząco we mnie wszo nidobe, a ja odczeję jich.
 ### II
