@@ -45,4 +45,24 @@ wget 'https://docs.google.com/document/export?format=pdf&id=1ojljRqEBe1l3oLhd8TQ
 wget 'https://docs.google.com/document/export?format=pdf&id=1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes' --retry-on-http-error=500 -O Przyrostki.pdf
 ```
 
+### TXT
+
+```bash
+wget 'https://docs.google.com/document/export?format=txt&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' --retry-on-http-error=500 -O Czasowniki.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas' --retry-on-http-error=500 -O Spojniki.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=18O8hLNg7t0Xr9IoqCS-XXN8IHakmAISckTYL9m7KLB0' --retry-on-http-error=500 -O Przedrostki.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1s3JmEY-QAqwX3PiRK8KtiXOYQgMO07XwxgBdwjjk44c' --retry-on-http-error=500 -O Przyimki-Partykuly.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1fbBSZv9ZEIb5vcVrwvwWcHxC9XmTPBtqGEjkzNQhAKI' --retry-on-http-error=500 -O Operatory.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1yXQViwNll5QWnrXa6zL6NQNk8gFiNuhcQ1GcSZDF1tE' --retry-on-http-error=500 -O Slowa.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y' --retry-on-http-error=500 -O Rzeczowniki.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4' --retry-on-http-error=500 -O Osoby.txt
+```
+
 ---
