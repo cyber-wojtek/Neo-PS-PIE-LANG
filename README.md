@@ -63,6 +63,8 @@ wget 'https://docs.google.com/document/export?format=txt&id=1yXQViwNll5QWnrXa6zL
 wget 'https://docs.google.com/document/export?format=txt&id=1KmHq9a2Ua-1weYb6oqhV7ANDUepMz2G8XeArYAumX9Y' --retry-on-http-error=500 -O Rzeczowniki.txt
 
 wget 'https://docs.google.com/document/export?format=txt&id=1ojljRqEBe1l3oLhd8TQYe9aqO-TCVcOPNU1xXgoQwa4' --retry-on-http-error=500 -O Osoby.txt
+
+wget 'https://docs.google.com/document/export?format=txt&id=1lCjF7ljRjHNukde3QC111dxsJCghXCfGdfrFqZUtzes' --retry-on-http-error=500 -O Przyrostki.txt
 ```
 
 ---
