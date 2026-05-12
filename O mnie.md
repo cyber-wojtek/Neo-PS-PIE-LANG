@@ -27,7 +27,7 @@ Dorozmowiam, przedorozmowiam ku wszymboż moim sprzejebieżnikom, jiżże jesąt
 ### XII
 Przeciężet mniezać wszo, joż w monie oni jesąt wopieliliboć, ażebo w monie rozowreżyli, jedaboć w monieżbo jesątci bylizaż przejebieliżeci. Wszedażbo są mną jest joć, wszakóż moimci omnidłem przekulącyż ku jimże oż jich wprzepieliżetwie. Przeowielamże sprzeokoidła, a jóż nijakoż ni przyjejateboć. Jesę był suczech siebie jichże ogoniającego sprzeokerzeżostwa ku mojegóż średźca, jimbóż nu siebie przepielający przerozwreżam siebie.
 ### XIII
-Ni omożywam koniowóż do nuż scierpiać jichże wszych, jizać mnie jeno oboczewiająt, a ni przejawiająt! Jich scierpieby jesąt ku mnież niomniłeż! Jiżbo wielątci, ażbo włodająt mi, jeda by siebie przejeżełcież i przewzstołza iz mojejbo nidobożoty, nażyćbo wszakiej, jeda by sprzekerznął joż wszakie, aże siebie przeomieł... Oprzeprzeczam, rozprzeprzeczambo jichże: dowzmożejejąt mi obierywać joż obrzeżemienie, je przeociężet mnie! Rozoprzeczamżeć! Dowzmożejejąt mi sprzeomić jóżbo, ku odobcemu! Samoż wszako jesę był owieczachboć - niko jest mnie ni pokoiło, aboćże jenoż jest mnie było przerozwoleło.  
+Ni omożywam koniowóż do nuż scierpiać jichże wszych, jizać mnie jeno oboczewiająt, a ni przejawiająt! Jich scierpieby jesąt ku mnież niomniłe! Jiżbo wielątci, ażbo włodająt mi, jeda by siebie przejeżełcież i przewzstołza iz mojejbo nidobożoty, nażyćbo wszakiej, jeda by sprzekerznął joż wszakie, aże siebie przeomieł... Oprzeprzeczam, rozprzeprzeczambo jichże: dowzmożejejąt mi obierywać joż obrzeżemienie, je przeociężet mnie! Rozoprzeczamżeć! Dowzmożejejąt mi sprzeomić jóżbo, ku odobcemu! Samoż wszako jesę był owieczachboć - niko jest mnie ni pokoiło, aboćże jenoż jest mnie było przerozwoleło.  
 
 
 
