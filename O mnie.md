@@ -7,7 +7,7 @@ Moje przewreże, jeżbo oni preżący sprzewydłubywachą, przecięża mnie, wsz
 ### IV
 Owo jesyszcze jako schojnica niekaka dogrzebiaszeż mnieciż ku wszako nidobemu jeseniu, a ja je mało możach odku jemu... Ja przeboliach od jich mniedli, jim oni mnie jesąt jeseli wreżeli, a ja, przeczący siebie, ni kojy, odmówiący ku jim, bezsąmnidłym, samo, jeno. Mówiach jimże, ali bewiejąt przekonili swe woły mnie, a mój śród doczenić radzićboż. Oni ni chlachą owego. Jeno, wszako, nad wszo inakie mażachą swoimi rzeczami w moimże średzie.
 ### V
-Jeda sprzejew wyjeidło, ażci nad moje wsze mnienia jużże jo jestżebo jeseło, jeda sjej ku moim rodnikom aże przykrewnym, ażelibo przedo ji jesąt jeseli mnię sodemrzeli sobie, ni chlący mnie, wodzący mnie ku mrzeniu mojego doba dla jich, niejakiemu sostałemu, a jesąt baczeli mnie aczym ku aczysku, jedaż ja ni możeł temu odku onikim.
+Jeda sprzejew wyjeidło, ażci nad moje wszakie mnienia jużże jo jestżebo jeseło, jeda sjej ku moim rodnikom aże przykrewnym, ażelibo przedo ji jesąt jeseli mię sodemrzeli sobie, ni chlący mnie, wodzący mnie ku mrzeniu mojego doba dla jich, niejakiemu sostałemu, a jesąt baczeli mnie aczym ku aczysku, jedaż ja ni możeł temu odku onim.
 ### VI
 Rzeczach ku onim wszem, kako jażeż rzeczach, ażci jesę jeseł przeczenił uczyć siebie o jejże boleści a dłubostwa ku mojegóż średźca, jim samoskerzach samo swoje średźce, iz nimożości wieczedwy. Jesę wjejeł w jich włodzistwo, wszako. 
 <br>
