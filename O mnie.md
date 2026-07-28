@@ -36,3 +36,5 @@ Jesę jeseł siebie przebudził. Mojaćbo przewydłubiżyna omerzywat mnie, wsza
 ## 2
 ### I
 Ciboć, jenacy odku onich, jesająt w swojemci nijawem omejeju, jiżbo ni osczująt mojej przewobschójnicy, jać prze mnie rozwreżat. Jićbo bezjawio ku mnie widząt, joż mnie siebie przeomerzywat. Bez swojego radziestwa przy mojemżećbo przeomnidle, jesaszę wodzony jichmi omnidłamiżżećbo, abo jicież odku mnie nidobe, ni odku celości mojej. Wpełżywajątżećbo we mnieżboć, ni znojący mojegóż średźca, ni ać mojegóżże obśredźca. Okecnąć jego wsze porozprzewreżemię, azaćbo porozprzewreżyskoć, jesasze jimżże nad jich izomnidła. Ażżeboć jich przewomnidła możachą, możachąboć jo sobjawić.
+### II
+Wszegocież oświetu, ażza wszegóżboć owmroku, jesach w onichem sprzerozobolopełżoskerzeniu, wszakożże, soprzewszakóżżeboć. Jóż mnieżżeci soprzeciężaszywa nadeż wszaką przemożeje obserzestwa mojegóżże sprzewomnidła. Sprzeobserzejcie mnieboć, a mnieżżećbo, sprzeobwserzejcie... Sorozprzeciężet mnie wszoż jo, a obmerzywaboż mnieci. Przeoprzeczywam eź, ku wam.
