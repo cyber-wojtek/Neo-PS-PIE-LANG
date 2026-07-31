@@ -1,0 +1,74 @@
+﻿PRZEDROSTKI
+
+
+w / we (*vъ(n) / *vъ / *vo)
+* znaczenie: „w, wewnątrz, do środka”
+* rekcja: miejscownik i biernik
+* użycie: także jako prefiks
+iz (*jьz / *iz)
+* znaczenie: „z, z wnętrza na zewnątrz”
+* rekcja: dopełniacz
+* użycie: także jako prefiks
+wy (*vy-)
+* znaczenie: „na zewnątrz
+* funkcja: prefiks kierunkowy („out”)
+wz / woz (*vъz / *uz)
+* znaczenie: „w górę, ponad”
+* rekcja: biernik
+* użycie: także jako prefiks
+u (*u)
+* znaczenie: „od, z dala od”
+* rekcja: dopełniacz
+* użycie: także jako prefiks
+od (*otъ)
+* znaczenie: „od, z dala od”
+* rekcja: dopełniacz
+do (*do)
+* znaczenie: „do, aż do”
+* rekcja: dopełniacz
+przy (*pri)
+* znaczenie: „przy, obok, przy czymś”
+* rekcja: głównie miejscownik
+na (*na)
+* znaczenie: „na”
+* rekcja: miejscownik albo biernik
+po (*po)
+* znaczenie: „po”
+* rekcja: miejscownik
+prze (*per)
+* znaczenie: „w przód; przez”
+pro (*pro)
+* znaczenie: „dla”
+* rekcja: biernik
+są / sun (*sъ(n))
+* znaczenie: „z, razem z”
+* rekcja: narzędnik
+bez (*bez(ъ))
+* znaczenie: „bez”
+* rekcja: dopełniacz
+o(b) (*o(b))
+* znaczenie: „wokół, o czymś”
+* rekcja: miejscownik albo biernik
+pod (*podъ)
+* znaczenie: „pod, niżej, poniżej”
+* rekcja:
+   * narzędnik — stan
+   * biernik — ruch ku czemuś
+* użycie: także jako prefiks
+za (*za)
+* znaczenie: „za, za czymś”
+* rekcja: narzędnik, biernik, dopełniacz zależnie od użycia
+* użycie: także jako prefiks
+roz / orz- (*orz-)
+* znaczenie: „roz-, oddzielnie, osobno, rozdzielnie”; w źródle: dis-, un-, apart
+niż (*nizъ)
+* znaczenie: „w dół, poniżej”
+* rekcja: biernik
+s (*sъ-)
+* znaczenie: prefiks typu „eu-”
+* dokładniej: „aktualność, prawdziwość, autentyczność”
+naj (*naji- / *najь-)
+* znaczenie: „naj-”
+* funkcja: prefiks superlatywny
+pra (pra-)
+* znaczenie: „pra-, najdawniejszy, pierwotny; wielki, starszy”

@@ -1,0 +1,39 @@
+﻿SPÓJNIKI
+
+i (*i)
+Znaczenie: „i”
+Funkcja: łączenie; dodanie
+
+
+a (*a)
+Znaczenie: „a / ale”
+Funkcja: kontrast; przejście
+
+
+ni (*ni < *ne)
+Znaczenie: „ani / ni”
+Funkcja: negatywne łączenie
+Uwaga: nie dokleja się do słów.
+
+
+bo (*bo)
+Znaczenie: „na pewno, dlatego”
+Funkcja: wzmocnienie, wskazanie
+
+
+li (*li)
+Znaczenie: „czy”
+Funkcja: pytanie; warunkowość
+
+
+że (*že)
+Znaczenie: „że”
+Funkcja: wprowadzenie zdania podrzędnego, wzmocnienie
+
+
+czy (*če < PIE *kʷo-)
+Znaczenie: „co / który / czy”
+Funkcja: operator nieokreślonego wyboru, nieokreślony pytajnik
+
+Uwagi ogólne:
+Niektóre spójniki mogą funkcjonować jako enklityki (mogą się doklejać do słów).

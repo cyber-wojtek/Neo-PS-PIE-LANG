@@ -1,0 +1,254 @@
+﻿OPERATORY
+
+
+
+
+Przegląd operatorów
+Operator
+	Funkcja
+	Przykłady pol.
+	K-
+	pytajny
+	kto, gdzie, kiedy
+	J-
+	względny / anaforyczny
+	jego, jej
+	T-
+	wskazanie bliskie
+	ten, tu, teraz
+	IN-
+	alternatywa / inność
+	inny, inaczej
+	OW-
+	wskazanie pośrednie / anafor.
+	ów, owędy
+	ON-
+	wskazanie dalekie / os. trzecie
+	on, ona
+	WSZ-
+	wskazanie wszystkich opcji
+	wszystko, wszelakie
+	
+
+
+
+Końcówki funkcjonalne
+Końcówka
+	Kategoria
+	Znaczenie
+	-u/a/o
+	zaimek
+	to/ten/ta
+	-ako
+	przysłówek sposobu
+	tak 
+	-aki/-aka/-akie
+	przymiotnik jakości
+	taki
+	-ęda
+	przysłówek drogi
+	tędy
+	-eda
+	przysłówek czasu
+	wtedy
+	-ede
+	przysłówek miejsca
+	tam
+	-mo
+	przysłówek miejsca (deiktyczny kierunkowy)
+	kierunek / cel przestrzenny, tam *
+	-le
+	przysłówek ilości
+	tyle
+	
+
+▶ * łączy się również z rdzeniami czasowników; np. mimo - minąć + mo → zmienione miejsce; (→ zmienić miejsce → ominąć)
+K- — pytajny
+Pyta o tożsamość, jakość, drogę, czas lub ilość nieznanego.
+
+
+Forma
+	Znaczenie
+	ku/ka/ko
+	które / który / która
+	kako
+	jak? / w jaki sposób?
+	kaki/kaka/kakie
+	jaki? jaka? jakie?
+	kęda
+	którędy? / w ktorą strone?
+	keda
+	kiedy? / w której porze?
+	kede
+	które/jakie miejsce?
+	kamo
+	dokąd?
+	kele
+	ile?
+	
+
+▶ nie- i ni- to przedrostki doklejane do form K-, które przesuwają ich wartość logiczną:
+* nie- + forma K- = nieokreśloność: (n.pol) niekiedy, niegdyś
+* ni- + forma K- = negacja: (n.pol) nikt, nigdy, nigdzie, nijak
+ tylko K- przyjmuje te przedrostki.
+
+
+J- — względny / anaforyczny
+Łączy zdania (= 'który') i wskazuje na kogoś/coś już wprowadzonego do rozmowy. W mianowniku wyparty przez ON-, ale przeżył we wszystkich przypadkach zależnych nowopolskich: jego, jej, im, ich.
+
+
+Forma
+	Znaczenie
+	ju/ja/jo
+	to, co / ta, która / ten, który
+	jako
+	tak jak / w jaki sposób
+	jaki/jaka/jakie
+	takl, który / taka, która / takie, które
+	jęda
+	tą drogą, która / którędy
+	jeda
+	wtedy, gdy / w tym czasie, gdy
+	jede
+	tutaj, gdzie / to miejsce, w którym
+	jamo
+	dotąd, dokąd
+	jele
+	tyle, ile
+	
+
+
+
+T- — wskazanie bliskie
+Wskazuje na coś bliskiego mówiącemu — w przestrzeni, czasie lub rozmowie. Najczęstszy operator wskazujący.
+
+
+Forma
+	Znaczenie
+	tu/ta/to
+	to / ta / ten
+	tako
+	tak / w ten sposób
+	taki/taka/takie
+	taki / taka / takie
+	tęda
+	tędy / tą drogą
+	teda
+	wtedy / w tej porze
+	tede
+	tutaj / to miejsce
+	tamo
+	ku temu miejscu / tam
+	tole
+	tyle
+	
+
+
+
+JEN- — alternatywa / inność
+Wskazuje na obiekt różny od aktualnie omawianego. Nie neguje — wskazuje na inny wybór z dostępnego zbioru.
+
+
+Forma
+	Znaczenie
+	jen/jena/jeno
+	inne / inna / inny
+	jenako
+	inaczej / w inny sposób
+	jenaki/jenaka/jenakie
+	inny / inna / inne - taki
+	jenęda
+	inna droga / w innym kierunku
+	jeneda
+	w innym czasie / kiedy indziej
+	jenede
+	inne miejsce / gdzieś indziej
+	jenamo
+	ku czemu innemu / gdzieś indziej
+	jenele
+	inna ilość
+	
+
+▶ Jen- jako samodzielny rdzeń: (Jen ~> in) Inowroclaw = 'inny Wroclaw' (założony obok starszej osady).
+
+
+
+
+OW- — wskazanie pośrednie / anaforyczne
+Wskazuje na coś widzianego lecz oddalonego od mówiącego, lub na cos juz wymienionego w rozmowie. Dystans pośredni między T- a ON-. W polszczyźnie przeżył jako ow (archaiczny) i w parze tędy i owędy.
+
+
+Forma
+	Znaczenie
+	ów/owa/owo
+	owo / ów / owa
+	owako
+	w ów sposób / tak jak tamto
+	owaki/owaka/owakie
+	ów / owa / owo - taki
+	owęda
+	tamtędy / ta druga droga
+	oweda
+	w owym czasie / wtedy (o czym mowa)
+	owede
+	w owym miejscu
+	owamo
+	ku owemu miejscu / tam
+	owele
+	owa ilość
+	
+
+
+
+ON- — wskazanie dalekie / osoby trzecie
+Wskazuje na coś poza zasięgiem obu rozmówców — fizycznie daleko lub całkowicie poza rozmowa. Ewoluował w zaimki osobowe trzeciej osoby (on, ona, ono, oni, one), wypierając J- z mianownika.
+
+
+Forma
+	Znaczenie
+	on/ona/ono
+	tamto / tamten / tamta
+	onako
+	w tamten sposób / inaczej niż tu
+	onaki/onaka/onakie
+	taki, jak tamten / taka, jak tamta / takie, jak tamto
+	onęda
+	tamtędy (> owędy przez zlanie z OW-)
+	oneda
+	w tamtym czasie → onegdaj (przedwczoraj)
+	onede
+	w tamtym miejscu
+	onamo
+	ku tamtemu miejscu
+	onele
+	tamta ilość
+	
+
+▶ Przypadki zależne (jego, jej, im, ich) to nadal operator J— — odmiana 'on' jest złożona z dwóch różnych operatorów.
+
+
+WSZ- — totalność / wszystko
+Wskazuje na pełny zbiór bez wyjątków. Przeciwieństwo JEN- (inność) i operator zamykający skalę: jeśli T- to jedno miejsce, a ON- to dalekie miejsce, WSZ- to wszystkie miejsca naraz.
+
+
+Forma
+	Znaczenie
+	wszu/wsza/wszo
+	wszystko / wszystkie / wszyscy / wszelki
+	wszako
+	wszelako / w każdy sposób
+	wszaki/wszaka/wszakie
+	wszelaki / wszelaka / wszelakie - taki
+	wszęda
+	wszędy / każdą droga
+	wszeda
+	zawsze / w każdym czasie
+	wszede
+	wszędzie / każde miejsce
+	wszamo
+	ku wszystkim miejscom / wszędzie / do wszystkich miejsc
+	wszele
+	wszystka ilość
+	
+
+▶ Psł. *vьśь — pokrewne z lit. vìsas (cały, wszelki) i sanskr. viśva- (wszystek, cały świat). Sufiks -ako/-aki tworzy tu *vьśakъ (wszelaki) — potwierdzony w psł.

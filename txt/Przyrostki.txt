@@ -1,0 +1,1031 @@
+﻿🔷 PRZYROSTKI 
+I. PRZYROSTKI TWORZĄCE PRZYMIOTNIKI
+-y / -i
+Funkcja: adiektywizacja rdzenia (cecha wynikająca z bazy leksykalnej)
+Znaczenie: “taki, który posiada cechę X / jest związany z X"
+Typ: denominalny, deverbatywy
+Produktywność: bardzo wysoka — rdzeń każdego przymiotnika prymarnego
+Przykłady:
+* biały → “mający cechę bieli" (psł. *bělъ)
+* zły → “mający cechę zła / będący złym" (psł. *zьlъ)
+* nowy → “mający cechę nowości" (psł. *novъ)
+* młody → “mający cechę młodości" (psł. *moldъ)
+________________
+
+
+-ki / -oki / -eki / -aki
+Funkcja: tworzenie cechy wyodrębnionej z rdzenia, często z odcieniem intensywności lub kierunkowości
+Znaczenie: “posiadający cechę X w sposób określony / uchwytny"
+Typ: denominalny
+Przykłady:
+* miękki → “mający miękkość" (psł. *mękъkъ)
+* gładki → “mający gładkość" (psł. *gladъkъ)
+* rzadki → “mający rzadkość" (psł. *rědъkъ)
+* słodki → “mający słodkość" (psł. *sladъkъ)
+* głęboki → “sięgający w głąb" (psł. *golbokъ)
+* szeroki → “rozciągający się wszerz" (psł. *širokъ)
+* wysoki → “sięgający ku górze" (psł. *vysokъ)
+________________
+
+
+-ow-
+Funkcja: relacja / przynależność / pochodność; tworzenie przymiotników relacyjnych
+Znaczenie: “należący do X, przynależny do X, spadkobierca X"
+Typ: denominalny — od rzeczowników
+Przykłady:
+* rodowy → “związany z rodem"
+* Ivanow (ros.) → “należący do Ivana"
+* dębowy → “związany z dębem / zrobiony z dębu"
+* stalowy → “wykonany ze stali"
+* domowy → “związany z domem"
+________________
+
+
+-n- 
+Funkcja: materiałowość / źródłowość / związanie 
+Znaczenie: “wykonany z X / dotyczący X"
+Typ: denominalny i deverbatywy
+Przykłady rzeczownikowe (denominalny):
+* ziemny → “z ziemi / ziemisty" (ziemia + -n-)
+* smutny → “napełniony smutkiem"
+* wiosenny → “dotyczący wiosny"
+* letni → “dotyczący lata"
+* nocny → “dotyczący nocy"
+Przykłady czasownikowe (deverbatywy):
+* wolny → “ten, kto może woleć / nie jest przywiązany" (< vol- + -n-)
+* ważny → “mający wagę / ciężar decyzyjny"
+* ważny → “ważący się; dotyczący wagi"
+* czytelny → “nadający się do czytania" (czyt- + -el-n-)
+________________
+
+
+-ist- / -yst- / -ast- 
+Funkcja: intensyfikacja cechy / obfitość / podobieństwo do X
+Znaczenie: “obfitujący w X / pełen X / mający wiele X / podobny do X"
+Typ: denominalny
+Geneza: psł. *-istъ / *-astъ; paralele w łacinie *-ōsus (np. gloriosus, copiosus — nie *-ostus, które nie istnieje) i germańskim *-iska- (niem. -isch, ang. -ish); spokrewniony też z gr. -ίσκος
+Przykłady:
+* piaszczysty → “pełen piasku"
+* krzaczasty → “pełen krzaków"
+* mglisty → “pełen mgły"
+* skalisty → “pełen skał / jak skała"
+* ziarnisty → “mający ziarna / pełen ziaren"
+* liściasty → “mający dużo liści"
+* kudłaty → “mający kudły"
+* rogaty → “mający rogi"
+* brodaty → “mający brodę"
+________________
+
+
+-sk-
+Funkcja: przynależność do grupy, miejsca, narodu, osoby, zawodu
+Znaczenie: “należący do X / będący z X / właściwy dla X"
+Typ: denominalny
+Geneza: psł. *-ьskъ, jedno z najproduktywniejszych
+Przykłady:
+* polski → “z Polski / dotyczący Polaków"
+* krakowski → “z Krakowa"
+* rycerski → “należący do rycerza / jak rycerz"
+* wiejski → “dotyczący wsi"
+* morski → “dotyczący morza"
+* ludzki → “dotyczący ludzi"
+* Bożyński, Kowalski → (nazwiska) “należący do Boga / kowala"
+________________
+
+
+-liw-
+Funkcja: skłonność / skłonność do czynności, gotowość do przejawu cechy
+Znaczenie: “mający skłonność do X / skłonny do X"
+Typ: deverbatywy (od czasownika)
+Geneza: psł. *-livъ
+Przykłady:
+* drażliwy → “łatwy do zdrażnienia"
+* łagodliwy → “mający skłonność do łagodności"
+* pojętliwy → “łatwo pojmujący"
+* zapalczywy → “skłonny do zapalania się / gniewu"
+* troskliwy → “pełen troski"
+-owat- 
+Funkcja: podobieństwo osłabione / niepełne posiadanie cechy
+Znaczenie: “podobny do X / trochę jak X / mający coś z X"
+Typ: denominalny
+Przykłady:
+* brodawkowaty → “podobny do brodawki w kształcie"
+________________
+
+
+-awy (psł. *-avъ ← PIE -owos) 
+Funkcja: przymiotnik naturalnej skłonności / zabarwienia / przynależności 
+Znaczenie: "mający naturalną właściwość X / zabarwiony X / skłonny do X z natury" 
+Typ: denominalny
+Geneza: psł. -avъ ← PIE -owos — ablautowy wariant tego samego morfemu co -ovъ (-owy); podczas gdy -owy wyraża relację do X (dębowy, złoty), -awy wyraża naturalne zabarwienie lub skłonność — coś wrodzonego, nie przypisanego Uwaga: nie mylić z -owat- — -owat- = "trochę podobny do X" (brodawkowaty), -awy = "mający naturalną właściwość X" (krwawy, łaskawy); granica płynna, ale -awy silniejsze i bardziej konstytutywne 
+Przykłady:
+* krwawy → "mający krew / naznaczony krwią" (krew + -awy)
+* łaskawy → "mający łaskę / z natury łaskawy" (łaska + -awy)
+* ciekawy → "mający ciekawość / płynący ciekiem zainteresowania" (ciek- + -awy)
+* głodnawy (dial.) → "trochę głodny" — tu granica z -owat-
+* brudnawy → "mający brud / trochę brudny"
+________________
+
+
+-al-n- / -el-n- 
+Funkcja: możliwość / zdolność / przeznaczenie
+Znaczenie: “mogący być X-owany / zdolny do X / dotyczący X"
+Typ: deverbatywy
+Przykłady:
+* czyteln-y → “mogący być czytanym"
+* widzialny → “mogący być widzianym"
+* słyszalny → “mogący być słyszanym"
+* palny → “zdolny do palenia się"
+* zmywalny → “dający się zmyć"
+* dostosowalny → “dający się dostosować"
+________________
+
+
+-czy (psł. *-čьjь ← PIE -kyo-) 
+Funkcja: przymiotnik przynależności do dziedziny / roli agentywnej 
+Znaczenie: "właściwy dla X / należący do dziedziny X / typowy dla roli X" 
+Typ: denominalny (od nomina agentis na -nik, -acz, -ca) 
+Geneza: psł. *-čьjь — złożenie -čь (palatalizacja z -kъ) + -jь (przymiotnikowy formant przynależności); tworzy przymiotniki drugiego rzędu — od rzeczownika agentywnego, nie bezpośrednio od rdzenia 
+Uwaga: semantycznie bliski -sk- (robotniczy ≈ robotnicki), ale -sk- wskazuje przynależność do grupy/miejsca, -czy wskazuje przynależność do dziedziny lub funkcji
+Przykłady:
+* twórczy → "właściwy twórcy / należący do dziedziny tworzenia" (twórca + -czy)
+* pomocniczy → "właściwy pomocy / pomocnikowi" (pomocnik + -czy)
+* robotniczy → "właściwy robotnikowi / klasie robotniczej" (robotnik + -czy)
+* sądowniczy → "właściwy dziedzinie sądownictwa" (sądownik + -czy)
+* wykonawczy → "właściwy wykonawcy" (wykonawca + -czy)
+* ustawodawczy → "właściwy ustawodawcy" (ustawodawca + -czy)
+________________
+
+
+-ły (psł. -lъ)
+Funkcja: nomen resultativum — ten/to który wykonał czynność i nosi jej rezultat w sobie
+Znaczenie: “ten, który X-ał i jest tym naznaczony / ten w którym czynność trwa jako stan"
+Typ: deverbatywy
+Geneza: psł. -lъ ← PIE -lo- — ten sam element który dał słowiański czas przeszły (robił, szedł, niósł). Nie przypadek — to ta sama morfema, tylko w jednym przypadku tworzy formę czasownikową, w drugim rzeczownik/przymiotnik.
+Przykłady:
+* zgniły → “ten który zgnił i jest tym stanem"
+* uschły → “ten który usechł"
+* dojrzały → “ten który dojrzał i jest tym naznaczony"
+* dorosły → “ten który dorósł — i jest tym na stałe"
+* ogłupiały → “ten który ogłupiał"
+* oniemiały → “ten który oniemiał"
+
+________________
+
+
+-ny / -ony / -ty (psł. *-nъ / -enъ / -tъ)
+Funkcja: participium passivi — imiesłów bierny / przymiotnik rezultatywny
+Znaczenie: "ten, któremu wykonano czynność X / będący w stanie po wykonaniu X / naznaczony przez X"
+Typ: deverbatywy (od tematu czasownika)
+Geneza: PIE *-no- / *-to- — dwa odrębne sufiksy PIE które w psł. rozwinęły się w komplementarną dystrybucję:
+   * *-no- (→ psł. *-nъ) 
+   * *-to- (→ psł. *-tъ) — łączył się z krótkimi rdzeniami werbalnymi, często jednosylabowymi
+Przykłady:
+   * robiony → "ten, którego ktoś robi"
+   * mazany → "ten, którego ktoś maże"
+   * szyty → "ten, którego ktoś szyje"
+   * cięty → "ten, którego ktoś tnie"
+   * dany → "ten, którego ktoś daje"
+   * rodzony → "ten, którego ktoś rodzi"
+Uwaga: morfologicznie spokrewniony z -ły (psł. -lъ) — oba tworzą rezultatywy, ale:
+   * -ły = rezultat aktywny ("ten który X-ał i nosi to w sobie")
+   * -ny/-ty = rezultat bierny ("ten któremu X-ano")
+________________
+
+
+II. PRZYROSTKI TWORZĄCE RZECZOWNIKI
+A. Kategoria sprawcy / wykonawcy / nosiciela cechy
+-nik / -nik- / -nica / -nica-
+Funkcja: nomen agentis — wykonawca, nosiciel, ten związany z czymś
+Znaczenie: “ten, kto X / ten, który zajmuje się X / ten, który posiada X"
+Typ: denominalny
+Geneza: psł. *-nikъ
+Przykłady:
+   * ogrodnik → “ten, kto zajmuje się ogrodem"
+   * strażnik → “ten, kto strzeże"
+   * dwornik → “ten, kto obsługuje dwór"
+   * robotnik → “ten, kto wykonuje robotę"
+   * lotnik → “ten, kto obsługuje lot" (lotnik)
+   * prawnik → “ten, kto zajmuje się prawem"
+________________
+
+
+-acz / -ącz
+Funkcja: nomen agentis — wykonawca czynności (od czasownika)
+Znaczenie: “ten, kto wykonuje czynność X"
+Typ: deverbatywy
+Geneza: psł. *-ačь
+Przykłady:
+   * palacz → “ten, kto pali"
+   * biegacz → “ten, kto biega"
+   * pływacz → “ten, kto pływa"
+   * strzelacz → “ten, kto strzela"
+   * śpiewak → “ten, kto śpiewa"
+   * kopacz → “ten, kto kopie"
+   * kreślarz / kreślacz → “ten, kto kreśli"
+________________
+
+
+-arz / -erz
+Funkcja: nomen agentis — wykonawca zawodu / rzemieślnik
+Znaczenie: “ten, kto zawodowo zajmuje się X / wyrabia X"
+Typ: denominalny i deverbatywy
+Geneza: psł. *-arjь, pożyczka z łaciny -ārius przez germański -āri
+Przykłady:
+   * lekarz → “ten, kto zajmuje się leczeniem" (lek + -arz)
+   * kucharz → “ten, kto gotuje" (kucha- + -arz)
+   * malarz → “ten, kto maluje"
+   * stolarz → “ten, kto robi stoły / meble"
+   * murarz → “ten, kto muruje"
+   * garncarz → “ten, kto robi garnki"
+   * kowal (< *kov-alь) → “ten, kto kuje" (wariant -al-)
+-ca / -wca 
+Funkcja: nomen agentis — sprawca / ten, kto wykonuje czynność
+Znaczenie: “ten, kto dokonuje X"
+Typ: deverbatywy (od form bezokolicznikowych)
+Geneza: psł. *-ьca / *-vьca
+Przykłady:
+   * śpiewca → “ten, kto śpiewa"
+   * twórca → “ten, kto tworzy"
+   * odbiorca → “ten, kto odbiera"
+   * dawca → “ten, kto daje"
+   * dawca → “ten, kto daje"
+   * zbawca → “ten, kto zbawia"
+________________
+
+
+-tel / -iciel / -yciel / -aciel
+Funkcja: nomen agentis — wykonawca czynności, często o wyższej godności lub trwałości
+Znaczenie: “ten, kto X (zawodowo / trwale / z godnością)"
+Typ: deverbatywy
+Geneza: psł. *-telь — pie. *-tēl
+Przykłady:
+   * nauczyciel → “ten, kto naucza"
+   * modliciel → “ten, kto modli się / wstawia"
+   * wybawiciel → “ten, kto wybawia"
+   * pocieszyciel → “ten, kto pociesza"
+________________
+
+
+-k / -ak / -ek / -ik / -ece / -ec / -iec / -ce + żeńskie: -ka / -aca / -eca /  -ica /  -ce (psł. *-kъ / *-ьkъ / *-ikъ / *-akъ / *-ъkъ ← pbsł. *-kas ← PIE *-(H)kos / *-ḱos)
+Funkcja: zdrobnienie / indywidualizacja / egzemplarz / nosiciel cechy / nomen iuvenile / feminatyw 
+Znaczenie: "mały X / jeden egzemplarz X / młody X / ten którego definiuje X / żeńska wersja X / to co powstało przez X" 
+Typ: denominalny, deverbatywy, deadiektywny Geneza: PIE *-(H)kos / *-ḱos — jeden morfem w ablautowych wariantach, które w słowiańskim wyspecjalizowały się semantycznie i fonologicznie:
+wariant
+	wokalizam PIE
+	psł.
+	nisza semantyczna
+	   -k / -ek
+	zero/e-grade -kos
+	-ъkъ / -ьkъ
+	zdrobnienie przez zmniejszenie
+	-ik
+	i-grade -ikos
+	-ikъ
+	zdrobnienie przez funkcję / przynależność
+	-ak
+	a/o-grade -akos
+	-akъ
+	nosiciel cechy konstytutywnej / młodość
+	-ec / -iec
+	e-grade + palatalizacja
+	-ьcь
+	egzemplarz / osoba / mały przedstawiciel gatunku
+	-ce / -ece
+	po spółgłosce miękkiej
+	-ьce
+	zdrobnienie nijakie
+	Przykłady (-ek):
+   * domek → "mały dom"
+   * kotek → "mały kot"
+   * orzeszek → "mały orzech"
+   * woreczek → "mały worek"
+Przykłady (-ik):
+   * stolik → "mały stół"
+Przykłady (-ak, nosiciel cechy):
+   * rybak → "ten którego domeną jest ryba"
+   * biedak → "ten którego definiuje bieda"
+   * strażak → "ten którego rolą jest straż"
+   * prostak → "ten który jest prosty"
+   * chłopak → "mały chłop / młody mężczyzna"
+Przykłady (-ak, nomen iuvenile):
+   * szczeniak → "młody pies"
+   * źrebak → "młody koń"
+   * cielak → "młode cielę"
+   * dzieciak → "małe dziecko"
+Uwaga: -ak jako nomen iuvenile konkuruje z -ię / -ęt-, ale z odcieniem potocznym i często odnosi się do osobnika już trochę podrosłego (szczeniak ≠ noworodek). -ę jest morfologicznie neutralne i prymarnie młode, -ak afektywne.
+Przykłady (-ec / -iec):
+   * chłopiec → "mały chłop"
+   * starzec → "ten który jest stary"
+   * cudzoziemiec → "ten z cudzej ziemi"
+   * rybiec → "mały gatunek ryby"
+Przykłady (-ce / -ece):
+   * serce → "mały środek"
+   * słońce → "małe słońce"
+   * jajce (dial.) → "małe jajo"
+Przykłady (wynik czynności):
+   * znakъ → znak ("to co zostało poznane")
+   * zvǫkъ → dźwięk ("to co zabrzmiało")
+   * borkъ → wybór ("to co zostało wzięte")
+________________
+
+
+-yni
+Funkcja:
+   * femininatyw / personifikator żeński
+   * tworzy:
+   * żeńskie odpowiedniki nazw osób
+   * nazwy nosicielek cechy / funkcji
+Znaczenie: „kobieta / żeński nosiciel X / ta, która jest X / ta od X”
+Geneza:
+   * PSł. **-yni / -ynja (rozszerzenie na bazie *-in- + sufiksu żeńskiego)
+Typ:
+   * deadiektywny
+   * denominalny
+   * feminatywny
+Przykłady:
+   * gospodyni → „kobieta od gospodarstwa”
+   * bogini → „żeńska istota boska”
+________________
+
+
+-ec
+Funkcja: nomen agentis / nomen patientis / nomen rei — wykonawca lub przedmiot
+Znaczenie: “ten, kto X / ten, który pochodzi z X / ten, który posiada cechę X"
+Typ: denominalny i deverbatywy
+Geneza: psł. *-ьcь
+Przykłady (osoby):
+   * żołnierz (niem. pożyczka) / wojowiec → “ten, kto walczy"
+   * starzec → “ten, kto jest stary / starszy"
+   * nędzniec → “ten, kto jest nędzny"
+   * szlachcic → “ten, co jest szlachty"
+   * cudzoziemiec → “ten, kto jest z cudzej ziemi"
+Przykłady (rzeczy):
+   * rybiec → “mały gatunek ryby"
+   * chłopiec → “mały chłop"
+________________
+
+
+-cierz/-torz/-cier (← PIE -tḗr/-tōr) [~]
+Funkcja: archaiczny formant nominalny o pierwotnie agentywno-funkcyjnym charakterze (tworzący rzeczowniki oznaczające wykonawcę czynności, uczestnika lub nosiciela relacji/funkcji związanej z rdzeniem)
+
+
+Znaczenie: “ten, który wykonuje czynność X / pełni funkcję X / jest związany rolą X wyrażoną przez rdzeń”
+
+
+Typ: odziedziczony morfem PIE; w prasłowiańszczyźnie nieproduktywny ale utrzymujący się, zachowany w leksykalizacjach (zwłaszcza terminach pokrewieństwa i archaizmach), zastępowany później przez produktywne formanty słowiańskie (-nikъ, -telь, -ačь itd.). wyłącznie odrdzeniowy (bo jaki inny?)
+
+
+Geneza: PIE -tḗr (w systemie atematycznych formacji rzeczownikowych; pierwotnie silnie związany z tworzeniem nazw ról i pokrewieństwa, częściowo agentywny, częściowo relacyjny; brak pełnej produktywności już w późnej warstwie PIE)
+
+
+Przykłady (rekonstruowane):
+   * pacierz → “ten, kto chroni" (*pH₂tḗr), agent od *peh₂- “chronić"  ~ agent od *pa-pa “papa”, zduplikowanego *pa. (żeby się nie zmylić - npol. “pacierz" pochodzi od łac. “pater”, nie bezpośrednio od PIE.)
+   * macierz → “matka" (*méh₂tēr), agent od *méh₂-meh₂, “mama”, zduplikowanego *méh₂.
+   * bracierz → “brat" ( *bʰréh₂tēr), agent należący do tej samej “fratrji”, organizacji pierwotnej (?)
+   * dukcierz → “córka" (*dʰugh₂tḗr) — wewnętrzna etymologia niejasna i sporna. Dawna hipoteza o związku z rdzeniem *dʰewgʰ- “doić, produkować mleko" jest współcześnie odrzucana: oba rdzenie różnią się fonologicznie (*dʰewgʰ- ma dwie dźwięczne aspirowane, *dʰugh₂- tylko jedną, wtórną przez wpływ laryngalnego h₂), co wyklucza bezpośredni związek (Language Log, Hackstein 2002). Słowo jest jednym z najlepiej poświadczonych terminów pokrewieństwa PIE — kognaty w anatolijskim, greckim, indo-irańskim, bałtosłowiańskim — ale jego wewnętrzna motywacja pozostaje niepewna.
+   * ahcierz  -> “ten, kto jest gorący, suchy" (*h₂eh₁ter), agent od *h₂eh₁- “być gorącym, suchym”
+   * gencierz -> “ten kto produkuje, rodzi, (sprawia, że ktoś się staje jakiś)" (*ǵénh₁tōr), agent od  *ǵenh₁- “produkować, rodzić”
+________________
+
+
+-dło / -tła / -sło / -sła / -śle / -tro / -tlo   (← PIE *-tro- / *-tlo-)
+
+
+Funkcja: archaiczny formant nominalny o charakterze instrumentalnym (tworzący rzeczowniki oznaczające narzędzie czynności).
+
+
+Znaczenie: “to, czym się wykonuje czynność X / to, co służy do X / mechanizm związany z rdzeniem X" (w przeciwieństwie do -tḗr, który wskazuje na osobę, ten formant wskazuje na przedmiot/narzędzie).
+
+
+Typ: odziedziczony morfem PIE; w języku polskim i słowiańskim bardzo produktywny w formie -dło (powstałej przez udźwięcznienie t przed l), rzadziej zachowany jako archaiczne -tro.
+
+
+Geneza: PIE *-tro- / *-tlo-; systemowy odpowiednik formantu agentywnego -tḗr. Służył do uprzedmiotowienia czynności. W łacinie dał -trum (aratrum), w grece -tron (theatron).
+
+
+Przykłady (narzędzia/środki):
+   * wiatr → (*u̯ē-tro-) “to, co wieje" / “narzędzie wiania" (natura jako mechanizm).
+   * żądło → (*źęd-dlo) “to, czym się żga / kłuje”.
+   * szydło → (*šy-dlo) “to, czym się szyje”.
+   * sidło → (*sě-dlo) “to, co służy do siadania (chwytania)" lub od osaczania.
+   * mydło → (*my-dlo) “to, co służy do mycia”.
+   * radło → (*ordlo) “to, czym się orze”.
+   * ciosła → (*tes-sla) “to, czym się cieśli"
+
+
+Przykłady (miejsca/wyniki)
+   * piętro → (*pęt-tro) pierwotnie “stopień" lub “to, po czym się pnie (wspina)”.
+   * gardło → (*gьr-dlo) “to, czym się pożera / graba”.
+   * siodło → (*sed-lo) “to, na czym się siedzi”.
+   * źródło → (*žer-dlo) “to, co wrze / wytryska”.
+________________
+
+
+-uń / -un (psł. *-unь)
+Funkcja: nomen agentis / hypocoristica — nosiciel cechy, często z odcieniem pieszczotliwym, żartobliwym (~ -uń) albo pejoratywnym (~ -un).
+Znaczenie: “ten, który ma cechę X / ten, który wykonuje X (z odcieniem afektywnym)"
+Typ: denominalny i deadiektywny
+Geneza: psł. *-unь — prawdopodobnie z PIE *-un- (element sufiksalny obecny w wielu IE); w słowiańskim rozwinął się w kierunku hipokorystycznym
+Przykłady:
+   * śpiun → “ten, co śpi"
+   * gaduń → “ten, co gada"
+   * złodun (dial.) → “ten, co źle postępuje"
+   * ćpun → “ten, co ćpa"
+   * biegun → “ten, co biega / biegun jako punkt ruchu"
+   * pływun → “ten, co pływa"
+________________
+
+
+-taj/-otaj/-ataj (psł. *-tajь ← bsł. *-tājas ← PIE *-teh₂-i̯o-s) {https://journals.akademicka.pl/lv/article/download/420/3966/5964}
+Funkcja: nomen agentis — wykonawca czynności jako stały, powtarzający się jej podmiot
+Znaczenie: “ten, który X-uje często / stale / nałogowo" — nosiciel roli
+Typ: odrdzeniowy (deverbatywy)
+Geneza: PIE *-teh₂- → pierwotnie sufiks iteratywno-frekwentatywny czasowników ("robić coś często / stale"); przeniesiony do nomina agentis, gdzie zachował odcień habitualności; wzmocniony o *-i̯o- w bałtosłowiańskim (bsł. *-tājas); w słowiańskim uproszczony do *-tajь. Paralele: lit. -tojas, łot. -tājs, stprus. -tōjs, gr. -τᾱς, toch. B -tau; rzadko występujący
+Przykłady bałtyckie:
+   * lit. rašýtojas → “pisarz" (: rašýti “pisać")
+   * lit. ganýtojas → “pasterz" (: ganýti “paść")
+   * lit. mókytojas → “nauczyciel" (: mókyti “uczyć")
+   * lit. ieškótojas → “poszukiwacz" (: ieškóti “szukać")
+   * lit. tárdytojas → “sędzia śledczy" (: tárdyti “badać")
+   * łot. dziêdâtãjs → “śpiewak" (: dziêdât “śpiewać")
+Zachowane wyrazy słowiańskie:
+   * rataj → “ten, który stale orze" (← *or- “orać")
+   * szataj → “ten, który zajmuje się szatą" (← *šat-)
+   * hultaj → “ten, który się włóczy" (← ukr. гультяй)
+   * vozataj (cz. przestarz.) → “woźnica" (← *voz- “wozić")
+________________
+
+
+-ię / -ę (psł. *-ę, temat *-ęt-)
+Funkcja: nomen iuvenile — nazwa młodego / małego istnienia
+Znaczenie: "młody X / mały X / to, które dopiero jest"
+Typ: denominalny (od ~nazwy gatunku)
+Geneza: PIE *-ent- → psł. *-ęt- (przez nosówkę)
+Przykłady:
+   * jagnię
+   * źrebię
+   * kocię
+   * cielę
+   * prosię
+   * pisklę
+B. Kategoria abstrakcji / stanu / jakości
+-ość / -esc (psł. *-ostь)
+Funkcja: reifikacja cechy / abstrakcja jakości przymiotnikowej 
+Znaczenie: “stan bycia X / cecha X / właściwość X" 
+Typ: deadiektywny (od przymiotnika) 
+Geneza: psł. *-ostь ← prabałtosłowiański *-astis ← PIE *-Hostis (z laryngalnym; kognata: lit. -astis). Istnieje kilka hipotez o genezie; najbardziej obiecująca (Scando-Slavica 2021) zakłada, że *-ostь powstało przez metaanalizę: abstrakcja na *-ь od przymiotników klasy *-ostъ (niezachowanej bezpośrednio, ale równolegle do łac. angustus) była reinterpretowana jako *zelenъ + *-ostь, co uruchomiło produktywny model. 
+Przykłady:
+   * młodość → “stan bycia młodym"
+   * starość → “stan bycia starym"
+   * ciemność → “stan bycia ciemnym"
+   * wolność → “stan bycia wolnym"
+   * grzeczność → “cecha bycia grzecznym"
+   * twardość → “właściwość twardości"
+   * mądrość → “cecha mądrości"
+   * przyjemność → “stan / jakość bycia przyjemnym"
+________________
+
+
+-ota / -ota (psł. *-ota)
+Funkcja: reifikacja cechy (starszy, bardziej archaiczny wariant -ość)
+Znaczenie: “abstrakcyjna jakość X / stan X"
+Typ: odrodzeniowy lub deadiektywny
+Geneza: psł. *-ota — pie. *-otā; bardzo stary, produktywny na południu i zachodzie
+Przykłady:
+   * głupota → “cecha głupoty"
+   * dobrota → “cecha dobroci"
+   * cichota → “stan ciszy / spokoju"
+   * biadota → “stan lamentu / biedy"
+   * prostota → “cecha prostoty"
+   * sierota → “stan osierocenia / ten, który jest osierocony"
+   * tęsknota → “uczucie tęsknoty"
+   * hańbota → “cecha hańby"
+________________
+
+
+-ot (psł. *-otъ ← PIE -oto-) 
+Funkcja: nomen actionis iteratywno-sonatywne — dźwięk lub ruch jako powtarzające się zjawisko 
+Znaczenie: "powtarzający się dźwięk / ruch X / to, co stale X-uje" 
+Typ: odrdzeniowy (od rdzeni onomatopeicznych lub werbalnych) 
+Geneza: psł. *-otъ — spokrewniony z -ota (abstrakt jakości) przez wspólne PIE -otā, ale wyspecjalizowany w kierunku iteratywno-sonatywnym; preferencja dla rdzeni dźwiękonaśladowczych 
+Uwaga: morfologicznie pokrewny z -ota (głupota, dobrota), ale semantycznie odrębny — -ota reifikuje cechę, -ot reifikuje powtarzający się proces dźwiękowy lub ruchowy 
+Przykłady:
+   * grzmot → "to, co grzmi / powtarzający się grzmot" (grzmieć + -ot)
+   * łomot → "powtarzający się łomot" (łomotać + -ot)
+   * turkot → "powtarzający się turkot kół" (turkotać + -ot)
+   * łoskot → "powtarzający się łoskot" (łoskotać + -ot)
+   * chichot → "powtarzający się chich / śmiech" (chichotać + -ot)
+________________
+
+
+-a (psł. *-ā ← PIE *-eh₂)
+Funkcja: nomen actionis / nomen rei — proces lub stan jako żywa instytucja / trwająca rzeczywistość
+Znaczenie: “trwający proces X / stan X jako struktura społeczna / wynik X jako uchwytna zbiorowa rzeczywistość"
+Rodzaj: żeński (a-stem)
+Typ: odrdzeniowy (radikalny) — rdzeń + *-ā bez pośredników
+Geneza: PIE *-eh₂ — jeden z najstarszych sufiksów PIE; pierwotnie tworzył feminatywy i abstrakty od rdzeni werbalnych. Niewidoczny jako osobny morfem — zlewa się z końcówką deklinacyjną a-stem.
+Semantyczna preferencja: procesy i stany o charakterze społecznym, zbiorowym, instytucjonalnym — nie jednorazowy akt, ale trwająca rzeczywistość którą lud posiada.
+Przykłady:
+   * rada    → “trwający proces naradzania / instytucja narady" (rad- + *-ā)
+   * władza  → “stan władania / trwająca struktura panowania" (vlad- + *-ā)
+   * sława   → “to co jest słyszane / trwający rozgłos" (slav- + *-ā)
+   * straża  → “trwający stan strzeżenia / instytucja straży" (straz- + *-ā)
+   * woda    → “ta która wodzi / płynie stale" (vod- + *-ā)
+   * duma    → “trwająca myśl / stan rozmyślania" (dum- + *-ā)
+   * dierżawa  → “to co jest dzierżone / państwo" (dьrž- + *-ā)
+________________
+
+
+-ŭ / -o (psł. *-ъ ← PIE *-os)
+Funkcja: nomen resultativum / nomen actionis — wynik procesu jako skrystalizowany byt
+Znaczenie: “wynik X / skrystalizowany efekt czynności / to co powstało przez X"
+Rodzaj: męski (o-stem twardy)
+Typ: odrdzeniowy (radikalny)
+Geneza: PIE *-os → psł. *-ъ (przez regularną redukcję); typowo łączy się z o-grade rdzenia werbalnego (tzw. forma *-CoC-ъ)
+Uwaga: *-ъ jest praktycznie niewidoczny we współczesnym polskim — zanikł jako końcówka. Widoczny w rekonstrukcji i w innych językach słowiańskich (ros. -ъ / zero).
+
+
+Przykłady:
+   * atematyczne (nijaki)
+   * *nébʰos → niebo ("to co się zwilgotniło")
+   * *ménos → moc/myśl ("to co zostało pomyślane")
+   * *wéydos → wiedza ("to co zostało ujrzane")
+   *  tematyczne (męski)
+   * *bʰóros → zbiór/niesienie (to, co się zabrało)
+   * *h₃órbʰos → robota (to, co się wykonało)
+   * *gʰórdʰos → gród (to, co zostało ogrodzone)
+   * *gʷʰónos → goniec (ten, co gonił)
+   * *wóǵʰos → wóz (ten, co zawiózł)
+________________
+
+
+-ĭ / -ie / -e / -i (psł. *-ь ← PIE *-is)
+Funkcja: nomen abstractum — abstrakt stanu / jakości / koloru / właściwości jako byt wewnętrzny
+Znaczenie: “stan X jako wewnętrzna właściwość / abstrakcyjna jakość X widziana od wewnątrz"
+Rodzaj: żeński lub nijaki (i-stem miękki)
+Typ: odrdzeniowy (radikalny) — rdzeń + *-ь
+Geneza: PIE *-is → psł. *-ь; spokrewniony z klasą i-stem (*kost-, *noć-); dał później podstawę dla *-ostь przez metaanalizę
+Uwaga kluczowa: *-ь jest matką sufiksu *-ostь — kiedy użytkownicy psł. reanalzowali formy jak *zelenь ("zieleń") jako *zelen- + *-ь, a potem rozszerzyli do *zelenъ + *-ostь, powstał jeden z najpłodniejszych sufiksów słowiańskich. *-ь jest więc archaicznym protoplastą całej rodziny abstrakcji.
+Przykłady:
+   * zelenь  → “zieleń / stan bycia zielonym" (zelen- + *-ь)
+   * sinь    → “siność / stan bycia sinym"
+   * rumenь  → “rumieńskość / stan bycia rumianym"
+   * bolь    → “ból / stan boleści" (bol- + *-ь)
+   * krъvь   → “krew jako substancja / to co jest krwawe"
+   * žalь    → “żal / stan żałowania"
+________________
+
+
+-izna / -yzna / -izm / -yzm
+Funkcja: abstrakty jakości, przynależności, dziedziczenia
+Znaczenie: “cecha X / właściwość X / coś, co pochodzi od X / dziedzictwo X"
+Typ: deadiektywny i denominalny
+Geneza: psł. *-izna, forma rozszerzona przez *-ьn-
+Przykłady:
+   * polszczyzna → “język / cechy polskie"
+   * niemczyzna → “język / cechy niemieckie"
+   * ojcowizna → “to, co po ojcu / dziedzictwo ojcowskie"
+   * dziadowizna → “dziedzictwo dziadów"
+   * bielizna → “białość / rzeczy białe / odzież"
+   * blizna → “ślad po bliskim zetknięciu z czymś"
+   * głębizna → “to, co głębokie”
+   * debilizm → “to, co jest debilne”
+________________
+
+
+-em / -om / (późniejsze) -mo (PIE *-ōm / *-m̥)
+Funkcja: Tworzenie archaicznych rzeczowników atematycznych odczasownikowych – procesów zamienionych w trwałe byty.
+Znaczenie: „X jako podmiot” (byt samoistny, sprawca, siła pierwotna wyrastająca z czynności rdzenia).
+Typ: Odrdzeniowy (radykalny).
+Geneza: Klasa m-stem atematyczna; nieproduktywna już w PIE, zachowana wyłącznie w najstarszych leksykalizacjach; cechuje się odmianą heteroklityczną (mianownik ≠ temat). Wariant *-mo- stanowi późniejszą, regularną kontynuację tego samego mechanizmu słowotwórczego.
+Przykłady (przez rekonstrukcję):
+   * Zima ← prasł. *zima ← bałto-słow. *źeimā ← PIE *ǵʰéyōm (rdzeń *ǵʰey- „zima/lać” + *-ōm).
+   * Ziemia ← prasł. *zemja ← bałto-słow. *źém- ← PIE *dʰéǵʰōm (rdzeń *dʰeǵʰ- „gnieść” (???) + *-ōm)
+   * Dym ← prasł. *dymъ ← PIE *dʰuh₂-mó-s (rdzeń *dʰewh₂- „dymić” + wariant tematyczny *-mo-).
+   * Kamień ← prasl. *kamy ← pbs. *kā́ˀmō ← PIE h₂éḱmō (rdzeń *h₂eḱ- „ostrzyć” (?) / „ostry” + *-ōm)
+________________
+
+
+-mię / -mę / -mienie (psł. *-mę, temat *-men-)
+Funkcja: archaiczna nominalizacja rezultatywno-abstrakcyjna (n-stem nijaki) 
+Znaczenie: “rezultat / wynik czynności / byt przypisany lub wytworzony przez proces X / abstrakt odnoszący się do treści rdzenia"
+ Typ: odrdzeniowy — od rdzeni werbalnych i nominalnych 
+Geneza: PIE *-mn̥ → prabsł. *-men- → psł. *-mę (mianownik l.p.) z tematem odmiany *-men-; kognaty: lit. -muõ (np. akmuõ “kamień"), spr. -men, łac. -men (np. nomen, semen); nieproduktywny już w psł., zachowany jako klasa leksykalizacji
+Przykłady:
+   * imię ← psł. *ьmę ← PIE *h₃nómn̥ → “nazwa / to, co zostało nazwane [komuś]"
+   * plemię ← psł. *plemę ← *pled-men- od rdzenia *pled-/*plod- “płodzić, rodzić plon" → “to, co zostało spłodzone / zbiorowość zrodzona ze wspólnego pnia" (por. psł. *plodъ “owoc")
+   * brzemię ← psł. *berjmę ← PIE *bʰer-H-men- od *bʰer- “nieść" → “to, co zostało podniesione"
+   * siemię ← psł. *sěmę ← PIE *seh₁-men- od *seh₁- “siać" → “to, co zostało zasiane / nasienie" (por. łac. sēmen)
+   * znamię ← psł. *známę od *zna- “znać / wiedzieć" → “to, co zostało naznaczone" (por. gr. gnōma)
+   * wymię ← psł. *ỹmę ← PIE *HuHdh-r/n- → “to, co dało mleko" (por. łac. ūber, ang. udder)
+   * ciemię ← psł. *těmę od *teg- “przykrywać" → “to, co przykryło" (por. łac. tegmen)
+   * ramię ← psł. *ormę ← PIE *h₂er-men- od *h₂er- “łączyć, dopasowywać" → “to, co zostało połączone z tułowiem" (por. łac. armus “bark")
+________________
+
+
+-ć (psł. *-ťь < PIE *-tis)
+Funkcja: archaiczna nominalizacja rezultatywna (nomen actionis → nomen rei)
+Znaczenie: “rezultat czynności / stan końcowy / efekt procesu X”
+Geneza: PIE *-tis → PBs. *-tis → psł. *-ťь → pol. -ć
+Typ: wyłącznie odrdzeniowy
+Przykłady: 
+   * śmierć → “rezultat umierania / stan śmierci" (< *mer- “umierać”, s-mer-ti-)
+   * sieć → “to, co zostało zszyte (splecione)" (< *sь-ti- < *sy- “wiązać, splatać”)
+   * pamięć → “to, co zapamiętane / stan pamiętania" (< *men- “myśleć, pamiętać”, pa “po”-men-ti-)
+________________
+
+
+-stwo / -estwo (psł. *-ьstvo)
+Funkcja: system / struktura / stan zbiorowy / instytucja / zasady / abstrakt stanu 
+Znaczenie: “struktura powiązana z X / zbiorowość X / zasady X / dziedzina X" 
+Typ: denominalny i deadiektywny
+ Geneza: psł. *-ьstvo ← prabałtosłowiański *-istwa ← PIE *-twom; kognata: sanskryt -tva (‑ness, ‑hood, np. satya-tva “bycie prawdziwym"). Jeden z nielicznych sufiksów słowiańskich z bezpośrednią, pewną rekonstrukcją PIE.
+Przykłady:
+   * braterstwo → “system relacji braterskich / zbiorowość braci"
+   * królestwo → “struktura polityczna króla"
+   * bogactwo (bogatьstvo) → “stan jako system zasobów"
+   * człowieczeństwo → “zbiór cech i zasad człowieka"
+   * państwo → “struktura pana / władcy" (panъ + *-ьstvo)
+   * rycerstwo → “warstwa rycerska / zasady rycerskie"
+   * kapłaństwo → “stan i urząd kapłana"
+________________
+
+
+-twa / -dwa (psł. *-tva ← PIE -tweh₂) 
+Funkcja: nomen actionis / nomen rei — akt lub wynik procesu jako konkretne zdarzenie
+Znaczenie: "to, przez co X się dokonuje / akt X / wynik X jako uchwytne zdarzenie" 
+Typ: odrdzeniowy (deverbatywy) 
+Geneza: PIE *-tweh₂ — siostra sufiksu -stwo (oba z PIE *-two-); -stwo dało abstrakt zbiorowy / instytucjonalny (rodzaj nijaki → męski), -twa dało konkretny akt / wynik (rodzaj żeński przez -eh₂); kognaty: sanskryt -tvā (gerundium), łac. -tūs (przez wariant -tu-) 
+Przykłady:
+   * bitwa → "to, co się bije / akt bicia" (bić + -twa)
+   * modlitwa → "to, przez co się modli / akt modlenia" (modlić + -twa)
+   * żniwa → "to, co się żnie / wynik żęcia" (żąć + -twa)
+   * brzytwa → "to, czym się brzytwa / narzędzie golenia" (brzyt- + -twa) Uwaga: -twa i -stwo to dwie gałęzie tego samego PIE morfemu — tam gdzie -stwo tworzy instytucję lub system (braterstwo, królestwo), -twa tworzy akt lub konkretny wynik (bitwa, modlitwa).
+________________
+
+
+-eje / -je (psł. *-ьje / *-je)
+Funkcja: kolektyw / abstrakt / nazwa stanu, cechy, czynności oraz czasem miejsca lub czasu
+Znaczenie: “byt X / zbiorowość X / stan X / własność X / miejsce albo czas związany z X”
+Typ: denominalny, deverbalny, deadiektywny
+Geneza: psł. *-ьje z neutrum *-ьjь, czyli *-ь + *-jь; archaiczny formant, często na bazie substantywizowanych przymiotników
+Przykłady:
+   * bycie (bytje) → “byt / istnienie”
+   * znanie (znanje) → “wiedza / poznanie”
+   * zboże (< *sъ-božьje) → “zboże, plon, dobra”
+   * wesele (< *veselьje) → “radość / świętowanie”
+   * zdrowie (< *sъdorvьje) → “stan zdrowia”
+________________
+
+
+-ina (psł. *-ina)
+Funkcja: kolektyw / materia / zbiorowość / powiększenie / potomek
+Znaczenie: “zbiorowość X / materiał X / potomek/dziedzic X / teren X"
+Typ: denominalny
+Geneza: psł. *-ina — pie. *-inā
+Przykłady:
+   * drużyna → “grupa przyjaciół/bliskich ludzi"
+   * drzewina → “materiał drzewny / zbiorowość drzew"
+   * malina → “owoc jako zbiór egzemplarzy małych owoców"
+   * górzyna → “teren górski"
+   * słomina → “materiał ze słomy"
+   * szlachcina (pej.) → “zbiorowość szlachty"
+   * czeszczyna (čeština) → „język jako system zbiorowy właściwy Czechom”
+________________
+
+
+-janie / -jane / -anie (psł. *-ěne / *-jane)
+Funkcja: nomen collectivum gentilicium — zbiorowa nazwa plemienia / ludu / wspólnoty
+Znaczenie: “lud X / plemię X / ci którzy są z X / wspólnota wywodząca się z X"
+Typ: denominalny
+Geneza: psł. *-ěne / *-jane ← PIE *-yānos lub złożenie *-j- + *-ane (kolektyw od miejsca/cechy);
+Przykłady:
+   * Slověne → “Słowianie" (ci którzy słyną / słyszą / mówią słowem)
+   * Poljane → “Polanie" (ci z pola / otwartej przestrzeni)
+   * Drevljane → “Drewlanie" (ci z lasów / drzew)
+   * Bužane → “Bużanie" (ci znad Bugu)
+   * Moravane → “Morawianie" (ci znad Morawy)
+   * Křivičane → “Krywiczanie" (ci z rodu Krywego)
+________________
+
+
+-ież / -eż / -aż (psł. *-ežь / *-ьžь)
+Funkcja: nomen actionis / nomen rei — czynność jako uchwytny, często negatywny lub intensywny wynik / instytucja działania
+Znaczenie: “czynność X jako zjawisko / wynik procesu X / to, co się dokonuje przez X"
+Typ: odrdzeniowy (deverbatywy)
+Geneza: psł. *-ežь ← PIE *-eg- / *-og- (element sonantyczny); spokrewniony z formantami nomina actionis w innych gałęziach IE; w słowiańskim często zachowuje odcień kolektywno-procesualny z zabarwieniem pejoratywnym lub intensywnym
+Przykłady:
+   * grabież → “to, co się grabie / wynik grabienia / akt grabieży"
+   * odzież → “to, czym się odziewa / zbiór rzeczy do odziewania"
+   * straż → “trwający akt strzeżenia"
+   * kradzież (arch.) → “to, co się kradnie / akt kradzieży"
+   * łupież → “wynik łupienia"
+Uwaga semantyczna: sufiks wyraźnie preferuje procesy o charakterze zbiorowym, ciągłym lub społecznie nacechowanym — grabież to nie jeden akt, ale zjawisko. Podobna preferencja jak w *-ā, ale z komponentem bardziej procesualnym niż instytucjonalnym.
+________________
+
+
+-ień / -eń / -ń (psł. *-y m, n-stem ← PIE *-ō)
+Funkcja: nomen rei — wynik czynności jako uchwytny przedmiot / efekt procesu utrwalony w rzeczy
+Znaczenie: “to, co powstało przez X / przedmiot będący wynikiem X"
+Typ: odrdzeniowy (deverbatywy i denominalny)
+Geneza: PIE *-ō → psł. *-y (n-stem masculinum); odmiana przez temat *-en- (stąd D. grzebienia, płomienia); po zaniku jerów mianownik *-y → pol. -ień / -eń / -ń
+Przykłady:
+   * grzebień → “to, czym się czesze" (← *greti “grzebać")
+   * promień → “to, co się szerzy od środka"
+   * rumień → “stan zaczerwienienia"
+   * korzeń → “to, co tkwi w ziemi"
+   * kamień → “twarda bryła"
+   * pierścień → “to, co się nosi na palcu" (← *pьrstъ “palec")
+
+C. Augmentatywy
+-isko / -iszcze (psł. *-išče)
+Funkcja: augmentatywum / miejsce / teren po-X / pozostałość
+Znaczenie: “wielki/brzydki X / miejsce gdzie był X / teren X"
+Typ: denominalny
+Geneza: psł. *-išče — lokacyjno-augmentatywny
+Przykłady (augmentatywa):
+   * domisko → “wielki / brzydki dom"
+   * chłopisko → “wielki chłop (pej.)"
+   * babsko → “duża / nieprzyjemna kobieta"
+Przykłady (miejsca):
+   * ognisko → “miejsce ogniska / gdzie było ognisko"
+   * zgliszcze → “miejsce po pożarze / to, co zostało z palenia"
+   * pastwisko → “miejsce pasania"
+   * lodowisko → “miejsce z lodem / do jazdy na lodzie"
+   * śmietnisko → “miejsce na śmieci"
+D. Nazwy miejsc
+-arnia / -ernia / -alnia
+Funkcja: nomen loci — miejsce powiązane z czynnością lub przedmiotem
+Znaczenie: “miejsce, w którym X się odbywa / w którym produkuje się X"
+Typ: denominalny i deverbatywy
+Przykłady:
+   * piekarnia → “miejsce gdzie się piecze chleb"
+   * mleczarnia → “miejsce przetwarzania mleka"
+   * pralnia → “miejsce prania"
+   * palarnia → “miejsce palenia"
+   * łazienka (przez -en-ka) → “miejsce kąpania się"
+   * czytelnia → “miejsce czytania"
+   * sypialnia → “miejsce spania"
+   * jadalnia → “miejsce jedzenia"
+________________
+
+
+-ownia / -ównia
+Funkcja: nomen loci — magazyn / pomieszczenie specjalne
+Znaczenie: “miejsce przechowywania / przetwarzania X"
+Typ: denominalny
+Przykłady:
+   * dzwonnica → “wieża dzwonów" (przez -nica)
+   * wieżowiec → “budynek wysoki jak wieża"
+   * biblioteka — ale też: czytelnia/biblioteczka → zdrobnienie
+   * kotłownia → “pomieszczenie z kotłem"
+   * maszynownia → “pomieszczenie z maszynami"
+   * zbrojownia → “miejsce przechowywania broni"
+E. Nazwy czynności i wyników
+-anie / -enie  (psł. *-anije / *-enije)
+Funkcja: nomen actionis — nominalizacja czynności
+Znaczenie: “czynność X / akt X / proces X"
+Typ: deverbatywy (od bezokolicznika)
+Geneza: psł. *-anije, *-enije — jeden z najproduktywniejszych typów
+Przykłady:
+   * bieganie → “czynność biegania"
+   * pisanie → “czynność pisania"
+   * śpiewanie → “czynność śpiewania"
+   * myślenie → “czynność myślenia"
+   * marzenie → “czynność marzenia"
+   * rozumowanie → “czynność rozumowania"
+   * chodzenie → “czynność chodzenia"
+________________
+
+
+-ba / -oba (psł. *-ba)
+Funkcja: nomen actionis / nomen rei — czynność lub jej wynik / abstrakt
+Znaczenie: “to, w czym X żyje / przez co X przepływa"
+Typ: od rdzenia czasownikowego lub deverbatywy
+Geneza: psł. *-ba — jedno z najstarszych, może pie. *-bʰ-
+Przykłady:
+   * prośba → “to, o co się prosi / akt prośby / to, czym się prosi"
+   * służba → “czynność służenia / instytucja służby / to, czym się służy"
+   * choroba → “stan  choroby / bycie chorym / to, czym się choruje"
+   * żałoba → “stan żałowania / smutek po stracie / to, czym się żałuje"
+________________
+
+
+-ga (psł. *-ga, f.)
+Funkcja: dewerbalny formant nominalny — wynik / produkt procesu wyrażonego rdzeniem
+Znaczenie: „to, co wynika z X / to, co powstaje przez X / wynik procesu X"
+Typ: odrdzeniowy (deverbatywy)
+Geneza: PIE *-gʰo-, *-gʰeh₂ — pokrewne z lit. *-gas, pgerm. *-gô; synonimy w psł.: *-ba, *-da, *-tva, *-ežь
+Przykłady:
+   * dorga → „droga" (← *derti „trzeć, torować" → „to, co zostało wytarte / przetorowane")
+   * struga → „strumień / fala" (← *strujiti „płynąć strumieniem" → „to, co płynie")
+   * sluga → „sługa" (← *sluti „wyrazić w słowach" → „ten, który jest poddany słowom")
+
+
+III. PRZYROSTKI TWORZĄCE CZASOWNIKI
+-ować
+Funkcja: werbalizacja — tworzenie czasowników od rzeczowników i przymiotników
+Znaczenie:"działać w obrębie X / przynależeć funkcjonalnie do X / operować w domenie X / przejawiać X w działaniu”
+Typ: denominalny i deadiektywny → czasowniki imperfektywne
+Geneza: psł. -ovati ← -ov- (relacja / przynależność do X) + -a-ti (werbalizacja)
+Przykłady:
+   * pracować → “wykonywać aktywność w domenie pracy / działać w systemie pracy”
+   * malować → “operować w domenie malarstwa / wykonywać czynność malarską”
+   * budować → “działać w domenie budowy / realizować proces budowania”
+   * chorować → “pozostawać w stanie choroby / funkcjonować w domenie chorobowej”
+   * ryzykować → “działać w obszarze ryzyka / podejmować działania obciążone ryzykiem”
+________________
+
+
+-ywać / -iwać (psł. *-yvati / *-ivati)
+Funkcja: tworzenie wtórnych imperfektywów od czasowników dokonanych
+Znaczenie: “robić X wielokrotnie / robić X jako czynność powtarzającą się — niedokonany odpowiednik X"
+Typ: deverbatywy → od dokonanych, czasowniki imperfektywne
+Geneza: psł. *-yvati / *-ivati ← bsł. wzdłużenie iteratywne *ī- + *-v- + *-ati; mechanizm apofoniiczny który przybrał postać sufiksalną; paralela: lit. -yvoti
+Przykłady:
+   * napisać → napisywać “wielokrotnie / zwyczajowo pisać"
+   * rzucić → rzucać → zarzucać “wielokrotnie zarzucać"
+   * kupić → kupywać (arch.) “zwyczajowo kupować"
+   * wyrabiać → “wielokrotnie robić / produkować"
+________________
+
+
+-tać / -otać / -atać (psł. *-tati / *-otati ← PIE *-teh₂-) {https://journals.akademicka.pl/lv/article/download/420/3966/5964}
+Funkcja: tworzenie czasowników iteratywno-frekwentatywnych
+Znaczenie: “robić X często / stale / z natury — nie jednorazowo, lecz habitualnie"
+Typ: odrdzeniowy (deverbatywy od rdzenia werbalnego)
+Geneza: PIE *-teh₂- → psł. *-tati / *-otati; najstarszy mechanizm iteratywny w IE, zachowany w łac. -tāre, gr. -τᾱ-, bsł. -toti; w słowiańskim wyparty przez *-yvati, przeżył w leksykalizacjach
+________________
+
+
+-eć / -ieć (psł. *-ěti)
+Funkcja: tworzenie czasowników stanowych / inchoacywnych
+Znaczenie: “stawać się X / wchodzić w stan X / być w stanie X"
+Typ: deadiektywny
+Przykłady:
+   * bieleć → “stawać się białym"
+   * starzeć→ “stawać się starym"
+   * dojrzejeć → “stawać się takim, który widzi"
+   * twardnieć → “stawać się twardym" (tward- + -nieć)
+   * łagodnieć → “stawać się łagodnym"
+   * mądrzeć → “stawać się mądrym"
+________________
+
+
+-szeć / -szać (psł. *-šati ← bsł. *-šatei ← PIE *-(h₁)seti)
+Funkcja: tworzenie czasowników desideratywnych
+Znaczenie: "chcieć X / dążyć do X / być nastawionym na X"
+Typ: odrdzeniowy (od rdzenia werbalnego)
+Geneza: PIE *-(h₁)seti → bsł. *-šatei → psł. *-šati; w słowiańskim zlał się z klasą *-ati przez regularną zmianę fonetyczną; rozpoznawalny tylko przez rekonstrukcję porównawczą
+Przykłady:
+   * PIE *ḱléwseti → "chcieć słyszeć / nasłuchiwać" → bsł. *klaušatei → psł. *slušati → pol. słuchać
+   * PIE *wéydseti → "chcieć widzieć / szukać wzrokiem" → bsł. → łatg. vaicuot "chcieć zobaczyć / szukać"; prot.ital. *weidsō → w słowiańskim kontynuant niepewny
+Uwaga: sufiks niewidoczny jako osobny morfem w polskim — zlał się z rdzeniem.
+________________
+
+
+-ić / -yć (psł. *-iti)
+Funkcja: werbalizacja kauzatywna / denominalna
+Znaczenie: “czynić X"
+Typ: denominalny, deadiektywny
+Przykłady:
+   * bielić → “czynić białym"
+   * czyścić → “czynić czystym"
+   * gromadzić → “zbierać w gromadę"
+   * ciemnić → “czynić ciemnym"
+   * zdobić → “czynić zdobnym / pięknym"
+   * wzbogacić → “czynić bogatym"
+   * uspokoić → “czynić spokojnym"
+________________
+
+
+-nąć / -ną- (psł. *-nǫti)
+Funkcja: tworzenie czasowników semelfaktywnych / inchoacywnych / momentalnych
+Znaczenie: “wykonać X jednorazowo / gwałtownie wejść w stan X"
+Typ: deverbatywy i deadiektywny
+Geneza: psł. *-nǫti — unikalna słowiańska innowacja aspektowa
+Przykłady:
+   * krzyknąć → “jeden raz krzyknąć"
+   * stuknąć → “jeden raz stuknąć"
+   * mrugnąć → “jeden raz mrugnąć"
+IV. PRZYROSTKI TWORZĄCE PRZYSŁÓWKI
+-ie / -e (psł. *-ě)
+Funkcja: adwerbializacja przymiotnika — tworzenie przysłówków sposobu
+Znaczenie: “w sposób X / będąc X"
+Typ: deadiektywny
+Geneza: psł. *-ě — końcówka narzędnika instrumentalnego, zgramatykalizowana jako przysłówkowa
+Przykłady:
+   * pięknie → “w sposób piękny"
+   * dobrze → “w sposób dobry"
+________________
+
+
+-o (psł. *-o)
+Funkcja: adwerbializacja 
+Znaczenie: “w sposób X"
+Typ: deadiektywny 
+Przykłady:
+   * szybko → “w sposób szybki"
+   * twardo → “w sposób twardy"
+   * blisko → “w sposób bliski"
+   * daleko → “w sposób daleki"
+   * wysoko → “w sposób wysoki"
+   * głośno → “w sposób głośny"
+   * ciemno → “w sposób ciemny"
+V. PRZYROSTKI ZŁOŻONE I SPECJALNE
+-owiec / -kowiec
+Funkcja: nomen agentis lub nomen rei — osoba lub przedmiot związany z X
+Znaczenie: “zwolennik X / specjalista od X / budynek w stylu X"
+Typ: denominalny (złożenie -ow- + -iec)
+Przykłady:
+   * wieżowiec → “budynek wysoki jak wieża"
+   * sportowiec → “ten, kto zajmuje się sportem"
+   * komunistowiec (pej.) → “zwolennik komunizmu"
+   * czynszowiec → “kamienica na czynsz / deweloper"
+________________
+
+
+-anin / -janin (psł. *-aninъ)
+Funkcja: nomen gentilicium — przynależność etniczna, miejska, plemienna
+Znaczenie: “ten, kto pochodzi z X / mieszkaniec X / należący do X"
+Typ: denominalny
+Geneza: psł. *-aninъ — złożenie *-an- + *-inъ (forma singularna to *-aninъ (-anin), forma zbiorowa/plemienna to *-ěne / *-jane (-anie/-janie))
+Przykłady:
+   * Rosjanin → “ten, co pochodzi z Rusi/Rosji"
+   * Słowianin → “ten, kto należy do Słowian"
+   * mieszczanin → “ten, kto mieszka w mieście"
+   * poganin → “ten, kto żyje na polu / poza chrześcijaństwem"
+   * chrześcijanin → “ten, kto wyznaje chrześcijaństwo"
+________________
+
+
+-uch / -uch (psł. *-uxъ)
+Funkcja: nomen agentis / pejoratywa / nosiciel cechy
+Znaczenie: “ten, który ma cechę X (często z odcieniem pejoratywnym)"
+Typ: denominalny i deadiektywny
+Przykłady:
+   * chałupuch (pej.) → “ten co mieszka w chałupie"
+   * gamoń / gamuch → “głupiec / niezdarny"
+   * staruch → “stary człowiek (pej.)"
+   * pastuch → “ten, kto pasie"
+________________
+
+
+-eń / -ień (psł. *-enь / *-ьnь)
+Funkcja: nomen agentis / stan / nosiciel cechy
+Znaczenie: “ten, kto jest w stanie X / będący X"
+Typ: denominalny
+Przykłady:
+   * więzień → “ten, kto jest w więzi / więziony"
+   * jeń (jeniec) → “ten, kto jest wzięty / jeniec wojenny"
+   * karcień → hist. “ten, kto jest karcony"
+________________
+
+
+-er/-or/-ra (*-ъrъ / *-rъ / -ra < PIE *-r̥ / *-reh₂)
+Funkcja: element sonantyczny tworzący rzeczowniki dynamiczne (bez *-o-) lub stanowiący bazę przymiotników cechowych w połączeniu z sufiksem *-y/-i (→ -ry = -r- + -y) 
+Geneza: PIE *-r̥ (sonant sylabiczny); wariant tematyczny *-r̥ + *-o- + *-y → psł. przymiotniki na -ry; wariant atematyczny *-r̥ bez tematycznego → psł. *-ъrъ (rzeczowniki)
+Uwaga morfologiczna: *-ro- (przymiotnikowe) i *-ъrъ (rzeczownikowe) są ablautowymi wariantami PIE *-r̥, tak jak *-to- i *-t̥ są wariantami tego samego *t. Sufiks *-tro- (instrumentalny, jak w *-dło) jest dalszym rozszerzeniem przez *-t- i jest morfologicznie odrębny, choć spokrewniony przez wspólne *-r̥.
+Typ: odrdzeniowy (radikalny) — rdzeń werbalny lub nominalny bez pośredników
+Przykłady przymiotnikowe (*-ro- > psł. *-rъ):
+   * dobry ← psł. *dobrъ ← PIE *dʰh₂obʰ-ro-s od *dʰh₂ebʰ- “kształtować, dopasowywać, pasować" → “właściwie ukształtowany / stosowny" por.  doba “coś odpowiedniego”
+   * ostry ← psł. *ostrъ ← PIE *h₂eḱ-ro- od *h₂eḱ- “ostry, spiczasty" (por. łac. ācer, gr. ákros)
+   * stary ← psł. *starъ ← PIE *steh₂-ro- od *steh₂- “stać, trwać" → “ten który stoi od dawna / utrwalony"
+   * mądry ← psł. *mǫdrъ — rdzeń *men- “myśleć" z rozszerzeniem *-dʰ- + *-ro-
+Przykłady rzeczownikowe (*-r̥ / *-reh₂ > psł. *-ъrъ / *-ra, realizacja dynamiczno-intensywna):
+   * wicher ← psł. *vixъrъ od *vixati “wirować, kręcić" + *-ъrъ → “to, co wiruje, kręci się" (WSJP PAN: explicite *vixъrъ od *vixati + przyrostek *-ъrъ)
+   * woda ← psł. *voda ← bsł. *wandō ← PIE *wédōr (kolektyw r/n-stem ← *wódr̥) ← rdzeń *wed- / *ud- "płynąć, tryskać"
+   * igra ← psł. *jьgra ← wcz. psł. *ígrā ← bałt.-sł. *ígrāˀ ← PIE *h₂ig-réh₂ ← *h₂eyg- „poruszać, wprawiać w ruch”
+________________
+
+
+-icz (psł. *-it'ь)
+Funkcja: patronimicum / zdrobnienie — syn / potomek / mała wersja X
+Znaczenie: “syn X / potomek X / ten który pochodzi od X / mały X"
+Typ: denominalny
+Geneza: psł. *-it'ь ← PIE *-ikos (przez bałtosłowiański) — spokrewniony z *-ьcь / *-ec*, z którym dzieli wspólnego przodka; palatalizacja *tj > č* dała warianty w poszczególnych językach
+Produktywność: żywy w rosyjskim i serbsko-chorwackim; w polskim zachowany jedynie jako relikt w nazwiskach
+Przykłady:
+   * królewicz → “syn króla"
+   * carewicz → “syn cara"
+   * Janowicz, Adamicz → “syn Jana / Adama" (polskie relikty nazwiskowe)
+   * Petrovič (serb.) → “syn Petra"
+   * Ivanovič (ros.) → “syn Ivana"
+________________
+
+
+-ow/-ów/-owo (psł. *-ovъ)
+Funkcja: przymiotnik przynależności / patronimicum rzeczownikowe
+Znaczenie: “należący do X / będący własnością X / wywodzący się od X"
+Typ: denominalny
+Geneza: psł. *-ovъ ← PIE *-owos — sufiks dzierżawczy, jeden z najstarszych w słowiańskim; w funkcji patronimicznej zachowany głównie we wschodniej Słowiańszczyźnie jako drugi człon nazwisk
+
+
+Niektóre mogą się ze sobą łączyć, n.p.
+Piskun + ow + icz = Piskunowicz (nazwisko)
+Chor + oba + ow + y = chrobowy
+
+
+Opracowanie na podstawie prasłowiańskiego systemu słowotwórczego.
+Źródła: prasłowiańskie rekonstrukcje (psł.), pie. = protoindoeuropejski.

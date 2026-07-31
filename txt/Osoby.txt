@@ -1,0 +1,366 @@
+﻿🔹 1. OSOBA
+
+
+LICZBA POJEDYNCZA
+Przypadek
+	Forma
+	Mianownik
+	eź
+	Dopełniacz
+	mnie
+	Celownik
+	mnie
+	Biernik
+	mię / mnie
+	Narzędnik
+	mnią
+	Miejscownik
+	mnie
+	________________
+
+
+LICZBA PODWÓJNA
+Przypadek
+	Forma
+	Mianownik
+	na
+	Dopełniacz
+	naju
+	Celownik
+	nama
+	Biernik
+	naju
+	Narzędnik
+	nama
+	Miejscownik
+	naju
+	________________
+
+
+LICZBA MNOGA
+Przypadek
+	Forma
+	Mianownik
+	ny/my
+	Dopełniacz
+	nas
+	Celownik
+	nam
+	Biernik
+	nas
+	Narzędnik
+	nami
+	Miejscownik
+	nas
+	________________
+
+
+DZIERŻAWCZY
+Przypadek
+	Pojedyncza
+	Podwójna
+	Mnoga
+	Mianownik
+	mój
+	naj (naji / najin)
+	nasz
+	Dopełniacz
+	mojego
+	najego
+	naszego
+	Celownik
+	mojemu
+	najemu
+	naszemu
+	Biernik
+	mojego
+	najego
+	naszego
+	Narzędnik
+	moim
+	najima
+	naszym
+	Miejscownik
+	mojem
+	najem
+	naszem
+	
+
+
+
+🔹 2. OSOBA
+
+
+
+
+LICZBA POJEDYNCZA
+Przypadek
+	Forma
+	Mianownik
+	ty
+	Dopełniacz
+	ciebie
+	Celownik
+	tobie
+	Biernik
+	cię / ciebie
+	Narzędnik
+	tobą
+	Miejscownik
+	tobie
+	________________
+
+
+LICZBA PODWÓJNA
+Przypadek
+	Forma
+	Mianownik
+	wa
+	Dopełniacz
+	waju
+	Celownik
+	wama
+	Biernik
+	waju
+	Narzędnik
+	wama
+	Miejscownik
+	waju
+	________________
+
+
+LICZBA MNOGA
+Przypadek
+	Forma
+	Mianownik
+	wy
+	Dopełniacz
+	was
+	Celownik
+	wam
+	Biernik
+	was
+	Narzędnik
+	wami
+	Miejscownik
+	was
+	________________
+
+
+DZIERŻAWCZY
+Przypadek
+	Pojedyncza
+	Podwójna
+	Mnoga
+	Mianownik
+	twy
+	waj (waji / wajin)
+	wasz
+	Dopełniacz
+	twego
+	wajego
+	waszego
+	Celownik
+	twemu
+	wajemu
+	waszemu
+	Biernik
+	twego
+	wajego
+	waszego
+	Narzędnik
+	twym
+	wajima
+	waszym
+	Miejscownik
+	twem
+	wajem
+	waszem
+	
+
+🔹 OD OPERATORÓW (PRZYKŁAD ON-)
+
+
+LICZBA POJEDYNCZA
+Przypadek
+	Męski
+	Żeński
+	Nijaki
+	Mianownik
+	on
+	ona
+	ono
+	Dopełniacz
+	onego
+	onej
+	onogo
+	Celownik
+	onemu
+	onej
+	onomu
+	Biernik
+	onego
+	oną / onej
+	ono
+	Narzędnik
+	onym
+	oneją / oną
+	onom
+	Miejscownik
+	onym
+	onej
+	onom
+	________________
+
+
+LICZBA PODWÓJNA
+Przypadek
+	Męskoosobowy
+	Niemęskoosobowy
+	Mianownik
+	ona
+	one
+	Dopełniacz
+	onaju
+	oneju
+	Celownik
+	onyma
+	onema
+	Biernik
+	onaju
+	oneju
+	Narzędnik
+	onyma
+	onema
+	Miejscownik
+	onaju
+	oneju
+	________________
+
+
+LICZBA MNOGA
+Przypadek
+	Męskoosobowy
+	Niemęskoosobowy
+	Mianownik
+	oni
+	one
+	Dopełniacz
+	onych
+	onech
+	Celownik
+	onym
+	onem
+	Biernik
+	onych
+	one
+	Narzędnik
+	onymi
+	onemi
+	Miejscownik
+	onych
+	onech
+	
+
+________________
+
+
+DZIERŻAWCZY
+Przypadek
+	Pojedyncza
+	Podwójna
+	Mnoga
+	Mianownik
+	onego
+	onaju
+	onich
+	Dopełniacz
+	onegego
+	onajego
+	onichego
+	Celownik
+	onegemu
+	onajemu
+	onichemu
+	Biernik
+	onegego
+	onajego
+	onichego
+	Narzędnik
+	onegim
+	onaima / onajima
+	onichimi
+	Miejscownik
+	onegem
+	onajem
+	onichem
+	
+
+
+
+🔹 SIEBIE / SWÓJ
+
+
+ZWROTNY
+Przypadek
+	Liczba Pojedyncza
+	Liczba Podwójna
+	Liczba Mnoga
+	Mianownik
+	—
+	—
+	—
+	Dopełniacz
+	siebe
+	siebe
+	siebe
+	Celownik
+	siebie
+	siebie
+	siebie
+	Biernik
+	sę / siebe
+	sę / siebe
+	sę / siebe
+	Narzędnik
+	sobią
+	sobią
+	sobią
+	Miejscownik
+	siebie
+	siebie
+	siebie
+	
+
+________________
+
+
+DZIERŻAWCZY ZWROTNY (SWÓJ)
+Przypadek
+	Pojedyncza
+	Podwójna
+	Mnoga
+	Mianownik
+	swój
+	swoja
+	swoji
+	Dopełniacz
+	swojego
+	swoju
+	swojich
+	Celownik
+	swojemu
+	swojima
+	swojim
+	Biernik
+	swojego
+	swoju
+	swojich
+	Narzędnik
+	swoim
+	swojima
+	swojimi
+	Miejscownik
+	swojem
+	swoju
+	swojich

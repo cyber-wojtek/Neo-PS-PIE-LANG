@@ -1,0 +1,435 @@
+﻿CZASY, TRYBY
+CZAS PRZESZŁY
+1) PERF — perfekt historyczny / analityczny
+znaczenie:
+* stan po wykonaniu czynności
+* ”jestem w stanie po wykonaniu”
+* używa imiesłowu przeszłego
+struktura:
+* “jeść” teraźn. + imiesłów przeszły
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę zrobiłø/o/a
+	jesena zrobiła/lie
+	jesemy zrobili/ły
+	2.
+	jesiesz zrobiłø/o/a
+	jesewa zrobiła/lie
+	jesecie zrobili/ły
+	3.
+	jest zrobiłø/o/a
+	jesete zrobiła/lie
+	jesąt zrobili/ły
+	________________
+
+
+2) AORYST
+znaczenie:
+* czynność zakończona w przeszłości
+* fakt punktowy / zdarzenie
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jes
+	jesona 
+	jesomy
+	2.
+	jesa
+	jesota
+	jesocie
+	3.
+	jese
+	jesote
+	jesą
+	________________
+
+
+3) IMPERFEKT
+znaczenie:
+* czynność trwająca, powtarzana albo tło w przeszłości
+* ”bywało / robiło się / było w trakcie”
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesach
+	jesachona 
+	jesechomy
+	2.
+	jesasza
+	jesaszewa
+	jeseszecie
+	3.
+	jesasze
+	jesaszete
+	jesachą
+	________________
+
+
+4) PERF-REL — zaprzeszły / anterior past
+znaczenie:
+* czynność zakończona przed inną czynnością przeszłą
+* ”już wcześniej było wykonane”
+* używa imiesłowu przeszłego
+struktura:
+* “jeść” teraźn. + “jeść” przeszł. + imiesłów przeszły
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę jeseł zrobił
+	jesena jeseli zrobili
+	jesemy jeseli zrobili
+	2.
+	jesiesz jeseł zrobił
+	jesewa jeseli zrobili
+	jesecie jeseli zrobili
+	3.
+	jest jeseł zrobił
+	jesete jeseli zrobili
+	jesąt jeseli zrobili
+	________________
+
+
+CZAS TERAŹNIEJSZY
+5) PRES — teraźniejszy podstawowy
+znaczenie:
+* czynność dziejąca się teraz
+struktura:
+* baza + końcówka
+* przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę
+	jesena 
+	jesemy
+	2.
+	jesesz
+	jesewa 
+	jesecie
+	3.
+	jest
+	jesete
+	jesąt
+	________________
+
+
+CZAS PRZYSZŁY
+6) FUT-ASP — przyszłość dokonana
+znaczenie:
+* czynność zakończona w przyszłości
+struktura:
+* przedrostek + baza + końcówka (tzn. przedrostek + surowa forma teraźniejsza) 
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sjesę
+	sjesena 
+	sjesemy
+	2.
+	sjesesz
+	sjesewa
+	sjesecie
+	3.
+	sjeset
+	sjesete
+	sjesąt
+	struktura:
+* prefiks + forma teraźniejsza
+________________
+
+
+7) FUT-PERIPH — przyszłość niedokonana
+znaczenie:
+* ”wchodzę w stan robienia”
+* przyszłość czynności niedokonanej
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sbę / sbuję  robiący
+	sbywa / sbujena  robiący
+	sbemy / sbujemy robiący
+	2.
+	sbesz / sbujesz robiący
+	sbewa / sbujewa robiący
+	sbecie / sbujecie robiący
+	3.
+	sbet / sbujet robiący
+	sbete / sbujete robiący
+	sbąt / sbująt robiący
+	struktura: 
+* (przedrostek + ”być”) + imiesłów czynny
+* “stanę się taki, który (np. robi)”
+________________
+
+
+8) FUT-STAT — stan przyszły / rezultatywny
+znaczenie:
+* stan po wykonaniu czynności w przyszłości
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sbę / sbuję robił
+	sbuje / sbujena  robili
+	sbemy / sbujemy robili
+	2.
+	sbesz / sbujesz robił
+	sbewa / sbujewa robili
+	sbecie / sbujecie robili
+	3.
+	sbet / sbujet robił
+	sbete / sbujete robili
+	sbąt / sbująt robili
+	struktura: 
+* (przedrostek + ”być”) +  imiesłów przeszły
+* “stanę się taki, który (np. robił)”
+________________
+
+
+TRYB ROZKAZUJĄCY
+9) ROZKAZUJĄCY
+znaczenie:
+* nakaz / polecenie
+źródło
+Osoba i Liczba
+	Imperativus Atematyczny Czynny
+	Imperativus Atematyczny Średni
+	Imperativus Tematyczny Czynny
+	Imperativus Tematyczny Średni
+	2. l. poj.
+	*-∅ / *-dʰí
+	*-só / *-swé
+	*-e / *-etōd
+	*-esó / *-eswé
+	3. l. poj.
+	*-tú
+	*-tó / *-ó
+	*-etú / *-etōd
+	*-etó / *-etō
+	2. l. podw.
+	*-tóm
+	*-th₂óh₂
+	*-etóm
+	*-etóm
+	3. l. podw.
+	*-tā́m
+	*-tóh₂
+	*-ewam
+	*-etóh₂
+	2. l. mn.
+	*-té
+	*-dʰh₂wé / *-dʰu̯e
+	*-eté
+	*-edʰh₂wé / *-edʰu̯e
+	3. l. mn.
+	*-éntu / *-ntōd
+	*-ntó / *-ró
+	*-óntu / *-ontōd
+	*-ontó / *-oró
+	
+
+Osoba i Liczba
+	Atematyczny (Czynny)
+	Tematyczny (Czynny)
+	Uwagi
+	2. l. poj.
+	*-tōd
+	*-etōd
+	Pierwotnie: „Zrób to potem”
+	3. l. poj.
+	*-tōd
+	*-etōd
+	Używane w tekstach prawnych
+	2. l. mn.
+	-tōd / (-tōte*)
+	-etōd / (-etōte*)
+	Formy typu estote to innowacje
+	3. l. mn.
+	*-ntōd
+	*-ontōd
+	Powstałe przez kontaminację z -nt
+	
+
+Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd  jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem").
+W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. Co ciekawe, w najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
+
+
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	zrobidę (~~~) / zrobidzę (~~~)
+	zrobidwa (~~~) / zrobidźwa (~~~)
+	zrobidmy (~~~) / zrobidźmy (~~~)
+	2.
+	zrobidesz (~) / zrobidzisz (~)
+	zrobidta (~~~) / zrobidźta (~~~)
+	zrobidcie  (~~)  / zrobidźcie  (~~)
+	3.
+	zrobidet (~~~) / zrobidzit (~~~)
+	zrobidte (~~~) / zrobidźte(~~~)
+	zrobidąt  (~~~) / zrobidząt (~~~)
+	________________
+
+
+IMIESŁOWY
+10) IMIESŁÓW CZYNNY
+forma:
+* -cy / -ca / -ce
+przykłady:
+* robiący
+* dający
+znaczenie:
+* ”ten, kto daje / robi”
+________________
+
+
+11) IMIESŁÓW BIERNY
+forma:
+* -ny / -na / -ne (od czasowników z tematem na -a-)
+* -ony / -ona / -one (od czasowników z tematem na -i-/-y-)
+znaczenie:
+* ”ten, któremu wykonano czynność”
+* ”będący w stanie po wykonaniu czynności”
+przykłady:
+* sprzedany — ”sprzedany, oddany”
+* dany — ”przekazany”
+* widziany — ”postrzeżony”
+
+
+________________
+
+
+12) IMIESŁÓW PRZESZŁY (L-PARTICIPLE)
+znaczenie: “ten, który X-ował” / “będący po X-owaniu” 
+struktura:
+* baza + ł - taki, który baza-ował {robił - taki, który robił, robi + ł}
+* przedrostek + baza + a + ł - taki, który przedrostek-baza-a-ował  {przerobiał - taki, który przerabiał, prze + robi + a + ł} — nie da się tutaj zrobić habitualu jako -a-!
+* przedrostek + baza + ł - taki, który baza-ł {zrobił - taki, który zrobił, z + robi + ł}
+Rodzaj
+	Pojedyncza
+	Podwójna
+	Mnoga
+	m.
+	-ł
+	-ła
+	-li
+	f.
+	-ła
+	-ły
+	-ły
+	n.
+	-ło
+	-le
+	-la
+	
+
+________________
+
+
+INCHOATYW
+13) INCHOATYW
+znaczenie:
+* zaczynanie stanu / wchodzenie w stan
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	starzeję
+	starzejena 
+	starzejemy
+	2.
+	starzejesz
+	starzejewa
+	starzejecie
+	3.
+	starzejet
+	starzejete 
+	starzejąt
+	znaczenie przykładu:
+* ja starzeję = ja staję się starszy “starzejeć”
+14) TRYB OPTATYWNY
+znaczenie: 
+* wyrażenie życzenia, potencjalności, ewentualności
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	robieję (~~~)
+	robiejwa 
+	robiejmy
+	2.
+	robiejesz
+	robiejta
+	robiejcie
+	3.
+	robiejet
+	robiejte
+	robiejąt
+	TRYB WARUNKOWY / PRZYPUSZCZAJĄCY
+15*) OPTATYWNY
+znaczenie:
+* czynność możliwa, warunkowa, życzeniowa 
+* “zrobiłby”, “uczyniłby”, “abyś zrobił”
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	bujeję robił
+	bujejwa robiła
+	bujejmy robili
+	2.
+	bujejesz robił
+	bujejta robiła
+	bujejcie robili
+	3.
+	bujejet robił
+	bujejte robiła
+	bujejąt robili
+	struktura:
+* optatyw “być” + imiesłów (jakikolwiek)
+* “byłbym taki, który robił/robi/jest robiony”
+16*) AORYSTOWY
+znaczenie:
+* czynność możliwa, warunkowa; przeszłościowa
+* “gdyby zrobił”
+* bardziej rodzimy
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	li buj robił
+	li bujona robili
+	li bujomy robili
+	2.
+	li buja robił
+	li bujota robili
+	li bujocie robili
+	3.
+	li buje robił
+	li bujote robili 
+	li bują robili
+	struktura:
+* li / coś warunkowe + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj, …]
+* “‘jeżeli byłbym’ / ‘gdybym był’ taki, który robił”
