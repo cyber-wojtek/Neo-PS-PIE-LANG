@@ -275,17 +275,17 @@ Osoba
 	Podwójna
 	Mnoga
 	1.
-	zrobidę (~~~) / zrobidzę (~~~)
-	zrobidwa (~~~) / zrobidźwa (~~~)
-	zrobidmy (~~~) / zrobidźmy (~~~)
+	robięwu [robięu?]
+	robinu
+	robimu
 	2.
-	zrobidesz (~) / zrobidzisz (~)
-	zrobidta (~~~) / zrobidźta (~~~)
-	zrobidcie  (~~)  / zrobidźcie  (~~)
+	robiszu
+	robiwu
+	robiciu
 	3.
-	zrobidet (~~~) / zrobidzit (~~~)
-	zrobidte (~~~) / zrobidźte(~~~)
-	zrobidąt  (~~~) / zrobidząt (~~~)
+	robitu
+	robitew  / robitewu [robiteu?]
+	robiątu
 	________________
 
 
