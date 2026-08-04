@@ -23,7 +23,7 @@ LICZBA PODWÓJNA
 Przypadek
 	Forma
 	Mianownik
-	na
+	wa
 	Dopełniacz
 	naju
 	Celownik
@@ -41,7 +41,7 @@ LICZBA MNOGA
 Przypadek
 	Forma
 	Mianownik
-	ny/my
+	wi
 	Dopełniacz
 	nas
 	Celownik
@@ -115,7 +115,7 @@ LICZBA PODWÓJNA
 Przypadek
 	Forma
 	Mianownik
-	wa
+	ja
 	Dopełniacz
 	waju
 	Celownik
@@ -133,7 +133,7 @@ LICZBA MNOGA
 Przypadek
 	Forma
 	Mianownik
-	wy
+	jy/ji
 	Dopełniacz
 	was
 	Celownik

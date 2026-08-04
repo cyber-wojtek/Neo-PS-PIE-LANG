@@ -2,216 +2,600 @@
 CZAS PRZESZŁY
 1) PERF — perfekt historyczny / analityczny
 znaczenie:
-* stan po wykonaniu czynności
-* ”jestem w stanie po wykonaniu”
-* używa imiesłowu przeszłego
+stan po wykonaniu czynności
+”jestem w stanie po wykonaniu”
+używa imiesłowu przeszłego
 struktura:
-* “jeść” teraźn. + imiesłów przeszły
+“jeść” teraźn. + imiesłów przeszły
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę zrobiłø/o/a
+jesewa zrobiła/lie
+jesemy zrobili/ły
+2.
+jesiesz zrobiłø/o/a
+jeseta zrobiła/lie
+jesecie zrobili/ły
+3.
+jest zrobiłø/o/a
+jesete zrobiła/lie
+jesąt zrobili/ły
+2) AORYST
+znaczenie:
+czynność zakończona w przeszłości
+fakt punktowy / zdarzenie
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesoch
+jesochowa
+jesochomy
+2.
+jesosza
+jesoszeta
+jesoszecie
+3.
+jesosze
+jesoszete
+jesochą
+3) IMPERFEKT
+znaczenie:
+czynność trwająca, powtarzana albo tło w przeszłości
+”bywało / robiło się / było w trakcie”
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesach
+jesachowa
+jesachomy
+2.
+jesasza
+jesaszeta
+jesaszecie
+3.
+jesasze
+jesaszete
+jesachą
+4) PERF-REL — zaprzeszły / anterior past
+znaczenie:
+czynność zakończona przed inną czynnością przeszłą
+”już wcześniej było wykonane”
+używa imiesłowu przeszłego
+struktura:
+“jeść” teraźn. + “jeść” przeszł. + imiesłów przeszły
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę jeseł zrobił
+jesewa jeseli zrobili
+jesemy jeseli zrobili
+2.
+jesiesz jeseł zrobił
+jeseta jeseli zrobili
+jesecie jeseli zrobili
+3.
+jest jeseł zrobił
+jesete jeseli zrobili
+jesąt jeseli zrobili
+CZAS TERAŹNIEJSZY
+5) PRES — teraźniejszy podstawowy
+znaczenie:
+czynność dziejąca się teraz
+struktura:
+baza + końcówka
+przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę
+jesewa
+jesemy
+2.
+jesesz
+jeseta
+jesecie
+3.
+jest
+jesete
+jesąt
+CZAS PRZYSZŁY
+6) FUT-ASP — przyszłość dokonana
+znaczenie:
+czynność zakończona w przyszłości
+struktura:
+przedrostek + baza + końcówka (tzn. przedrostek + surowa forma teraźniejsza)
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sjesę
+sjesewa  
+sjesemy
+2.
+sjesesz
+sjeseta
+sjesecie
+3.
+sjeset
+sjesete
+sjesąt
+struktura:
+prefiks + forma teraźniejsza‘
+7) FUT-PERIPH — przyszłość niedokonana
+znaczenie:
+”wchodzę w stan robienia”
+przyszłość czynności niedokonanej
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sbę / sbuję  robiący
+sbywa / sbujewa  robiący
+sbemy / sbujemy robiący
+2.
+sbesz / sbujesz robiący
+sbeta / sbujeta robiący
+sbecie / sbujecie robiący
+3.
+sbet / sbujet robiący
+sbete / sbujete robiący
+sbąt / sbująt robiący
+struktura:
+(przedrostek + ”być”) + imiesłów czynny
+“stanę się taki, który (np. robi)”
+8) FUT-STAT — stan przyszły / rezultatywny
+znaczenie:
+stan po wykonaniu czynności w przyszłości
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sbę / sbuję robił
+sbewa / sbujewa  robili
+sbemy / sbujemy robili
+2.
+sbesz / sbujesz robił
+sbeta / sbujeta robili
+sbecie / sbujecie robili
+3.
+sbet / sbujet robił
+sbete / sbujete robili
+sbąt / sbująt robili
+struktura:
+(przedrostek + ”być”) +  imiesłów przeszły
+“stanę się taki, który (np. robił)”
+TRYB ROZKAZUJĄCY
+9) ROZKAZUJĄCY
+znaczenie:
+nakaz / polecenie
+źródło
+Osoba i Liczba
+Imperativus Atematyczny Czynny
+Imperativus Atematyczny Średni
+Imperativus Tematyczny Czynny
+Imperativus Tematyczny Średni
+2. l. poj.
+*-∅ / *-dʰí
+*-só / *-swé
+*-e / *-etōd
+*-esó / *-eswé
+3. l. poj.
+*-tú
+*-tó / *-ó
+*-etú / *-etōd
+*-etó / *-etō
+2. l. podw.
+*-tóm
+*-th₂óh₂
+*-etóm
+*-etóm
+3. l. podw.
+*-tā́m
+*-tóh₂
+*-ewam
+*-etóh₂
+2. l. mn.
+*-té
+*-dʰh₂wé / *-dʰu̯e
+*-eté
+*-edʰh₂wé / *-edʰu̯e
+3. l. mn.
+*-éntu / *-ntōd
+*-ntó / *-ró
+*-óntu / *-ontōd
+*-ontó / *-oró
+Osoba i Liczba
+Atematyczny (Czynny)
+Tematyczny (Czynny)
+Uwagi
+2. l. poj.
+*-tōd
+*-etōd
+Pierwotnie: „Zrób to potem”
+3. l. poj.
+*-tōd
+*-etōd
+Używane w tekstach prawnych
+2. l. mn.
+-tōd / (-tōte*)
+-etōd / (-etōte*)
+Formy typu estote to innowacje
+3. l. mn.
+*-ntōd
+*-ontōd
+Powstałe przez kontaminację z -nt
+Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd  jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem").
+W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. Co ciekawe, w najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+robięwu [robięu?]
+robiwu
+robimu
+2.
+robiszu
+robitu
+robiciu
+3.
+robitu
+robitew  / robitewu [robiteu?]
+robiątu
+IMIESŁOWY
+10) IMIESŁÓW CZYNNY
+forma:
+-cy / -ca / -ce
+przykłady:
+robiący
+dający
+znaczenie:
+”ten, kto daje / robi
+11) IMIESŁÓW BIERNY
+forma:
+-ny / -na / -ne (od czasowników z tematem na -a-)
+-ony / -ona / -one (od czasowników z tematem na -i-/-y-)
+znaczenie:
+”ten, któremu wykonano czynność”
+”będący w stanie po wykonaniu czynności”
+przykłady:
+sprzedany — ”sprzedany, oddany”
+dany — ”przekazany”
+widziany — ”postrzeżony”
+12) IMIESŁÓW PRZESZŁY I STOPNIA (PEŁNY TEMAT)
+forma:
+-szy / -sza / -sze (od czasowników o temacie spółgłoskowym)
+-wszy / -wsza / -wsze (od czasowników o temacie samogłoskowym)
+znaczenie:
+„ten, który dokonał czynności X” (akcent na sam fakt / punktowość zdarzenia)
+„będący sprawcą zakończonej akcji X”
+struktura:
+baza spółgłosk. + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+baza samogłosk. + -w- + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+przykłady:
+nieswszy — „ten, który przyniósł (fakt)” (baza nes- + -sz- + -y)
+chwaliwszy — „ten, który pochwalił (fakt)” (baza chvali- + -w- + -sz- + -y)
+Rodzaj i Liczba:
+Liczba
+Rodzaj męski
+Rodzaj żeński
+Rodzaj nijaki
+Poj.
+nieswszy / chwaliwszy
+nieswsza / chwaliwsza
+nieswsze / chwaliwsze
+Podw.
+nieswsza / chwaliwsza
+nieswszy / chwaliwszy
+nieswszy / chwaliwszy
+Mnoga
+nieswsi / chwaliwsi (m.-os.)
+nieswszy / chwaliwszy
+nieswsza / chwaliwsza
+* Korekta fonetyczna: Prasłowiańskie š przed przymiotnikowym i w liczbie mnogiej męskoosobowej regularnie ulegało palatalizacji II stopnia (przejście w miękkie s' / s), stąd niesi (jak wasi od wasz), a nie nieszy.
+13) IMIESŁÓW PRZESZŁY II STOPNIA (L-PARTICIPLE)
+forma:
+-ły / -ła / -ło / -le
+znaczenie:
+„ten, który X-ał i nosi to w sobie jako trwały stan”
+„ten, w którym czynność trwa jako rezultat”
+struktura:
+baza + przyrostek rezultatywny -ł- + przymiotnikowa końcówka klasy {-y/-a/-o/-e}
+przykłady:
+niesły — „będący w stanie po niesieniu / naznaczony niesieniem”
+chwaliły — „będący w stanie po chwaleniu”
+Rodzaj i Liczba:
+Liczba
+Rodzaj męski
+Rodzaj żeński
+Rodzaj nijaki
+Poj.
+niesły
+niesła
+niesło
+Podw.
+niesła (dwaj)
+niesle (dwie)
+niesle (dwa)
+Mnoga
+nieśli (m.-os.)
+niesły (ż./n.-m.)
+niesła (nijaki)
+INCHOATYW
+14) INCHOATYW
+znaczenie:
+zaczynanie stanu / wchodzenie w stan
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+starzeję
+starzejewa
+starzejemy
+2.
+starzejesz
+starzejeta
+starzejecie
+3.
+starzejet
+starzejete
+starzejąt
+znaczenie przykładu:
+ja starzeję = ja staję się starszy “starzejeć”
+15) TRYB OPTATYWNY
+znaczenie:
+wyrażenie życzenia, potencjalności, ewentualności
+Osoba
+Pojedyncza
+  Podwójna
+Mnoga
+1.
+robieję (~~~)
+robiejwa
+robiejmy
+2.
+robiejesz
+robiejta
+robiejcie
+3.
+robiejet
+robiejte
+robiejąt
+TRYB WARUNKOWY / PRZYPUSZCZAJĄCY
+16*) OPTATYWNY
+znaczenie:
+czynność możliwa, warunkowa, życzeniowa
+“zrobiłby”, “uczyniłby”, “abyś zrobił”
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+bujeję robił
+bujejwa robiła
+bujejmy robili
+2.
+bujejesz robił
+bujejta robiła
+bujejcie robili
+3.
+bujejet robił
+bujejte robiła
+bujejąt robili
+struktura:
+optatyw “być” + imiesłów (jakikolwiek)
+“byłbym taki, który robił/robi/jest robiony”
+17*) AORYSTOWY
+znaczenie:
+czynność możliwa, warunkowa; przeszłościowa
+“gdyby zrobił”
+bardziej rodzimy
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+li buj robił
+li bujowa robili
+li bujomy robili
+2.
+li buja robił
+li bujota  robili
+li bujocie robili
+3.
+li buje robił
+li bujote robili
+li bują robili
+struktura:
+li / coś warunkowe + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj, …]
+“‘jeżeli byłbym’ / ‘gdybym był’ taki, który robił”
+fix formatting & add section abt -ną- jak w pchNĄĆ
+Like:
+How it connects with all "imiesłowy"
+Pchniętyv pchnąwszy, pchnął
+And aorist
+Pchnąch
+I w teorii imperfekt
+Pchniech (aczkolwiek to jest debatowalne ale technicznie poprawne)
+Oto Twój uporządkowany dokument. Usunąłem elementy interfejsu aplikacji, sformatowałem wszystkie paradygmaty do czytelnych tabel i dodałem na końcu rozbudowaną sekcję dotyczącą czasowników z sufiksem -ną- (zgodnie z Twoimi wytycznymi).
+Czasowniki: Czasy i Tryby
+CZAS PRZESZŁY
+1) PERF — perfekt historyczny / analityczny
+* Znaczenie: stan po wykonaniu czynności (”jestem w stanie po wykonaniu”).
+* Struktura: czasownik posiłkowy w czasie teraźniejszym + imiesłów przeszły.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	jesę zrobiłø/o/a
-	jesena zrobiła/lie
+	jesewa zrobiła/lie
 	jesemy zrobili/ły
 	2.
 	jesiesz zrobiłø/o/a
-	jesewa zrobiła/lie
+	jeseta zrobiła/lie
 	jesecie zrobili/ły
 	3.
 	jest zrobiłø/o/a
 	jesete zrobiła/lie
 	jesąt zrobili/ły
-	________________
-
-
-2) AORYST
-znaczenie:
-* czynność zakończona w przeszłości
-* fakt punktowy / zdarzenie
+	2) AORYST
+* Znaczenie: czynność zakończona w przeszłości, fakt punktowy / zdarzenie.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
-	jes
-	jesona 
-	jesomy
+	jesoch
+	jesochowa
+	jesochomy
 	2.
-	jesa
-	jesota
-	jesocie
+	jesosza
+	jesoszeta
+	jesoszecie
 	3.
-	jese
-	jesote
-	jesą
-	________________
-
-
-3) IMPERFEKT
-znaczenie:
-* czynność trwająca, powtarzana albo tło w przeszłości
-* ”bywało / robiło się / było w trakcie”
+	jesosze
+	jesoszete
+	jesochą
+	3) IMPERFEKT
+* Znaczenie: czynność trwająca, powtarzana albo tło w przeszłości (”bywało / robiło się / było w trakcie”).
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	jesach
-	jesachona 
-	jesechomy
+	jesachowa
+	jesachomy
 	2.
 	jesasza
-	jesaszewa
-	jeseszecie
+	jesaszeta
+	jesaszecie
 	3.
 	jesasze
 	jesaszete
 	jesachą
-	________________
-
-
-4) PERF-REL — zaprzeszły / anterior past
-znaczenie:
-* czynność zakończona przed inną czynnością przeszłą
-* ”już wcześniej było wykonane”
-* używa imiesłowu przeszłego
-struktura:
-* “jeść” teraźn. + “jeść” przeszł. + imiesłów przeszły
+	4) PERF-REL — zaprzeszły / anterior past
+* Znaczenie: czynność zakończona przed inną czynnością przeszłą (”już wcześniej było wykonane”).
+* Struktura: czasownik posiłkowy w czasie teraźniejszym + czasownik posiłkowy w czasie przeszłym + imiesłów przeszły.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	jesę jeseł zrobił
-	jesena jeseli zrobili
+	jesewa jeseli zrobili
 	jesemy jeseli zrobili
 	2.
 	jesiesz jeseł zrobił
-	jesewa jeseli zrobili
+	jeseta jeseli zrobili
 	jesecie jeseli zrobili
 	3.
 	jest jeseł zrobił
 	jesete jeseli zrobili
 	jesąt jeseli zrobili
-	________________
-
-
-CZAS TERAŹNIEJSZY
+	CZAS TERAŹNIEJSZY
 5) PRES — teraźniejszy podstawowy
-znaczenie:
-* czynność dziejąca się teraz
-struktura:
-* baza + końcówka
-* przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!
+* Znaczenie: czynność dziejąca się teraz.
+* Struktura: baza + końcówka (lub przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!).
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	jesę
-	jesena 
+	jesewa
 	jesemy
 	2.
 	jesesz
-	jesewa 
+	jeseta
 	jesecie
 	3.
 	jest
 	jesete
 	jesąt
-	________________
-
-
-CZAS PRZYSZŁY
+	CZAS PRZYSZŁY
 6) FUT-ASP — przyszłość dokonana
-znaczenie:
-* czynność zakończona w przyszłości
-struktura:
-* przedrostek + baza + końcówka (tzn. przedrostek + surowa forma teraźniejsza) 
+* Znaczenie: czynność zakończona w przyszłości.
+* Struktura: przedrostek + baza + końcówka (przedrostek + surowa forma teraźniejsza).
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	sjesę
-	sjesena 
+	sjesewa
 	sjesemy
 	2.
 	sjesesz
-	sjesewa
+	sjeseta
 	sjesecie
 	3.
 	sjeset
 	sjesete
 	sjesąt
-	struktura:
-* prefiks + forma teraźniejsza
-________________
-
-
-7) FUT-PERIPH — przyszłość niedokonana
-znaczenie:
-* ”wchodzę w stan robienia”
-* przyszłość czynności niedokonanej
+	7) FUT-PERIPH — przyszłość niedokonana
+* Znaczenie: przyszłość czynności niedokonanej (”wchodzę w stan robienia”, “stanę się taki, który np. robi”).
+* Struktura: (przedrostek + ”być”) + imiesłów czynny.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
-	sbę / sbuję  robiący
-	sbywa / sbujena  robiący
+	sbę / sbuję robiący
+	sbywa / sbujewa robiący
 	sbemy / sbujemy robiący
 	2.
 	sbesz / sbujesz robiący
-	sbewa / sbujewa robiący
+	sbeta / sbujeta robiący
 	sbecie / sbujecie robiący
 	3.
 	sbet / sbujet robiący
 	sbete / sbujete robiący
 	sbąt / sbująt robiący
-	struktura: 
-* (przedrostek + ”być”) + imiesłów czynny
-* “stanę się taki, który (np. robi)”
-________________
-
-
-8) FUT-STAT — stan przyszły / rezultatywny
-znaczenie:
-* stan po wykonaniu czynności w przyszłości
+	8) FUT-STAT — stan przyszły / rezultatywny
+* Znaczenie: stan po wykonaniu czynności w przyszłości (“stanę się taki, który np. robił”).
+* Struktura: (przedrostek + ”być”) + imiesłów przeszły.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	sbę / sbuję robił
-	sbuje / sbujena  robili
+	sbewa / sbujewa robili
 	sbemy / sbujemy robili
 	2.
 	sbesz / sbujesz robił
-	sbewa / sbujewa robili
+	sbeta / sbujeta robili
 	sbecie / sbujecie robili
 	3.
 	sbet / sbujet robił
 	sbete / sbujete robili
 	sbąt / sbująt robili
-	struktura: 
-* (przedrostek + ”być”) +  imiesłów przeszły
-* “stanę się taki, który (np. robił)”
-________________
-
-
-TRYB ROZKAZUJĄCY
+	TRYB ROZKAZUJĄCY
 9) ROZKAZUJĄCY
-znaczenie:
-* nakaz / polecenie
-źródło
-Osoba i Liczba
-	Imperativus Atematyczny Czynny
-	Imperativus Atematyczny Średni
-	Imperativus Tematyczny Czynny
-	Imperativus Tematyczny Średni
+* Znaczenie: nakaz / polecenie.
+Źródłosłów indoeuropejski (Imperativus):
+Osoba / Liczba
+	Atematyczny Czynny
+	Atematyczny Średni
+	Tematyczny Czynny
+	Tematyczny Średni
 	2. l. poj.
 	*-∅ / *-dʰí
 	*-só / *-swé
@@ -242,9 +626,8 @@ Osoba i Liczba
 	*-ntó / *-ró
 	*-óntu / *-ontōd
 	*-ontó / *-oró
-	
-
-Osoba i Liczba
+	Rozwój końcówki -tōd:
+Osoba / Liczba
 	Atematyczny (Czynny)
 	Tematyczny (Czynny)
 	Uwagi
@@ -264,118 +647,106 @@ Osoba i Liczba
 	*-ntōd
 	*-ontōd
 	Powstałe przez kontaminację z -nt
-	
-
-Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd  jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem").
-W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. Co ciekawe, w najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
-
-
+	Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem"). W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. W najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
+Zrekonstruowany paradygmat rozkazujący:
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	robięwu [robięu?]
-	robinu
+	robiwu
 	robimu
 	2.
 	robiszu
-	robiwu
+	robitu
 	robiciu
 	3.
 	robitu
-	robitew  / robitewu [robiteu?]
+	robitew / robitewu [robiteu?]
 	robiątu
-	________________
-
-
-IMIESŁOWY
+	IMIESŁOWY
 10) IMIESŁÓW CZYNNY
-forma:
-* -cy / -ca / -ce
-przykłady:
-* robiący
-* dający
-znaczenie:
-* ”ten, kto daje / robi”
-________________
-
-
+* Forma: -cy / -ca / -ce
+* Znaczenie: ”ten, kto daje / robi”
+* Przykłady: robiący, dający
 11) IMIESŁÓW BIERNY
-forma:
-* -ny / -na / -ne (od czasowników z tematem na -a-)
-* -ony / -ona / -one (od czasowników z tematem na -i-/-y-)
-znaczenie:
-* ”ten, któremu wykonano czynność”
-* ”będący w stanie po wykonaniu czynności”
-przykłady:
-* sprzedany — ”sprzedany, oddany”
-* dany — ”przekazany”
-* widziany — ”postrzeżony”
-
-
-________________
-
-
-12) IMIESŁÓW PRZESZŁY (L-PARTICIPLE)
-znaczenie: “ten, który X-ował” / “będący po X-owaniu” 
-struktura:
-* baza + ł - taki, który baza-ował {robił - taki, który robił, robi + ł}
-* przedrostek + baza + a + ł - taki, który przedrostek-baza-a-ował  {przerobiał - taki, który przerabiał, prze + robi + a + ł} — nie da się tutaj zrobić habitualu jako -a-!
-* przedrostek + baza + ł - taki, który baza-ł {zrobił - taki, który zrobił, z + robi + ł}
-Rodzaj
+* Forma: -ny / -na / -ne (od czasowników z tematem na -a-), -ony / -ona / -one (od czasowników z tematem na -i-/-y-)
+* Znaczenie: ”ten, któremu wykonano czynność”, ”będący w stanie po wykonaniu czynności”
+* Przykłady: sprzedany (”sprzedany, oddany”), dany (”przekazany”), widziany (”postrzeżony”)
+12) IMIESŁÓW PRZESZŁY I STOPNIA (PEŁNY TEMAT)
+* Forma: -szy / -sza / -sze (temat spółgłoskowy), -wszy / -wsza / -wsze (temat samogłoskowy)
+* Znaczenie: „ten, który dokonał czynności X” (akcent na sam fakt / punktowość zdarzenia), „będący sprawcą zakończonej akcji X”.
+* Struktura:
+   * baza spółgłosk. + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+   * baza samogłosk. + -w- + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+* Przykłady: nieswszy („ten, który przyniósł”), chwaliwszy („ten, który pochwalił”).
+Liczba
+	Rodzaj męski
+	Rodzaj żeński
+	Rodzaj nijaki
 	Pojedyncza
+	nieswszy / chwaliwszy
+	nieswsza / chwaliwsza
+	nieswsze / chwaliwsze
 	Podwójna
+	nieswsza / chwaliwsza
+	nieswszy / chwaliwszy
+	nieswszy / chwaliwszy
 	Mnoga
-	m.
-	-ł
-	-ła
-	-li
-	f.
-	-ła
-	-ły
-	-ły
-	n.
-	-ło
-	-le
-	-la
-	
-
-________________
-
-
-INCHOATYW
-13) INCHOATYW
-znaczenie:
-* zaczynanie stanu / wchodzenie w stan
+	nieswsi / chwaliwsi (m.-os.)
+	nieswszy / chwaliwszy
+	nieswsza / chwaliwsza
+	Korekta fonetyczna: Prasłowiańskie š przed przymiotnikowym i w liczbie mnogiej męskoosobowej regularnie ulegało palatalizacji II stopnia (przejście w miękkie s' / s), stąd niesi (jak wasi od wasz), a nie nieszy.
+13) IMIESŁÓW PRZESZŁY II STOPNIA (L-PARTICIPLE)
+* Forma: -ły / -ła / -ło / -le
+* Znaczenie: „ten, który X-ał i nosi to w sobie jako trwały stan”, „ten, w którym czynność trwa jako rezultat”.
+* Struktura: baza + przyrostek rezultatywny -ł- + przymiotnikowa końcówka klasy {-y/-a/-o/-e}
+* Przykłady: niesły („będący w stanie po niesieniu”), chwaliły („będący w stanie po chwaleniu”).
+Liczba
+	Rodzaj męski
+	Rodzaj żeński
+	Rodzaj nijaki
+	Pojedyncza
+	niesły
+	niesła
+	niesło
+	Podwójna
+	niesła (dwaj)
+	niesle (dwie)
+	niesle (dwa)
+	Mnoga
+	nieśli (m.-os.)
+	niesły (ż./n.-m.)
+	niesła (nijaki)
+	INCHOATYW I TRYBY WARUNKOWE
+14) INCHOATYW
+* Znaczenie: zaczynanie stanu / wchodzenie w stan (np. ja starzeję = ja staję się starszy “starzejeć”).
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	starzeję
-	starzejena 
+	starzejewa
 	starzejemy
 	2.
 	starzejesz
-	starzejewa
+	starzejeta
 	starzejecie
 	3.
 	starzejet
-	starzejete 
+	starzejete
 	starzejąt
-	znaczenie przykładu:
-* ja starzeję = ja staję się starszy “starzejeć”
-14) TRYB OPTATYWNY
-znaczenie: 
-* wyrażenie życzenia, potencjalności, ewentualności
+	15) TRYB OPTATYWNY (PODSTAWOWY)
+* Znaczenie: wyrażenie życzenia, potencjalności, ewentualności.
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	robieję (~~~)
-	robiejwa 
+	robiejwa
 	robiejmy
 	2.
 	robiejesz
@@ -385,11 +756,9 @@ Osoba
 	robiejet
 	robiejte
 	robiejąt
-	TRYB WARUNKOWY / PRZYPUSZCZAJĄCY
-15*) OPTATYWNY
-znaczenie:
-* czynność możliwa, warunkowa, życzeniowa 
-* “zrobiłby”, “uczyniłby”, “abyś zrobił”
+	16*) OPTATYWNY WARUNKOWY / PRZYPUSZCZAJĄCY
+* Znaczenie: czynność możliwa, warunkowa, życzeniowa (“zrobiłby”, “uczyniłby”, “abyś zrobił”).
+* Struktura: optatyw “być” + imiesłów (jakikolwiek) (“byłbym taki, który robił/robi/jest robiony”).
 Osoba
 	Pojedyncza
 	Podwójna
@@ -406,21 +775,16 @@ Osoba
 	bujejet robił
 	bujejte robiła
 	bujejąt robili
-	struktura:
-* optatyw “być” + imiesłów (jakikolwiek)
-* “byłbym taki, który robił/robi/jest robiony”
-16*) AORYSTOWY
-znaczenie:
-* czynność możliwa, warunkowa; przeszłościowa
-* “gdyby zrobił”
-* bardziej rodzimy
+	17*) AORYSTOWY WARUNKOWY
+* Znaczenie: czynność możliwa, warunkowa; przeszłościowa (“gdyby zrobił” — model bardziej rodzimy).
+* Struktura: li / partykuła warunkowa + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj…].
 Osoba
 	Pojedyncza
 	Podwójna
 	Mnoga
 	1.
 	li buj robił
-	li bujona robili
+	li bujowa robili
 	li bujomy robili
 	2.
 	li buja robił
@@ -428,8 +792,882 @@ Osoba
 	li bujocie robili
 	3.
 	li buje robił
-	li bujote robili 
+	li bujote robili
 	li bują robili
-	struktura:
-* li / coś warunkowe + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj, …]
-* “‘jeżeli byłbym’ / ‘gdybym był’ taki, który robił”
+	CZASOWNIKI Z SUFIKSEM -ną- (np. pchnąć)
+Sufiks -ną- (i jego warianty historyczne) służy do tworzenia czasowników o aspekcie jednokrotnym (semelfaktywnym). Oznacza czynność nagłą, punktową i pozbawioną trwania (dokonaną w ułamku sekundy). Pociąga to za sobą bardzo specyficzne zachowanie w ramach historycznych i hipotetycznych paradygmatów.
+1. Powiązanie z Aorystem (Zdarzenie punktowe)
+Dla czasowników jednokrotnych aoryst jest trybem naturalnym, wręcz rdzennym, ponieważ oba systemy (sufiks -ną- oraz aoryst) skupiają się na punktowości zdarzenia. Buduje się go w oparciu o temat pchną-.
+Osoba
+	Aoryst (Pojedyncza)
+	1.
+	pchnąch
+	2.
+	pchnąsza
+	3.
+	pchnąsze
+	2. Powiązanie z Imperfektem (Konflikt aspektowy)
+Tworzenie imperfektu dla czasowników jednokrotnych (np. "byłem w trakcie jednokrotnego pchnięcia") jest semantycznie debatowalne i wysoce nienaturalne. Z punktu widzenia mechaniki i samej morfologii jest jednak technicznie poprawne i możliwe do derywacji. Wykorzystuje się tu temat czasu teraźniejszego (od formy pchnie- tak jak pchniesz / pchnie).
+Osoba
+	Imperfekt (Pojedyncza)
+	Uwagi
+	1.
+	pchniech
+	Forma czysto teoretyczna / morfologiczna.
+	2.
+	pchniasza / pchniesza
+	Wykazuje palatalizację i wymianę rdzenną zależną od dialektu.
+	3.
+	pchniasze / pchniesze
+	Znaczenie: "bywało, że pchałem jednokrotnie".
+	3. Powiązanie z Imiesłowami
+Sufiks ten zachowuje się różnie w zależności od tworzonego imiesłowu (często dochodzi do przegłosu ą:ę lub odrzucenia nosówki).
+* Imiesłów Bierny (Stan po akcji): pchnięty
+   * Występuje charakterystyczna oboczność ą : ę (pchnąć -> pchnięty).
+   * Czasowniki te przyjmują formant -ty zamiast standardowego -ny.
+* Imiesłów Przeszły I stopnia (Uprzedni / Pełny temat): pchnąwszy
+   * Ponieważ temat czasu przeszłego kończy się na samogłoskę -ą-, przyjmuje sufiks -wszy (analogicznie do chwali-wszy).
+   * Znaczenie: "ten, który dokonał aktu pchnięcia".
+* Imiesłów Przeszły II stopnia (L-participle): pchnął / pchnęła
+   * Baza zachowuje pełny sufiks z widocznym przegłosem lechickim w zależności od rodzaju (-ną-ł w męskim, -nę-ła w żeńskim).
+Gemini to AI i może popełniać błędy, także co do ludzi. Twoja prywatność i Gemini
+Otwiera się w nowym oknie
+
+
+j poprawki, komentuj i udostępniaj, by edytować z innymi osobami w tym samym czasie.
+NIE, DZIĘKUJĘUŻYJ APLIKACJI
+Czasowniki
+CZASY, TRYBY
+CZAS PRZESZŁY
+1) PERF — perfekt historyczny / analityczny
+znaczenie:
+stan po wykonaniu czynności
+”jestem w stanie po wykonaniu”
+używa imiesłowu przeszłego
+struktura:
+“jeść” teraźn. + imiesłów przeszły
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę zrobiłø/o/a
+jesewa zrobiła/lie
+jesemy zrobili/ły
+2.
+jesiesz zrobiłø/o/a
+jeseta zrobiła/lie
+jesecie zrobili/ły
+3.
+jest zrobiłø/o/a
+jesete zrobiła/lie
+jesąt zrobili/ły
+2) AORYST
+znaczenie:
+czynność zakończona w przeszłości
+fakt punktowy / zdarzenie
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesoch
+jesochowa
+jesochomy
+2.
+jesosza
+jesoszeta
+jesoszecie
+3.
+jesosze
+jesoszete
+jesochą
+3) IMPERFEKT
+znaczenie:
+czynność trwająca, powtarzana albo tło w przeszłości
+”bywało / robiło się / było w trakcie”
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesach
+jesachowa
+jesachomy
+2.
+jesasza
+jesaszeta
+jesaszecie
+3.
+jesasze
+jesaszete
+jesachą
+4) PERF-REL — zaprzeszły / anterior past
+znaczenie:
+czynność zakończona przed inną czynnością przeszłą
+”już wcześniej było wykonane”
+używa imiesłowu przeszłego
+struktura:
+“jeść” teraźn. + “jeść” przeszł. + imiesłów przeszły
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę jeseł zrobił
+jesewa jeseli zrobili
+jesemy jeseli zrobili
+2.
+jesiesz jeseł zrobił
+jeseta jeseli zrobili
+jesecie jeseli zrobili
+3.
+jest jeseł zrobił
+jesete jeseli zrobili
+jesąt jeseli zrobili
+CZAS TERAŹNIEJSZY
+5) PRES — teraźniejszy podstawowy
+znaczenie:
+czynność dziejąca się teraz
+struktura:
+baza + końcówka
+przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+jesę
+jesewa
+jesemy
+2.
+jesesz
+jeseta
+jesecie
+3.
+jest
+jesete
+jesąt
+CZAS PRZYSZŁY
+6) FUT-ASP — przyszłość dokonana
+znaczenie:
+czynność zakończona w przyszłości
+struktura:
+przedrostek + baza + końcówka (tzn. przedrostek + surowa forma teraźniejsza)
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sjesę
+sjesewa  
+sjesemy
+2.
+sjesesz
+sjeseta
+sjesecie
+3.
+sjeset
+sjesete
+sjesąt
+struktura:
+prefiks + forma teraźniejsza‘
+7) FUT-PERIPH — przyszłość niedokonana
+znaczenie:
+”wchodzę w stan robienia”
+przyszłość czynności niedokonanej
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sbę / sbuję  robiący
+sbywa / sbujewa  robiący
+sbemy / sbujemy robiący
+2.
+sbesz / sbujesz robiący
+sbeta / sbujeta robiący
+sbecie / sbujecie robiący
+3.
+sbet / sbujet robiący
+sbete / sbujete robiący
+sbąt / sbująt robiący
+struktura:
+(przedrostek + ”być”) + imiesłów czynny
+“stanę się taki, który (np. robi)”
+8) FUT-STAT — stan przyszły / rezultatywny
+znaczenie:
+stan po wykonaniu czynności w przyszłości
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+sbę / sbuję robił
+sbewa / sbujewa  robili
+sbemy / sbujemy robili
+2.
+sbesz / sbujesz robił
+sbeta / sbujeta robili
+sbecie / sbujecie robili
+3.
+sbet / sbujet robił
+sbete / sbujete robili
+sbąt / sbująt robili
+struktura:
+(przedrostek + ”być”) +  imiesłów przeszły
+“stanę się taki, który (np. robił)”
+TRYB ROZKAZUJĄCY
+9) ROZKAZUJĄCY
+znaczenie:
+nakaz / polecenie
+źródło
+Osoba i Liczba
+Imperativus Atematyczny Czynny
+Imperativus Atematyczny Średni
+Imperativus Tematyczny Czynny
+Imperativus Tematyczny Średni
+2. l. poj.
+*-∅ / *-dʰí
+*-só / *-swé
+*-e / *-etōd
+*-esó / *-eswé
+3. l. poj.
+*-tú
+*-tó / *-ó
+*-etú / *-etōd
+*-etó / *-etō
+2. l. podw.
+*-tóm
+*-th₂óh₂
+*-etóm
+*-etóm
+3. l. podw.
+*-tā́m
+*-tóh₂
+*-ewam
+*-etóh₂
+2. l. mn.
+*-té
+*-dʰh₂wé / *-dʰu̯e
+*-eté
+*-edʰh₂wé / *-edʰu̯e
+3. l. mn.
+*-éntu / *-ntōd
+*-ntó / *-ró
+*-óntu / *-ontōd
+*-ontó / *-oró
+Osoba i Liczba
+Atematyczny (Czynny)
+Tematyczny (Czynny)
+Uwagi
+2. l. poj.
+*-tōd
+*-etōd
+Pierwotnie: „Zrób to potem”
+3. l. poj.
+*-tōd
+*-etōd
+Używane w tekstach prawnych
+2. l. mn.
+-tōd / (-tōte*)
+-etōd / (-etōte*)
+Formy typu estote to innowacje
+3. l. mn.
+*-ntōd
+*-ontōd
+Powstałe przez kontaminację z -nt
+Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd  jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem").
+W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. Co ciekawe, w najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+robięwu [robięu?]
+robiwu
+robimu
+2.
+robiszu
+robitu
+robiciu
+3.
+robitu
+robitew  / robitewu [robiteu?]
+robiątu
+IMIESŁOWY
+10) IMIESŁÓW CZYNNY
+forma:
+-cy / -ca / -ce
+przykłady:
+robiący
+dający
+znaczenie:
+”ten, kto daje / robi
+11) IMIESŁÓW BIERNY
+forma:
+-ny / -na / -ne (od czasowników z tematem na -a-)
+-ony / -ona / -one (od czasowników z tematem na -i-/-y-)
+znaczenie:
+”ten, któremu wykonano czynność”
+”będący w stanie po wykonaniu czynności”
+przykłady:
+sprzedany — ”sprzedany, oddany”
+dany — ”przekazany”
+widziany — ”postrzeżony”
+12) IMIESŁÓW PRZESZŁY I STOPNIA (PEŁNY TEMAT)
+forma:
+-szy / -sza / -sze (od czasowników o temacie spółgłoskowym)
+-wszy / -wsza / -wsze (od czasowników o temacie samogłoskowym)
+znaczenie:
+„ten, który dokonał czynności X” (akcent na sam fakt / punktowość zdarzenia)
+„będący sprawcą zakończonej akcji X”
+struktura:
+baza spółgłosk. + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+baza samogłosk. + -w- + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+przykłady:
+nieswszy — „ten, który przyniósł (fakt)” (baza nes- + -sz- + -y)
+chwaliwszy — „ten, który pochwalił (fakt)” (baza chvali- + -w- + -sz- + -y)
+Rodzaj i Liczba:
+Liczba
+Rodzaj męski
+Rodzaj żeński
+Rodzaj nijaki
+Poj.
+nieswszy / chwaliwszy
+nieswsza / chwaliwsza
+nieswsze / chwaliwsze
+Podw.
+nieswsza / chwaliwsza
+nieswszy / chwaliwszy
+nieswszy / chwaliwszy
+Mnoga
+nieswsi / chwaliwsi (m.-os.)
+nieswszy / chwaliwszy
+nieswsza / chwaliwsza
+* Korekta fonetyczna: Prasłowiańskie š przed przymiotnikowym i w liczbie mnogiej męskoosobowej regularnie ulegało palatalizacji II stopnia (przejście w miękkie s' / s), stąd niesi (jak wasi od wasz), a nie nieszy.
+13) IMIESŁÓW PRZESZŁY II STOPNIA (L-PARTICIPLE)
+forma:
+-ły / -ła / -ło / -le
+znaczenie:
+„ten, który X-ał i nosi to w sobie jako trwały stan”
+„ten, w którym czynność trwa jako rezultat”
+struktura:
+baza + przyrostek rezultatywny -ł- + przymiotnikowa końcówka klasy {-y/-a/-o/-e}
+przykłady:
+niesły — „będący w stanie po niesieniu / naznaczony niesieniem”
+chwaliły — „będący w stanie po chwaleniu”
+Rodzaj i Liczba:
+Liczba
+Rodzaj męski
+Rodzaj żeński
+Rodzaj nijaki
+Poj.
+niesły
+niesła
+niesło
+Podw.
+niesła (dwaj)
+niesle (dwie)
+niesle (dwa)
+Mnoga
+nieśli (m.-os.)
+niesły (ż./n.-m.)
+niesła (nijaki)
+INCHOATYW
+14) INCHOATYW
+znaczenie:
+zaczynanie stanu / wchodzenie w stan
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+starzeję
+starzejewa
+starzejemy
+2.
+starzejesz
+starzejeta
+starzejecie
+3.
+starzejet
+starzejete
+starzejąt
+znaczenie przykładu:
+ja starzeję = ja staję się starszy “starzejeć”
+15) TRYB OPTATYWNY
+znaczenie:
+wyrażenie życzenia, potencjalności, ewentualności
+Osoba
+Pojedyncza
+  Podwójna
+Mnoga
+1.
+robieję (~~~)
+robiejwa
+robiejmy
+2.
+robiejesz
+robiejta
+robiejcie
+3.
+robiejet
+robiejte
+robiejąt
+TRYB WARUNKOWY / PRZYPUSZCZAJĄCY
+16*) OPTATYWNY
+znaczenie:
+czynność możliwa, warunkowa, życzeniowa
+“zrobiłby”, “uczyniłby”, “abyś zrobił”
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+bujeję robił
+bujejwa robiła
+bujejmy robili
+2.
+bujejesz robił
+bujejta robiła
+bujejcie robili
+3.
+bujejet robił
+bujejte robiła
+bujejąt robili
+struktura:
+optatyw “być” + imiesłów (jakikolwiek)
+“byłbym taki, który robił/robi/jest robiony”
+17*) AORYSTOWY
+znaczenie:
+czynność możliwa, warunkowa; przeszłościowa
+“gdyby zrobił”
+bardziej rodzimy
+Osoba
+Pojedyncza
+Podwójna
+Mnoga
+1.
+li buj robił
+li bujowa robili
+li bujomy robili
+2.
+li buja robił
+li bujota  robili
+li bujocie robili
+3.
+li buje robił
+li bujote robili
+li bują robili
+struktura:
+li / coś warunkowe + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj, …]
+“‘jeżeli byłbym’ / ‘gdybym był’ taki, który robił”
+fix formatting & add section abt -ną- jak w pchNĄĆ
+Like:
+How it connects with all "imiesłowy"
+Pchniętyv pchnąwszy, pchnął
+And aorist
+Pchnąch
+I w teorii imperfekt
+Pchniech (aczkolwiek to jest debatowalne ale technicznie poprawne)
+Oto Twój uporządkowany dokument. Usunąłem elementy interfejsu aplikacji, sformatowałem wszystkie paradygmaty do czytelnych tabel i dodałem na końcu rozbudowaną sekcję dotyczącą czasowników z sufiksem -ną- (zgodnie z Twoimi wytycznymi).
+Czasowniki: Czasy i Tryby
+CZAS PRZESZŁY
+1) PERF — perfekt historyczny / analityczny
+* Znaczenie: stan po wykonaniu czynności (”jestem w stanie po wykonaniu”).
+* Struktura: czasownik posiłkowy w czasie teraźniejszym + imiesłów przeszły.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę zrobiłø/o/a
+	jesewa zrobiła/lie
+	jesemy zrobili/ły
+	2.
+	jesiesz zrobiłø/o/a
+	jeseta zrobiła/lie
+	jesecie zrobili/ły
+	3.
+	jest zrobiłø/o/a
+	jesete zrobiła/lie
+	jesąt zrobili/ły
+	2) AORYST
+* Znaczenie: czynność zakończona w przeszłości, fakt punktowy / zdarzenie.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesoch
+	jesochowa
+	jesochomy
+	2.
+	jesosza
+	jesoszeta
+	jesoszecie
+	3.
+	jesosze
+	jesoszete
+	jesochą
+	3) IMPERFEKT
+* Znaczenie: czynność trwająca, powtarzana albo tło w przeszłości (”bywało / robiło się / było w trakcie”).
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesach
+	jesachowa
+	jesachomy
+	2.
+	jesasza
+	jesaszeta
+	jesaszecie
+	3.
+	jesasze
+	jesaszete
+	jesachą
+	4) PERF-REL — zaprzeszły / anterior past
+* Znaczenie: czynność zakończona przed inną czynnością przeszłą (”już wcześniej było wykonane”).
+* Struktura: czasownik posiłkowy w czasie teraźniejszym + czasownik posiłkowy w czasie przeszłym + imiesłów przeszły.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę jeseł zrobił
+	jesewa jeseli zrobili
+	jesemy jeseli zrobili
+	2.
+	jesiesz jeseł zrobił
+	jeseta jeseli zrobili
+	jesecie jeseli zrobili
+	3.
+	jest jeseł zrobił
+	jesete jeseli zrobili
+	jesąt jeseli zrobili
+	CZAS TERAŹNIEJSZY
+5) PRES — teraźniejszy podstawowy
+* Znaczenie: czynność dziejąca się teraz.
+* Struktura: baza + końcówka (lub przedrostek + baza + a + końcówka — nie da się tutaj zrobić habitualu jako -a-!).
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	jesę
+	jesewa
+	jesemy
+	2.
+	jesesz
+	jeseta
+	jesecie
+	3.
+	jest
+	jesete
+	jesąt
+	CZAS PRZYSZŁY
+6) FUT-ASP — przyszłość dokonana
+* Znaczenie: czynność zakończona w przyszłości.
+* Struktura: przedrostek + baza + końcówka (przedrostek + surowa forma teraźniejsza).
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sjesę
+	sjesewa
+	sjesemy
+	2.
+	sjesesz
+	sjeseta
+	sjesecie
+	3.
+	sjeset
+	sjesete
+	sjesąt
+	7) FUT-PERIPH — przyszłość niedokonana
+* Znaczenie: przyszłość czynności niedokonanej (”wchodzę w stan robienia”, “stanę się taki, który np. robi”).
+* Struktura: (przedrostek + ”być”) + imiesłów czynny.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sbę / sbuję robiący
+	sbywa / sbujewa robiący
+	sbemy / sbujemy robiący
+	2.
+	sbesz / sbujesz robiący
+	sbeta / sbujeta robiący
+	sbecie / sbujecie robiący
+	3.
+	sbet / sbujet robiący
+	sbete / sbujete robiący
+	sbąt / sbująt robiący
+	8) FUT-STAT — stan przyszły / rezultatywny
+* Znaczenie: stan po wykonaniu czynności w przyszłości (“stanę się taki, który np. robił”).
+* Struktura: (przedrostek + ”być”) + imiesłów przeszły.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	sbę / sbuję robił
+	sbewa / sbujewa robili
+	sbemy / sbujemy robili
+	2.
+	sbesz / sbujesz robił
+	sbeta / sbujeta robili
+	sbecie / sbujecie robili
+	3.
+	sbet / sbujet robił
+	sbete / sbujete robili
+	sbąt / sbująt robili
+	TRYB ROZKAZUJĄCY
+9) ROZKAZUJĄCY
+* Znaczenie: nakaz / polecenie.
+Źródłosłów indoeuropejski (Imperativus):
+Osoba / Liczba
+	Atematyczny Czynny
+	Atematyczny Średni
+	Tematyczny Czynny
+	Tematyczny Średni
+	2. l. poj.
+	*-∅ / *-dʰí
+	*-só / *-swé
+	*-e / *-etōd
+	*-esó / *-eswé
+	3. l. poj.
+	*-tú
+	*-tó / *-ó
+	*-etú / *-etōd
+	*-etó / *-etō
+	2. l. podw.
+	*-tóm
+	*-th₂óh₂
+	*-etóm
+	*-etóm
+	3. l. podw.
+	*-tā́m
+	*-tóh₂
+	*-ewam
+	*-etóh₂
+	2. l. mn.
+	*-té
+	*-dʰh₂wé / *-dʰu̯e
+	*-eté
+	*-edʰh₂wé / *-edʰu̯e
+	3. l. mn.
+	*-éntu / *-ntōd
+	*-ntó / *-ró
+	*-óntu / *-ontōd
+	*-ontó / *-oró
+	Rozwój końcówki -tōd:
+Osoba / Liczba
+	Atematyczny (Czynny)
+	Tematyczny (Czynny)
+	Uwagi
+	2. l. poj.
+	*-tōd
+	*-etōd
+	Pierwotnie: „Zrób to potem”
+	3. l. poj.
+	*-tōd
+	*-etōd
+	Używane w tekstach prawnych
+	2. l. mn.
+	-tōd / (-tōte*)
+	-etōd / (-etōte*)
+	Formy typu estote to innowacje
+	3. l. mn.
+	*-ntōd
+	*-ontōd
+	Powstałe przez kontaminację z -nt
+	Większość uczonych (m.in. Beekes, Sihler) rekonstruuje -tōd jako pierwotnie niezmienną partykułę dodawaną do pnia czasownika. Etymologicznie wywodzi się ona z ablatywu zaimka wskazującego -to- i oznaczała pierwotnie coś w rodzaju "stamtąd" lub "potem". W kontekście rozkazującym nadawało to czynności charakter odroczony w czasie lub sekwencyjny ("zrób to potem"). W językach takich jak łacina czy greka, -tōd stało się podstawą dla całego paradygmatu trybu rozkazującego przyszłego. W łacinie klasycznej formy typu esto (bądź! - w przyszłości) czy estote wykazują bezpośrednią kontynuację tego modelu. W najstarszych tekstach łacińskich (np. w Prawa Dwunastu Tablic) końcówka -to była stosowana bez rozróżnienia liczby, co potwierdza jej pierwotny charakter nieodmienny.
+Zrekonstruowany paradygmat rozkazujący:
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	robięwu [robięu?]
+	robiwu
+	robimu
+	2.
+	robiszu
+	robitu
+	robiciu
+	3.
+	robitu
+	robitew / robitewu [robiteu?]
+	robiątu
+	IMIESŁOWY
+10) IMIESŁÓW CZYNNY
+* Forma: -cy / -ca / -ce
+* Znaczenie: ”ten, kto daje / robi”
+* Przykłady: robiący, dający
+11) IMIESŁÓW BIERNY
+* Forma: -ny / -na / -ne (od czasowników z tematem na -a-), -ony / -ona / -one (od czasowników z tematem na -i-/-y-)
+* Znaczenie: ”ten, któremu wykonano czynność”, ”będący w stanie po wykonaniu czynności”
+* Przykłady: sprzedany (”sprzedany, oddany”), dany (”przekazany”), widziany (”postrzeżony”)
+12) IMIESŁÓW PRZESZŁY I STOPNIA (PEŁNY TEMAT)
+* Forma: -szy / -sza / -sze (temat spółgłoskowy), -wszy / -wsza / -wsze (temat samogłoskowy)
+* Znaczenie: „ten, który dokonał czynności X” (akcent na sam fakt / punktowość zdarzenia), „będący sprawcą zakończonej akcji X”.
+* Struktura:
+   * baza spółgłosk. + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+   * baza samogłosk. + -w- + przyrostek tematyczny -sz- + przymiotnikowa końcówka klasy {-y/-a/-e}
+* Przykłady: nieswszy („ten, który przyniósł”), chwaliwszy („ten, który pochwalił”).
+Liczba
+	Rodzaj męski
+	Rodzaj żeński
+	Rodzaj nijaki
+	Pojedyncza
+	nieswszy / chwaliwszy
+	nieswsza / chwaliwsza
+	nieswsze / chwaliwsze
+	Podwójna
+	nieswsza / chwaliwsza
+	nieswszy / chwaliwszy
+	nieswszy / chwaliwszy
+	Mnoga
+	nieswsi / chwaliwsi (m.-os.)
+	nieswszy / chwaliwszy
+	nieswsza / chwaliwsza
+	Korekta fonetyczna: Prasłowiańskie š przed przymiotnikowym i w liczbie mnogiej męskoosobowej regularnie ulegało palatalizacji II stopnia (przejście w miękkie s' / s), stąd niesi (jak wasi od wasz), a nie nieszy.
+13) IMIESŁÓW PRZESZŁY II STOPNIA (L-PARTICIPLE)
+* Forma: -ły / -ła / -ło / -le
+* Znaczenie: „ten, który X-ał i nosi to w sobie jako trwały stan”, „ten, w którym czynność trwa jako rezultat”.
+* Struktura: baza + przyrostek rezultatywny -ł- + przymiotnikowa końcówka klasy {-y/-a/-o/-e}
+* Przykłady: niesły („będący w stanie po niesieniu”), chwaliły („będący w stanie po chwaleniu”).
+Liczba
+	Rodzaj męski
+	Rodzaj żeński
+	Rodzaj nijaki
+	Pojedyncza
+	niesły
+	niesła
+	niesło
+	Podwójna
+	niesła (dwaj)
+	niesle (dwie)
+	niesle (dwa)
+	Mnoga
+	nieśli (m.-os.)
+	niesły (ż./n.-m.)
+	niesła (nijaki)
+	INCHOATYW I TRYBY WARUNKOWE
+14) INCHOATYW
+* Znaczenie: zaczynanie stanu / wchodzenie w stan (np. ja starzeję = ja staję się starszy “starzejeć”).
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	starzeję
+	starzejewa
+	starzejemy
+	2.
+	starzejesz
+	starzejeta
+	starzejecie
+	3.
+	starzejet
+	starzejete
+	starzejąt
+	15) TRYB OPTATYWNY (PODSTAWOWY)
+* Znaczenie: wyrażenie życzenia, potencjalności, ewentualności.
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	robieję (~~~)
+	robiejwa
+	robiejmy
+	2.
+	robiejesz
+	robiejta
+	robiejcie
+	3.
+	robiejet
+	robiejte
+	robiejąt
+	16*) OPTATYWNY WARUNKOWY / PRZYPUSZCZAJĄCY
+* Znaczenie: czynność możliwa, warunkowa, życzeniowa (“zrobiłby”, “uczyniłby”, “abyś zrobił”).
+* Struktura: optatyw “być” + imiesłów (jakikolwiek) (“byłbym taki, który robił/robi/jest robiony”).
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	bujeję robił
+	bujejwa robiła
+	bujejmy robili
+	2.
+	bujejesz robił
+	bujejta robiła
+	bujejcie robili
+	3.
+	bujejet robił
+	bujejte robiła
+	bujejąt robili
+	17*) AORYSTOWY WARUNKOWY
+* Znaczenie: czynność możliwa, warunkowa; przeszłościowa (“gdyby zrobił” — model bardziej rodzimy).
+* Struktura: li / partykuła warunkowa + aoryst “być” + imiesłów przeszły (L-participle) [np. bujli, buj li, li buj…].
+Osoba
+	Pojedyncza
+	Podwójna
+	Mnoga
+	1.
+	li buj robił
+	li bujowa robili
+	li bujomy robili
+	2.
+	li buja robił
+	li bujota robili
+	li bujocie robili
+	3.
+	li buje robił
+	li bujote robili
+	li bują robili
+	CZASOWNIKI Z SUFIKSEM -ną- (np. pchnąć)
+Sufiks -ną- (i jego warianty historyczne) służy do tworzenia czasowników o aspekcie jednokrotnym (semelfaktywnym). Oznacza czynność nagłą, punktową i pozbawioną trwania (dokonaną w ułamku sekundy). Pociąga to za sobą bardzo specyficzne zachowanie w ramach historycznych i hipotetycznych paradygmatów.
+1. Powiązanie z Aorystem (Zdarzenie punktowe)
+Dla czasowników jednokrotnych aoryst jest trybem naturalnym, wręcz rdzennym, ponieważ oba systemy (sufiks -ną- oraz aoryst) skupiają się na punktowości zdarzenia. Buduje się go w oparciu o temat pchną-.
+Osoba
+	Aoryst (Pojedyncza)
+	1.
+	pchnąch
+	2.
+	pchnąsza
+	3.
+	pchnąsze
+	2. Powiązanie z Imperfektem (Konflikt aspektowy)
+Tworzenie imperfektu dla czasowników jednokrotnych (np. "byłem w trakcie jednokrotnego pchnięcia") jest semantycznie debatowalne i wysoce nienaturalne. Z punktu widzenia mechaniki i samej morfologii jest jednak technicznie poprawne i możliwe do derywacji. Wykorzystuje się tu temat czasu teraźniejszego (od formy pchnie- tak jak pchniesz / pchnie).
+Osoba
+	Imperfekt (Pojedyncza)
+	Uwagi
+	1.
+	pchniech
+	Forma czysto teoretyczna / morfologiczna.
+	2.
+	pchniasza / pchniesza
+	Wykazuje palatalizację i wymianę rdzenną zależną od dialektu.
+	3.
+	pchniasze / pchniesze
+	Znaczenie: "bywało, że pchałem jednokrotnie".
+	3. Powiązanie z Imiesłowami
+Sufiks ten zachowuje się różnie w zależności od tworzonego imiesłowu (często dochodzi do przegłosu ą:ę lub odrzucenia nosówki).
+* Imiesłów Bierny (Stan po akcji): pchnięty
+   * Występuje charakterystyczna oboczność ą : ę (pchnąć -> pchnięty).
+   * Czasowniki te przyjmują formant -ty zamiast standardowego -ny.
+* Imiesłów Przeszły I stopnia (Uprzedni / Pełny temat): pchnąwszy
+   * Ponieważ temat czasu przeszłego kończy się na samogłoskę -ą-, przyjmuje sufiks -wszy (analogicznie do chwali-wszy).
+   * Znaczenie: "ten, który dokonał aktu pchnięcia".
+* Imiesłów Przeszły II stopnia (L-participle): pchnął / pchnęła
+   * Baza zachowuje pełny sufiks z widocznym przegłosem lechickim w zależności od rodzaju (-ną-ł w męskim, -nę-ła w żeńskim).
+Gemini to AI i może popełniać błędy, także co do ludzi. Twoja prywatność i Gemini
+Otwiera się w nowym oknie
