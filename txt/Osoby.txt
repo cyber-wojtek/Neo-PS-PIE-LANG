@@ -1,7 +1,5 @@
-﻿🔹 1. OSOBA
-
-
-LICZBA POJEDYNCZA
+﻿1. OSOBA
+Liczba pojedyncza
 Przypadek
 	Forma
 	Mianownik
@@ -16,10 +14,7 @@ Przypadek
 	mnią
 	Miejscownik
 	mnie
-	________________
-
-
-LICZBA PODWÓJNA
+	Liczba podwójna
 Przypadek
 	Forma
 	Mianownik
@@ -34,10 +29,7 @@ Przypadek
 	nama
 	Miejscownik
 	naju
-	________________
-
-
-LICZBA MNOGA
+	Liczba mnoga
 Przypadek
 	Forma
 	Mianownik
@@ -52,10 +44,7 @@ Przypadek
 	nami
 	Miejscownik
 	nas
-	________________
-
-
-DZIERŻAWCZY
+	Dzierżawczy
 Przypadek
 	Pojedyncza
 	Podwójna
@@ -84,16 +73,8 @@ Przypadek
 	mojem
 	najem
 	naszem
-	
-
-
-
-🔹 2. OSOBA
-
-
-
-
-LICZBA POJEDYNCZA
+	2. OSOBA
+Liczba pojedyncza
 Przypadek
 	Forma
 	Mianownik
@@ -108,10 +89,7 @@ Przypadek
 	tobą
 	Miejscownik
 	tobie
-	________________
-
-
-LICZBA PODWÓJNA
+	Liczba podwójna
 Przypadek
 	Forma
 	Mianownik
@@ -126,14 +104,11 @@ Przypadek
 	wama
 	Miejscownik
 	waju
-	________________
-
-
-LICZBA MNOGA
+	Liczba mnoga
 Przypadek
 	Forma
 	Mianownik
-	jy/ji
+	jy / ji
 	Dopełniacz
 	was
 	Celownik
@@ -144,44 +119,37 @@ Przypadek
 	wami
 	Miejscownik
 	was
-	________________
-
-
-DZIERŻAWCZY
+	Dzierżawczy
 Przypadek
 	Pojedyncza
 	Podwójna
 	Mnoga
 	Mianownik
-	twy
+	twój
 	waj (waji / wajin)
 	wasz
 	Dopełniacz
-	twego
+	twojego
 	wajego
 	waszego
 	Celownik
-	twemu
+	twojemu
 	wajemu
 	waszemu
 	Biernik
-	twego
+	twojego
 	wajego
 	waszego
 	Narzędnik
-	twym
+	twojim
 	wajima
 	waszym
 	Miejscownik
-	twem
+	twojem
 	wajem
 	waszem
-	
-
-🔹 OD OPERATORÓW (PRZYKŁAD ON-)
-
-
-LICZBA POJEDYNCZA
+	Od operatorów (przykład on-)
+Liczba pojedyncza 
 Przypadek
 	Męski
 	Żeński
@@ -191,121 +159,117 @@ Przypadek
 	ona
 	ono
 	Dopełniacz
-	onego
-	onej
+	onogo
+	onoj
 	onogo
 	Celownik
-	onemu
-	onej
+	onomu
+	onoji
 	onomu
 	Biernik
-	onego
-	oną / onej
+	onogo
+	oną
 	ono
 	Narzędnik
-	onym
-	oneją / oną
-	onom
+	onim
+	oneją
+	onim
 	Miejscownik
-	onym
-	onej
 	onom
-	________________
-
-
-LICZBA PODWÓJNA
+	onoji
+	onom
+	Liczba podwójna 
 Przypadek
-	Męskoosobowy
-	Niemęskoosobowy
+	Męski
+	Żeński
+	Nijaki
 	Mianownik
 	ona
-	one
+	onaj
+	onoj
 	Dopełniacz
-	onaju
-	oneju
+	onoju
+	onoju
+	onoju
 	Celownik
-	onyma
-	onema
+	onoma
+	onoma
+	onoma
 	Biernik
-	onaju
-	oneju
+	onoju
+	onoju
+	onoju
 	Narzędnik
-	onyma
-	onema
+	onima
+	onima
+	onima
 	Miejscownik
-	onaju
-	oneju
-	________________
-
-
-LICZBA MNOGA
+	onoju
+	onoju
+	onoju
+	Liczba mnoga
 Przypadek
-	Męskoosobowy
-	Niemęskoosobowy
+	Męski
+	Żeński
+	Nijaki
 	Mianownik
 	oni
-	one
+	ony
+	ona
 	Dopełniacz
-	onych
-	onech
+	onich
+	onach
+	onich
 	Celownik
-	onym
-	onem
+	onim
+	onam
+	onim
 	Biernik
-	onych
-	one
+	ony
+	ony
+	ona
 	Narzędnik
-	onymi
-	onemi
+	onimi
+	onami
+	onimi
 	Miejscownik
-	onych
-	onech
-	
-
-________________
-
-
-DZIERŻAWCZY
+	onich
+	onach
+	onich
+	Dzierżawczy
 Przypadek
 	Pojedyncza
 	Podwójna
 	Mnoga
 	Mianownik
-	onego
-	onaju
+	onogo
+	onoju
 	onich
 	Dopełniacz
-	onegego
-	onajego
+	onogogo
+	onojogo
 	onichego
 	Celownik
-	onegemu
-	onajemu
+	onogomu
+	onojomu
 	onichemu
 	Biernik
-	onegego
-	onajego
+	onogogo
+	onojogo
 	onichego
 	Narzędnik
-	onegim
-	onaima / onajima
+	onogim
+	onoima / onojima
 	onichimi
 	Miejscownik
-	onegem
-	onajem
+	onogom
+	onojem
 	onichem
-	
-
-
-
-🔹 SIEBIE / SWÓJ
-
-
-ZWROTNY
+	Siebie / swój (zwrotny)
 Przypadek
-	Liczba Pojedyncza
-	Liczba Podwójna
-	Liczba Mnoga
+	Liczba pojedyncza
+	Liczba podwójna
+	Liczba mnoga
 	Mianownik
 	—
 	—
@@ -315,13 +279,13 @@ Przypadek
 	siebe
 	siebe
 	Celownik
-	siebie
-	siebie
-	siebie
+	sobie
+	sobie
+	sobie
 	Biernik
-	sę / siebe
-	sę / siebe
-	sę / siebe
+	się / siebie
+	się / siebie
+	się / siebie
 	Narzędnik
 	sobią
 	sobią
@@ -330,12 +294,7 @@ Przypadek
 	siebie
 	siebie
 	siebie
-	
-
-________________
-
-
-DZIERŻAWCZY ZWROTNY (SWÓJ)
+	Dzierżawczy zwrotny (swój)
 Przypadek
 	Pojedyncza
 	Podwójna

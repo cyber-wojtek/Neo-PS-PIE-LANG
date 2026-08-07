@@ -134,6 +134,23 @@ Przykłady:
 ________________
 
 
+-sz (psł. *-ъš- ← PIE *-us-)
+Funkcja: participium activi praeteriti — imiesłów przeszły I stopnia / przymiotnik sprawczy
+Znaczenie: "ten, który X-ął (fakt dokonany) i jest przez to naznaczony jako sprawca"
+Typ: deverbatywy (od tematu aorystowego/infinitywnego czasownika)
+Geneza: PIE *-us- (temat participium aktywnego perfektu, por. gr. -ώς/-υῖα) → psł. *-ъš- ← z ablautu -ъs-; przed przymiotnikową końcówką -y/-a/-e rozwinęło się w -sz- (z możliwą palatalizacją II stopnia w l.mn. m.-os. do -si, jak w niesi od nieszy)
+Uwaga: różni się od -ł tym, że -sz akcentuje sam fakt dokonania czynności (punktowość, "zaszło i minęło"), podczas gdy -ł akcentuje trwały stan-rezultat noszony przez podmiot; stąd -sz częściej z bazami aorystowymi/momentalnymi, a -ł z bazami stanowymi
+
+
+Przykłady:
+   * niesszy → "ten, który przyniósł (sam fakt przyniesienia)" (nes- + -sz- + -y)
+   * chwaliwszy → "ten, który pochwalił (fakt pochwalenia)" (chwali- + -wsz- + -y)
+   * rzekszy → "ten, który rzekł" (rzek- + -sz- + -y)
+   * minąwszy → "ten, który minął" (miną- + -wsz- + -y)
+   * zrobi2szy → "ten, który zrobił (dokonawszy tego)" (zrobi- + -wsz- + -y)
+________________
+
+
 -ny / -ony (psł. *-nъ / -enъ / -tъ)
 Funkcja: participium passivi — imiesłów bierny / przymiotnik rezultatywny
 Znaczenie: "ten, któremu wykonano czynność X / będący w stanie po wykonaniu X / naznaczony przez X"
@@ -334,9 +351,11 @@ Typ: odziedziczony morfem PIE; w prasłowiańszczyźnie nieproduktywny ale utrzy
 Geneza: PIE -tḗr (w systemie atematycznych formacji rzeczownikowych; pierwotnie silnie związany z tworzeniem nazw ról i pokrewieństwa, częściowo agentywny, częściowo relacyjny; brak pełnej produktywności już w późnej warstwie PIE)
 
 
-Przykłady (rekonstruowane):
+Przykłady:
    * pacierz → “ten, kto chroni" (*pH₂tḗr), agent od *peh₂- “chronić"  ~ agent od *pa-pa “papa”, zduplikowanego *pa. (żeby się nie zmylić - npol. “pacierz" pochodzi od łac. “pater”, nie bezpośrednio od PIE.)
    * macierz → “matka" (*méh₂tēr), agent od *méh₂-meh₂, “mama”, zduplikowanego *méh₂.
+   * pasterz → “ten, kto pasi”
+Przykłady rekonstruowane:
    * bracierz → “brat" ( *bʰréh₂tēr), agent należący do tej samej “fratrji”, organizacji pierwotnej (?)
    * dukcierz → “córka" (*dʰugh₂tḗr) — wewnętrzna etymologia niejasna i sporna. Dawna hipoteza o związku z rdzeniem *dʰewgʰ- “doić, produkować mleko" jest współcześnie odrzucana: oba rdzenie różnią się fonologicznie (*dʰewgʰ- ma dwie dźwięczne aspirowane, *dʰugh₂- tylko jedną, wtórną przez wpływ laryngalnego h₂), co wyklucza bezpośredni związek (Language Log, Hackstein 2002). Słowo jest jednym z najlepiej poświadczonych terminów pokrewieństwa PIE — kognaty w anatolijskim, greckim, indo-irańskim, bałtosłowiańskim — ale jego wewnętrzna motywacja pozostaje niepewna.
    * ahcierz  -> “ten, kto jest gorący, suchy" (*h₂eh₁ter), agent od *h₂eh₁- “być gorącym, suchym”

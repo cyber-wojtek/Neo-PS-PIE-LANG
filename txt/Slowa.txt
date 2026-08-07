@@ -1,20 +1,28 @@
 ﻿Karta 1
-*** słowa użyte w innych częściach typu deklinacja służą dla przykładu, ich formy mogą być inne od tych tutaj - tylko te popeawne ***
+*** słowa użyte w innych częściach typu deklinacja służą dla przykładu, ich formy mogą być inne od tych tutaj [tzn. niepoprawne albo alternatywne]***
 
 [ ] - nowopolskie derywatywy (niekoniecznie poprawne tutaj!) (nie inspirować się!), *- staropolskie, **- prasłowiańskie, *** - PIE
 { } - odmiana (sugerowana/dla przykładu)
 [~] - stopień pewności, domniemania
 # przymiotnikowe
 miły / *milъ / *meilas / *m(e)iH-lo-s — miły [miły, miłość]
-święty / *svęt- / śwent-ás — swięty, potężny, cudowny [święty, święto]
+święty, świenty / *svęt- / śwent-ás — swięty, potężny, cudowny [święty, święto]
 bosy / *basás / *bʰosós — bosy [bosy]
 goły / *golъ / *golH-o-s  — goły [goły, głos]
 somy  / *samъ /  *sāmas /  *somHós — sam [sam] 
 [~] drzewy / *dérwan / *derw-o-m / *dóru / *drew- — twardy, solidny, mocny [drzewo, drewno]
 dęby / (*dǫbъ / *dumbas / *dʰu-m-bʰ-os /)  *dʰewbʰ- — głęboki [dąb] 
-cely, ceły / (*cě̑lъ / *káilas / *káilos / *kéh₂ilos) — uleczony, cały, zdrowy [cały, całość]
+cieiły / (*cě̑lъ / *káilas / *káilos / *kéh₂ilos) — uleczony, cały, zdrowy [cały, całość]
 dziki / *dikъ / *dīkŭ  / *dīkas / *dʰiHkos — dziki [dzik, dziki]
 mały / *malъ / *mṓˀlas / *(s)meh₁l-  — mały [mały, maleć]
+suchy, sewchy /  *sušìti / *h₂sews- — suchy [suchy, suszyć, osuszać]
+meji, mejy / *mēi̯, (mir / *mirъ / *mēi̯-ro-) / *meiH- — łagodny, bliski emocjonalnie [mir] {meję; mejesz; mejet;; mejewa; mejeta; mejete;; mejemy; mejecie; mejąt}
+aczy / (*ostriti / *ostrъ /) *h₂eḱ- — ostry, spiczasty [ostry, ostrość, naostrzyć, kamień]
+negi / *nagъ / *negʷ- — goły, nagi [nagi, nagość, noc ← *noťь ← *náktis ← *nókʷts ← *negʷ- (~) {pewne: noc jako “noc”}]
+gory / (*gora / *garā́ˀ /) *gʷerH- — wysoki, wzniesiony [góra, górzysty]
+moki / *mokrъ / *mok- / *mak- / *mh₂ek-  — mokry [mokry, *mokrzyć, moczyć, przemoczony]
+
+
 # rzeczownikowe
 kaj / *cěglъ / *kai̯-   — coś samego, jedynego [szczegół]
 śred / *serdъ / *śerd- / *ḱerd- — serce, środek [środek, wśród, pośród, serce]
@@ -23,192 +31,186 @@ sól / *solь / *sāˀlis / *séh₂l- — sól [sól, słodki, słony, słód]
 macierz / *mati / *méh₂tēr — agent od dziecka (ma-, baby talk dziecka); matka [“kurwa mać”, matka, macierz, mać]
 bracierz / *bratrъ / *bʰréh₂tēr — agent od ? (bycia w pierwotnej społeczności ??); brat [brat]
 swecierz / *sestra / ? — agent od ?; siostra [siostra]
-ducierz, dukcierz / (*dъťi / *dъťerь / *dъkteri) / (*duktē / *duktēr) / *dʰugh₂tḗr — agent od ?; córka [córka, córa]
-kerz / (korva  / *kárˀwāˀ / *ḱorh₂-weh₂) *ḱerh₂-  — czubek [krowa]
+dukterz, dukcierz / (*dъťi / *dъťerь / *dъkteri) / (*duktē / *duktēr) / *dʰugh₂tḗr — agent od ?; córka [córka, córa]
+kier / (korva  / *kárˀwāˀ / *ḱorh₂-weh₂) *ḱerh₂-  — czubek [krowa]
 kobiń / *kòňь / *komňь / *kobňь - koń [koń]
 pies / *pь̀sъ / ? — pies [pies] (nienawidzę psów)
 kot / *kotъ / ?? — kot [kot] (kocham koty)
 krew / *kry̑ / *krū́ˀs / *kréwh₂s / *krewh₂- — krew poza ciałem [krew]
-ość / *kostь /*kest- / *h₃ost-  — twarda część szkieletu ciała [kość]
+ost / *kostь /*kest- / *h₃ost-  — twarda część szkieletu ciała [kość, ość]
 liko / *likъ / *liko — polik [polik, oblicze]
 nóg / *noga / *nagā́ˀ / *h₃nṓgʰs — twarda, rogowa część ciała [noga]
-les / *lě̑sъ / *lěs — drzewo jako budulec [laska, leśny, leszczyna]
+lies / *lě̑sъ / *lěs — drzewo jako budulec [laska, leśny, leszczyna]
 jeł / *olsь / *álśis / *h₁ól-ḱ-is ~ h₁él-ḱ-is / *h₁el — łoś~jeleń [łoś, jeleń]
 żena / *ženà / *génāˀ / *gʷḗn  — kobieta [żona]
-[~~] oczto, okto / (*osmь / *aśtṓni / *oḱtṓw /) *(H)oḱto- — 4 palce dłoni (bez kciuka) [osiem] [~pewne: okto jako szerokość 4 palców dłoni] 
-ojen / *edinъ / *edīˀnas / *h₁edʰ-(H)iHnos / *h₁óy(H)nos — jeden, pojedyńczy, inny [jeden,  inność, “gdzie indziej”, Inowrocław, inaczej, jednak, *jednako]
+[~~] okto / (*osmь / *aśtṓni / *oḱtṓw /) *(H)oḱto- — 4 palce dłoni (bez kciuka) [osiem] [~pewne: okto jako szerokość 4 palców dłoni] 
+jeń, iń / *edinъ / *edīˀnas / *h₁edʰ-(H)iHnos / *h₁óy(H)nos — jeden, pojedyńczy, inny [jeden,  inność, “gdzie indziej”, Inowrocław, inaczej, jednak, *jednako]
 dwa / *dъva / *duwōˀ / *dwóh₁ — dwa [dwa] 
-trzy (trzejy) / *trьje / *tríjes / *tréyes — trzy [trzy] 
-cztwery, cztery / *četỳre / *ketū́res / *kʷetwóres — cztery [cztery] 
+trzy / *trьje / *tríjes / *tréyes — trzy [trzy] 
+cztwór / *četỳre / *ketū́res / *kʷetwóres — cztery [cztery] 
 (pięć derywuj ze słowa na “pięść”, które polecam derywować od “pełżyć”)
-sweks / *šȅstь / šešti / *šéš / *swéḱs /  *wéḱs — sześć [sześć]
-septem / *sedmь / *sedmъ / *septín / *septḿ̥ — siedem [siedem]
-(osiem derywuj albo od cztwór dual lub coś z okto dualem)
-niewen / *devętь / *néwin / *h₁néwn̥ — dziewięć [dziewięć]
-dekemt / **dȅsętь /  *déśimt / *déḱm̥t — dziesięć [dziesięć]
+świeś / *šȅstь / šešti / *šéš / *swéḱs /  *wéḱs — sześć [sześć]
+siepci(e)m / *sedmь / *sedmъ / *septín / *septḿ̥ — siedem [siedem]
+(osiem derywuj albo od cztery dual lub coś z okto dualem)
+niewen, nieł(e)n / *devętь / *néwin / *h₁néwn̥ — dziewięć [dziewięć (?)]
+dziesięt, dziesiemt / **dȅsętь /  *déśimt / *déḱm̥t — dziesięć [dziesięć]
 koń / *konьcь / *konъ — koniec [koniec] 
-schój / *xȗjь / *skaujás / *skowy-ós / *skoy- — kolec, igła, cierń [chuj, choina, ochujeć, wychujać, chujoza, chujowy, chujowizna, choinka, choiniak, chujnia]
+schoj / *xȗjь / *skaujás / *skowy-ós / *skoy- — kolec, igła, cierń [chuj, choina, ochujeć, wychujać, chujoza, chujowy, chujowizna, choinka, choiniak, chujnia]
 tata /  *tata / *tatas / *tatás / *tata- — tata [tata]
-mama / *màma / *mā́ˀmāˀ / *méh₂-meh₂ / *méh₂ — mama [mama]
-nu / *nu- — teraz [nowy, nowość]
-meki / *mokrъ / *mok- / *mak- / *mh₂ek-  — mokry [mokry, *mokrzyć, moczyć, przemoczony]
-ręka / *rǫka / *ránkā / *rónk-eh₂ — ręka [ręka, ręczyć]
+mama / *màma / *mā́ˀmāˀ / *méh₂-meh₂ / *méh₂ — mama [mama ← *méh₂ “baby talk” - reduplikowane]
+nu / *nyně /  *nūnai ~ *nunai / *nu- — teraz [nowy, nowość]
+rąka / *rǫka / *ránkā / *rónk-eh₂ — ręka [ręka, ręczyć]
+
+
 # czasownikowe
-mnić / (*pàmę̄tь /) *mintís / *mn̥tís / *méntis / *men- — myśleć, pamiętać [pamięć] {mnię; mnisz; mnit;; mnina; mniwa; mnite;; mnimy; mnicie; mniąt }
-merzyć / *mertì (*mьr-) / *mertéi / *mer- — zanikać [śmierć, umierać, zmarł, morze] {mrzę; mrzesz; mrzet;; mrzena; mrzewa; mrzete; mrzemy; mrzecie; mrząt}
-wydzić / (*voda / *wandō / *wédōr [kolektyw od wódr̥] /) *wed- — wytryskać, wypływać [woda ← psł. *voda ← bsł. *wandō ← PIE *wédōr (kolektyw r/n-stem ← *wódr̥ [-r]) ← rdzeń *wed- / *ud- "płynąć, tryskać", wydra] {wydzę; wydzisz; wydzit;; wydzina; wydziwa; wydzite;; wydzimy; wydzicie; wydzą}
-wodzić / *voditi / *wádīˀtei / *wodʰéyeti / *wedʰ- — prowadzić, kierować, wieść [przewodzić, prowadzić] {wodzę; wodzisz; wodzit;; wodzina; wodziwa; wodzite;; wodzimy; wodzicie; wodząt}
-chłyć / *slyšati / *slyxěti / *ḱléwseti / *ḱlew- — słyszeć [sława = sł + ow (przynależność) + a (abstrakt/stan) = “słyszenie (przynależne do kogoś/jakieś grupy)”, słynąć, słowo, słynny, sławić, głuchy] {szlę/chlę; szlesz/chłesz; szlet/chłet;; szłena;/chlena; szleta/chłewa; szlete/chłete;; szlemy/chłemy; szlecie/chłecie; szląt/chląt]
-włodzić / *voldati / *walˀdā́ˀtei / *h₂welh₁dʰh₁- / *h₂welh₁-s / *h₂welh₁- — mieć moc, znaczenie, władać [władza, władać, władca] {włodzę; włodzisz; włodzit;; włodzina; włodziwa; włodzite;; włodzimy; włodzicie; włodząt}
-mazić / *màzati / *mōˀź- — smarować [masa, masło, maślanka] {mażę; mażesz; mażet;; mażena; mażewa; mażete;; mażemy; mażecie; mażąt}
-szyć / *šiti / *sjū́ˀtei / *syewH- / *seh₂y- – łączyć, wiązać [szyć, szydło] {szę; szesz; szet;; szena; szewa; szete;; szemy; szecie; sząt}
-radzić / (*radъ /)  *rēd- — rozweselać [rad, *rady] {radzę; radzisz; radzit;; radzina; radziwa; radzite;; radzimy; radzicie; radząt}
-rodzić / *roditi / *ord- — rodzić, wydawać na świat [rodъ → ród, naród, narodzony, zrodzony, narodziny, urodziny] {rodzę; rodzisz; rodzit;; rodzina; rodziwa; rodzite;; rodzimy; rodzicie; rodząt}
-rzeczyć / *rekti / *(H)rek- — krzyczeć, ryczeć [rzec, *rěčь → rzec,z rzekł, zrzekł, przyrzekł, urzekł] {rzeczę; rzeczesz; rzeczet;; rzeczena; rzeczewa; reczete;; rzeczemy; rzeczecie; rzecząt} 
-serzyć / *sьrbъ; serzet / *sŕbъ / *sorbъ / *ser- — chronić, strzec, opiekować się [Serbia, Serb, Sorb, pasierb] {serzę; serzesz;; serzena; serzewa; serzete;; serzemy; serzecie; serząt}
-jemić / *em- / *h₁em- — przypisywać udział w czymś [imię, imienie, objąć, zdjąć, mieć, przejąć, jeniec] {jemę; jemisz; jemit;; jemina; jemiwa; jemite;; jemimy; jemicie; jemąt}
-grzebić / *grabiti / *grā́ˀbīˀtei /  {*gʰrebʰ-, *gʰreb-, *gʰrebh₂-} — zagarniać coś do siebie [grabie, grabież, zagrabić, grabić, grzebień] {grzebię; grzebisz; grzebit;; grzebina; grzebiwa; grzebite;; grzebimy; grzebiąt}
-jeść / (*bỳti / *bū́ˀtei) / *h₁ésti — być, istnieć [być, byt, bycie, ***h₁ésh₂r̥ - płyn życia, krew w ciele] {jesę / jeszę / jesię; jesiesz / jeszesz; jesiet / jeszet / jeset / jest;; jeśwa / jesiewa / jeszena; jeśta / jesieta / jeszewa; jeśte / jesiete / jeszete;; jeśmy / jesimy / jeszemy; jeście / jesiecie / jeszecie; jesąt / jesiąt / jesząt}
-być, buić, bewić / (*bỳti / *bū́ˀtei /) *bʰuH- — stawać się [jakimś], rosnąć [jakiś], pojawiać się [jakimś], wchodzić w [jakiś] stan {bę / buję; besz / bujesz; bet / bujet;; bewa / bujena; beta / bujewa; bete / bujete;; bymy / bujemy; becie / bujecie; bąt / bująt}
-jejić / (*iti /) *h₁ey- — poruszać się, iść [iść] {jeję; jejesz; jejet;; jejena; jejewa; jejete;; jejemy; jejecie; jejąt}
-jedzić / *ěsti / *h₁ed- — jeść, spożywać [jeść, jadło] {jedzę; jedziesz; jedziet;; jedziena; jedziewa; jedziete;; jedziemy; jedziecie; jedząt}
-dejić / *dàti / *dṓˀtei / *dédeh₃ti / *deh₃- — dawać, przekazywać [dać, dar, śniadanie, danie] {deję; deisz / dejesz; deit / dejet;; dejena; dejewa; dejete;; dejemy; dejecie; dejąt} (Oryginalnie perfective co prawda)
-widzić / *viděti / *weyd- — widzieć, postrzegać umysłem/umysłowo, poznawać przez obserwację [widzieć, widok, wiedzieć, wiem, wiedza] {widzę; widzisz; widziet;; widziena; widziewa; widziete;; widzimy; widzicie; widząt}
-wercić / vьrtiti / wert- — obracać, kręcić fizycznie [wiercić, wywiercić, wiercieć, wiertło, *wrzemię (czas), wracać, wrzeciono, wrócić, zwrócić] {wercę; wercisz; wercit;; wercina; werciwa; wercite;; wercimy; wercicie; wercąt}
-czejić / *činiti / *činǫti / *kʷey-¹ — odpłacać, wyrównywać [czyn, czynność, cena, przyczyna, kajać się] {czeję; czejesz; czejet;; czejena; czejewa; czejete;; czejemy; czejecie; czejąt}
-ciecić / *tesati / *téśtei / *tetḱ- / *teḱ- — rodzić, stwarzać [czesać, ciosać, ciosło] {ciecię; ciecisz; ciecit;; ciecina; cieciwa; ciecite;; cieciemy; cieciecie; cieciąt}
-godzić / *goditi / *gʰedʰ- — łączyć, zbierać razem (→ łączyć, pasować, zgadzać) [dogodzić, godzić, zgoda, pogoda] {godzę; godzisz; godzit;; godzina; godziwa; godzite;; godzimy; godzicie; godząt} 
-dobić / *dobiti / *dʰh₂ebʰ- — przypasowywać [zdobić, ozdoba, przyozdobić, doba, dobry] {dobię; dobisz; dobit;; dobina; dobiwa; dobite;; dobimy; dobicie; dobiąt}
-żerdzić, grodzić / *gorditi /  *gordъ / *gárdas / *gʰordʰ-os / *gʰerdʰ- — otaczać, zabudowywać [żerdź, gród, ogród, ogradzać, nagroda, wynagrodzić] {grodzę / żerdzę; grodzisz / żerdzisz; grodzit / żerdzit;; grodziwie / żerdzina; grodzita / żerdziwa; grodzite / żerdzite;; grodzimy / żerdzimy; grodzicie / żerdzicie; grodząt / żerdząt}
-[~~~] dzieżyć / *zemľà / *zemja / *źémijāˀ / {*dʰéǵʰōm, *(dʰ)ǵʰm̥-yéh₂} — ubijać, deptać, gnieść [ziemia, czarnoziem] [pewne: dzieżemia jako "earth"/”ziemia”; werbalna baza niepewna] {dzieżę; dzieżesz; dzieżet;; dzieżena; dzieżewa; dzieżete;; dzieżemy; dzieżecie; dzieżąt}
-wolić / *vľ̥kъ / *wĺ̥kʷos / *u̯l̥kʷós / *u̯el- (*wel-) - szarpać, wyrywać [wełna, wilk = *wel- + ko]  {wolę; wolisz; wolit;; wolina; woliwa; wolite;; wolimy; wolicie; woląt}
-plejić / (*plod- /) *pleh₁- — wypełniać [płód, plemię, pełny] {pleję; plejesz; plejet;; plenjena; plejewa; plejete;; plejemy; plejecie; plejąt}
-robić / *orbiti  /  *orbъ / *árbas / *h₃órbʰos / *h₃erbʰ- — przełączać stan, przynależność, status [robota, robotnik, robić] {robię; robisz; robit;; robina; robiwa; robite;; robimy; robicie; robiąt} 
-pajić / (páteř / pater / *patēr / *ph₂tḗr) / *peh₂- — chronić, strzec [pacierz] {paję; pajesz; pajet;; pajena; pajewa; pajete;; pajemy; pajecie; pająt}
-sujić / *sui- / *sū- / *suH- / *suh₁- / (*sewh₁-, *sewh₃-) -— wydawać, rodzić, produkować [syn, sutek??, świnia?] {suję; sujesz; sujet;; sujena; sujewa; sujete;; sujemy; sujecie; sująt}
-dziewić / *dьněti / *dyew-  — świecić (fizycznie) [dzień, dziś, południe, dzisiaj, dziwny] {dziewię; dziewisz; dziewit;; dziewina; dziewiwa; dziewite;; dziewimy;; dziewicie;; dziewiąt}
-negić / *nagъ / *negʷ- — być gołym [nagi, nagość, noc ← *noťь ← *náktis ← *nókʷts ← *negʷ- (~) {pewne: noc jako “noc”}] {neżę; neżesz; neżet;; neżena; neżewa; neżete;; neżemy; neżecie; neżąt}
-okwić,oczewić / (*aka / *ak- /  *h₃ókʷs /) / *h₃ekʷ- — widzieć (fizycznie), ~mieć wzrok {okwię / oczewię; okwisz / oczewisz; okwit / oczewit;; okwiwa / oczewiena; okwita / oczewiewa; okwite / oczewiete;; okwimy / oczewimy; okwicie / oczewicie; okwiąt / oczewiąt}
-wejić / (*vixъrъ /  *weiˀšuras /  *weiˀšulas /) *weh₁i-s- / *weh₁y- — skręcać, nawijać, splatać [wicher, wichura, wić, wój, wino, wieniec, wicz] {weję wejesz; wejet;; wejena; wejewa; wejete;; wejemy; wejecie; wejąt}
-mejić / *mēi̯, (mir / *mirъ / *mēi̯-ro-) / *meiH- — łagodzić [mir] {meję; mejesz; mejet;; mejena; mejewa; mejete;; mejemy; mejecie; mejąt}
-plęcić / *pleth₂- — rozprzestrzeniać / rozciągać [pole, polski] {plęcę; plęcisz; plęcit;; plęcina; plęciwa; plęcite;; plęcimy; plęcicie; plęcząt}
-świecić / světiti / *śwaitī́ˀtei / *ḱweyt- — świecić, “robić to co robi świat” (abstrakcyjne) [świat, świecić, światło] {świecę; świecisz; świecit;; świecina; świeciwa; świecite;; świecimy; świecicie; świecąt}
-merżyć / mьrzěti / merǵ- — ciemnieć, zanikać (przez wilgoć lub zimno) [marznąć, mrozić, mróz] {merżę; merżesz; merżet;; merżena; merżewa; merżete;; merżemy; merżecie; merżąt}
-wieć / *vě̀jati / *věti / *wḗˀtei / *h₂wḗh₁ti, /  *h₂weh₁-  — wiać [wiatr, wiać] {wię; wiesz; wiet;; wiena; wiewa; wiete;; wiemy; wiecie; wiąt}
-piecić / *peyḱ- / *peyg- — wyrąbywać, wycinać [pisać, piegi, pstry, piętno, pigment] {piecię; piecisz; piecit;; piecina; pieciwa; piecite;; piecimy; piecicie; piecząt}
-pieczyć / *pekti / *pekt- / *pekʷ- — dojrzewać ciepłem (np. jedzenie) (materiały jedzeniowe) [piec, pieczeń, piekarnik, wypiek, upiec, pieczony] {pieczę; pieczesz; piecze;; pieczena; pieczewa; pieczete;; pieczemy; pieczecie; pieczą}
-mudzić / (*myd-slь / *mūdʰ-slĭ- /) *mēudʰ- / *muHdʰ- — skarżyć, troszczyć, ~pragnąć [myśl, myśleć] {mudzę; mudzisz; mudzit;; mudzina; mudziwa; mudzite;; mudzimy; mudzicie; mudząt}
-młówić / *mъlviti / *mlewH- — mówić [mówić, mowa, umowa, namawiać, umawiać, wymawiać, przemawiać] {młówię; młówiesz; młówiet;; młówiena; młówiewa; młówiete;; młówiemy; młówiecie; młówiąt}
-stejić / *stati /  *stā́ˀtei /  *steh₂ — stać [stać, wstawać, ustawać, dostawać, wystawiać, stawiać] {steję; stejesz; stejet;; stejena; stejewa; stejete;; stejemy; stejecie; stejąt}
-[~~] aczyć / (*ostriti / *ostrъ /) *h₂eḱ- — ostrzyć [ostry, ostrość, naostrzyć, kamień] [pewne: aczry jako “ostry”, ale widzimy końcówkę -ry we wielu odczasownikowych: dobry, stary, mądry] {aczę, aczysz, aczet;; aczena; aczewa; aczete;; aczemy; aczecie; acząt}
-[~] baczyć / (*bokъ /) *bak- — dźgać, szturchać, przebijać [bok] [pewne: bok jako “bok”, n.pol. “baczyć” - ludowa reinterpretacja od “oko” - niepoprawne] {baczę; baczesz; baczet;; baczena; baczewa; baczete;; baczemy; baczecie; bacząt}
-tomić / *tęti / *tinˀtei / *temh₁- — ciąć, rodzielać (fizycznie) [ciąć, ucinać, wycinać, przecinać, odcinać, docinać] {tomię; tomisz; tomit;; tomina; tomiwa; tomite;; tomimy;  tomicie; tomiąt}
-sieczyć / *sěkati / *sek- — odcinać, rozdzielać, rozcinać [siekać, siekiera] {sieczę; sieczesz; sieczet;; sieczena; sieczewa; sieczete;; sieczemy; sieczecie; siecząt}
-suszyć /  *sušìti / *h₂sews- — suszyć, osuszać [suchy, suszyć, osuszać] {suszę; suszesz; suszet;; suszena; suszewa; suszete;; suszemy; suszecie; susząt}
-gorzyć / (*gora / *garā́ˀ /) *gʷerH- — podnosić, wynosić [góra, górzysty] {gorzę; gorzesz; gorzet;; gorzena; gorzewa; gorzete;; gorzemy; gorzecie; gorząt}
-żryć /  *žerti / *gerˀtei / *gʷerh₃- — spożywać, jeść, połykać [żreć, obżarty] {żrę; żresz; żret;; żrena; żrewa; żrete;; żremy; żrecie; żrąt}
-grzeć / *grěti / *gʷʰer- — ogrzewać, czynić gorącym [gorzałka, ogrzewać, grzeję, grzejnik] {grzę; grzesz; grzet;; grzena; grzewa; grzete;; grzemy; grzecie; grząt}
-jeżyć / (*jьgra / *ígrāˀ / *h₂ig-réh₂ /) *h₂eyg- — wprawiać w ruch [grać, igrać] {jeżę; jeżesz; jeżet;; jeżena; jeżewa; jeżete;; jeżemy; jeżecie; jeżąt}
-drożyć / (*dьrgati / *dьrnǫti /) *derHgʰ- — szarpać, wyrywać, rozciągać [droga, drżeć, drgać] {drożę; drożesz; drożet;; drożena; drożewa; drożete;; drożemy; drożecie; drożąt}
-ścieżyć / (*stьžьka /  *stьdza / *stьga / *stigāˀ / *stigʰ-eh₂ /) *steygʰ-  — iść, iść w prost [scieżka, wstęga, wstążka] {ścieżę; scieżesz; scieżet;; ścieżena; ścieżewa; ścieżete;; ścieżemy; ścieżecie; ścieżąt}
-twerzyć / *tvoriti / *twarīˀtei / *twerH- — chwytać, grodzić (chwytać/brać coś i formować je) [tworzyć, twór, *tworzec] {twerzę; twerzesz; twerzet;; twerzena; twerzewa; twerzete;; twerzemy; twerzecie; twerząt}  
-jawić / *aviti / *h₂ew- — dostrzegać, widzieć, postrzegać, być świadomym (coś/czegoś) [jawić, jawny, objawiony, zjawa] {jawię;; jawisz; jawit;; jawina; jawiwa; jawite;; jawimy; jawicie; jawiąt}
-kecić / (*kazati /) *kʷeḱ- — postrzegać, zauważać, uchwycać wzrokiem (akt percepcji) [kazać, pokazać, kazanie, kazna] {kecę; kecisz; kecit;; kecina; keciwa; kecite;; kecimy; kecicie; kecąt}
-bieżyć / (běťi / *bḗˀgtei / *bʰégʷ-e-ti /) *bʰegʷ- — uciekać, biec [biec, biegać, bieg, *“przybieżeli”] {bieżę; bieżesz; bieżet;; bieżena; bieżewa; bieżete;; bieżemy; bieżecie; bieżąt}
-ścieczyć, skaczyć / (*skokъ / *skakas / *skok-ó-s) *skek- — skakać [skok, skakać] {skaczę / ścieczę; skaczesz / ścieczesz; skaczet / ścieczet;; skaczena; / ścieczena; skaczeta / ścieczewa; skaczete / ścieczete;; skaczemy / ścieczemy; skaczecie / ścieczecie; skacząt / ściecząt}
-piesić / (*pьxati / *pištei / *pis-é-ti) *peys- — miażdżyć [pchać] {pieszę; piesisz; pieszet;; piesina; piesiwa; piesite;; piesimy; piesicie; piesząt}
-ciężyć / (*tęgnǫti /) / *tęťi / *tingtei / *tengʰ- — ciągnąć, ciążyć [ciągnąć, ciężki, ciężar] [ciężę; ciężesz; ciężet;; ciężena; ciężewa; ciężete;; ciężemy; ciężecie; ciążąt}
-wielić / *voliti / *walīˀtei / *wolh₁-éye-ti / *welh₁- — wybierać, chcieć [woleć, wolny, wielki, wiele, wola] {wielę; wielisz; wielit;; wielina; wieliwa; wielite;; wielimy; wielicie; wieląt}
-pełyć / *pъtati / {*peu-, *pew-}  — dociekać, badać, sprawdzać [pytać, pytanie] {pena; pywisz; pywit;; pywina; pywiwa; pywite;; pywimy; pywicie; pywiąt}
-słepić / *supn- / *supn- /  *swep- — spać [spać, sen?] {słepię; słepiesz; słepiet;; słepiena; słepiewa; słepiete;; słepiemy; słepiecie; słepiąt} 
-piedzić / *pàsti / *pṓˀstei / *ped- — upadać [spaść, upadać, przypadek, przypadać, spadek, upadek] {piedzę; piedzisz; piedzit;; piedzina; piedziwa; piedzite;; piedzimy; piedzicie; piedząt}
-pędzić / *pǫditi / *(s)pond-éye-ti / *(s)pend- — rozciągać, “to stretch” [pędzić, spędzić, przepędzić] {pędzę; pędzisz; pędzit;; pędzina; pędziwa; pędzite;; pędzimy; pędzicie; pędząt}
-siedzić / *sěděti / *sēdḗˀtei / *sed-éh₁-ye-ti / *sed- — siedzieć [siedzieć, osada, osiedle, sidło] {siedzę; siedzisz; siedzit;; siedzina; siedziwa; siedzite;; siedzimy; siedzicie; siedząt}
-leżyć / *ležati / *legʰ- — leżeć [leżeć, nocleg, leżenie] {leżę; leżesz; leżet;; leżena; leżewa; leżete;; leżemy; leżecie; leżąt} 
-gonić / *gonìti / *gánīˀtei / *gʷʰon-éye-ti / *gʷʰon-éye-ti / *gʷʰen- — uderzać, zabijać, razić [gonić, goniec] {gonię; gonisz; gonit;; gonina; goniwa; gonite;; gonimy; gonicie; goniąt}
-dyszeć / *dyšati / *dáuṣas / *dʰwes- — dmuchać, dychać [dyszeć, oddech, wydech, zdechł] {dyszę; dyszesz; dyszet;; dyszena; dyszewa; dyszete;; dyszemy; dyszecie; dysząt}
-demić /  *dǫti / *dúmˀtei / *dʰemH- — dmuchać, dychać [*duxati + *dǫti = dmuchać ? (złączenie 2 plemion?), dąć, wzdęty] {demię; demisz; demit;; demina; demiwa; demite;; demimy; demicie; demiąt} 
-gryżyć, gryźć / *gryzti / *grūˀźtei /  *gʷruHǵʰ-  — gryźć [gryźć] {gryżę; gryżesz; gryżet;; gryżena; gryżewa; gryżete;; grzyżemy; gryżecie; gryżąt}
-żujić / *žьvàti / *žuti / *ǵyewh₁- — żuć [żuć] {żuję; żujesz; żujet;; żujena; żujewa; żujete; żujemy; żewiecie / żujecie; żująt}
-poić / *piti / *peh₃- — pić [pić, poić] {poję; poisz / pojesz; poit / pojet;; poiwie / pojena; poita / pojewa; poite / pojete;; poimy / pojemy; poicie / pojecie; pojąt}
-liżyć / *lizati / *léiźtei / *léyǵʰti / *leyǵʰ- lizać [lizać] {liżę; liżesz; liżet;; liżena; liżewa; liżete;; liżemy; liżecie; liżąt}
-sucić / *sъsati / *suk- / ? — ssać [ssać] {suczę; sucisz; sucit;; sucina; suciwa; sucite;; sucimy / suczemy; sucicie / suczecie; sucząt}
-plecić / * plesti / *pleśtei /  *pleḱ-t- /  *pleḱ- — pleść, splatać, wiązać [pleść] {plecę; plecisz; plecit;; plecina; pleciwa; plecite;; plecimy; plecicie; plecąt}
-kuić,kowić /  *kovàti /  *kauˀ- / *kowh₂- / *kewh₂- — bić, uderzać, kuć [kowal, kuć] {kuję; kujesz; kujet;; kujena; kujewa; kujete;; kujemy; kujecie; kująt}
-lepić / *lěpiti / *laip- / *loyp-éye-ti / *leyp- — kleić, przyklejać, łączyć fizycznie [lepki, lepić, lepszy, najlepszy] {lepię; lepisz; lepit;; lepina; lepiwa; lepite;; lepimy; lepicie; lepiąt}
-znoć / *znàti / *źnōˀtei / *ǵneh₃-  — rozpoznawać, wiedzieć [znać, znak] {znię; zniesz; zniet;; zniena; zniewa; zniete;; zniemy; zniecie; zniąt}
-możyć / *moťi / *mogtì / *megʰ- — móc, być w stanie [móc] {mogę; możesz; możet; możena; możewa; możete; możemy; fzcie; mogąt}
-gasić / *gasìti / *(s)gʷes- — gasić, ugaszać [gasić, ugaszać, zgaszać, zgasić, przygasić] {gaszę; gasisz; gasit;; gasina; gasiwa; gasite;; gasimy; gasicie; gasząt}
-mroczyć / *morčiti / *morkъ + *-iti / *markas /  *mergʷ- — ściemniać (przestrzennie, ogólnie) [mrok, mroczny] {mroczę, mroczesz; mroczet;; mroczena; mroczewa; mroczete;; mroczemy; mroczecie; mrocząt}
-leić / *lьjati / *leˀitei / *leyH- — lać [lać] {leję; leisz / lejesz; lejet;; lejena; lejewa; lejete;; lejemy; lejecie; lejąt}
-ciepić / (*teplъ / ) *tep- / *tep-  — ocieplać [ciepły, ocieplać, docieplać] {ciepię; ciepisz; ciepit;; ciepina; ciepiwa; ciepite;; ciepimy; ciepicie; ciepią]
-bierzeć / *bьrati / *bírāˀtei / *bʰéreti / *bʰer-  — nieść [brać, brzemię] {bierę; bierzesz; bierzet;; bierzena; bierzewa; bierzete;; bierzemy; bierzecie; bierąt} 
-czerzyć / (*trimati / *trьměti / *strьměti /) *strьmъ / *strьmь / *(s)terh₁- — usztywniać [stromy, trzymać] {czerzę; czerzesz; czerzet;; czerzena; czerzewa; czerzete;; czerzemy; czerecie; czerząt}
-sieić / *sijati / *sinъ / *(s)ḱHi-nós / {*(s)ḱeh₁y-,*(s)ḱeh₁y-} — zachowywać się jak światło: emitować je, umożliwiać widzenie przez nie oraz przechodzić w jego rozproszenie i zanik [siwy, siny, siano] {sieję; siejesz; siejet;; siejena; siejewa; sejete;; siejemy; siejecie; siejąt}
-ciemić / *tьmьnъ / *tьma / *tímāˀ / *tm̥H-éh₂ / *temH-  — ściemniać (fizycznie) [ciemny, sciemniać] {ciemię; ciemisz; ciemit;; ciemina; ciemiwa; ciemite;; ciemimy; ciemicie; ciemiąt}
-niecić / *nesti / *neśtei / *h₁neḱ- — odbierać, przenosić [nosić] {niecę; niecisz; niecit;; niecina; nieciwa; niecite;; niecimy; niecicie; niecąt}
-budzić / *budìti / *báudīˀtei /  *bʰowdʰéyeti / *bʰewdʰ — budzić [budzić] {budzę; budzisz; budzit;; budzina; budziwa; budzite;; budzimy; budzicie; budząt}
-dziewyć / *dymiti / *dymъ / *dū́ˀmas / *dʰuh₂mós / *dʰewh₂- — dymić [dym, dymić] {dziewię; dziewesz; dziewet;; dziewina; dziewewa; dziewete;; dziewemy; dziewecie; dziewiąt}
-doić / *dojiti / *dojь /  *dʰeh₁(y)- — karmić mlekiem matki [doić] {doję; doisz; doit;; doina; doiwa; doite;; doimy; doicie; doją}
-żeić / *žìti / *gīˀwetei / *gʷíh₃weti / *gʷih₃wós / *gʷeyh₃- — żyć [żyć, życie] {żeję; żejesz; żejet;; żejena; żejewa; żejete;; żejemy; żejecie; żejąt}
-pielić / *polti / *pelh₁- — palić [płomień, palić, popiół] {pielę; pielisz; pielit;; pielina; pieliwa; pielite;; pielimy; pielicie; pieląt}
-niebić / *nebo / *nébas  / *nébʰos / *nebʰ- (1)  — być wilgotnym, chmurowatym [niebo, *”niebiosa”] {niebię; nebisz; nebit;; niebina; niebiwa; niebite;; niebimy; niebicie; nebiąt}
-dzwonić / *zvoniti / *zvon- — dzwonić (np. dzwonkiem, NIE TELEFONEM) [dzwon, dzwonić] {dzwonię; dzwonisz; dzwonit;; dzwonina; dzwoniwa; dzwonite;; dzwonimy; dzwonicie; dzwoniąt}
-kulić / *kolo / *kálan /  *kʷól-os ~ *kʷól-es- / *kʷel- — kręcić wokół [koło, kolić, człowiek = *kʷel- (“kręcić, obracać”) + *weyk- (“to overcome”)] {kulę; kulesz; kulet;; kulena; kulewa; kulete;; kulemy; kulecie; kuląt}
-wieczyć / (*věkъ / *wáikas) / *weyk-  — pokonywać, “to overcome” [wiek, wieczny, wieczność, odwet] {wiekę / wieczę; wieczesz; wieczet;; wieczywie / wiekina; wieczyta / wiekiwa; wieczyte / wiekite;; wieczemy; wieczecie; wiecząt / wiekąt}
-wrzyć / *vьrěti / *wirˀ(ē)tei / *wr̥ — gotować [wrzeć, wywar] {wrzę; wrzesz; wrzet;; wrzena; wrzewa; wrzete;; wrzemy; wrzecie; wrąt}
-skerzyć / *kriti / *(s)ker- — ciąć, rozdzielać, oddzielać (abstrakcyjnie) [krótki, krzemień, kora, skóra, krócić, kret, kark, krzywy] {skerzę; skerzesz; skerzet / skert;; skerzewie / skerna; skerzeta / skerwa; skerzete / skerte; skerzemy; skerzecie / skercie; skerząt / skerąt} 
-bełżyć / (*bolzina / *balźeinas /) *bʰelǵʰ- — puchnąć [budżet ← budget (fr.) ← bougette (s.fr.) ← bouge (s.fr.) ← bulga (łac.) (?) ← bolgā (gali.) ← *bolgos (p.ceł.) ← *bʰólǵʰ-o-s (PIE) ←  *bʰelǵʰ- (PIE), **bolzina (p.sł)] {bełżę; bełżesz; bełżet;; bełżena; bełżewa; bełżete;; bełżemy; bełżecie / bężecie; bełżąt / bężąt}
-bić / *biti / *bī́ˀtei / *bʰeyh₂- — wprawiać w nagły ruch / wstrząs (→ uderzać, razić; → wzbudzać drżenie / strach) [bić, pobić, bitwa, bój, bojowy, obawiać się, bać się]  {beję; bejesz; beje;; bejena; bejewa; bejete;; bejemy; bejecie; bejąt}
-mejić / *mijati / *mey-  — zmieniać, zamieniać [mimo, mijać, zamienić, wymienić, przemienić, zmienić, odmienić] {meję; meisz / mejesz; meit / mejet;; meiwa / mejena; meita / mejewa; meite / mejete;; meimy / miejemy; meicie / mejecie; miąt / mejąt}
-pełżyć / (*pęstь / *penkstis / *pn̥kʷstis /) *pewǵ-  — kłuć, uderzać punktowo [pięść]
-dziemić / (*domъ / *damús / *dom-u-s / *dṓm /) *dem- — budować, składać coś razem [dom] {dziemię; dziemisz; dzemit;; dziemiwe; dziemiwa; dziemite;; dziemimy; dziemicie; dziemiąt}
-bolić / bolěti / *bʰol-i- / *bʰel- / *bʰol(H)-i- / *bʰel(H)- — osłabiać, uciskać [boleć, ból] {bolę; bolisz; bolit;; bolina; boliwa; bolite;; bolimy; bolicie; boląt}
-bredzić / *brodìti / *brádīˀtei / *bʰrodʰ-éye-ti / *bʰredʰ- — brodzić, przechodzić przez wodę [brodzić, bród, brud] {bredzę; bredzisz; bredzit;; brzedzina; bredziwa; bredzite;; bredzimy; bredzicie; bredząt}
-uczyć / *učiti / *auˀkīˀtei / *h₁owk-éye-ti / *h₁ewk- — uczyć, przyzwyczajać [uczyć, nauczyciel, zwyknąć, przyzwyczaić] {uczę; uczesz; uczet;; uczena; uczewa; uczete;; uczemy; uczecie; ucząt}
-mreżyć / (*bъrzъ / *burźus / *br̥ǵʰús /) *mreǵʰ- (1) — skracać, krócić [bardzo, *bardy] {mreżę; mreżesz; mreszet;; mreżena; mreżewa; mreżete;; mreżemy; mreżecie; mreżąt}
-dłubać / *dьlbati / *dьlbti /  *dʰelbʰ-  — kopać, wykopywać, wydobywać [dłuto, dłubać] {dłubię; dłubisz; dłubit;; dłubina; dłubiwa; dłubite;; dłubimyl dłubice; dłubiąt}
-[~] owić / (*aje / *ṓjan / *h₂ōwyóm /) *h₂éwis / {*h₂ew- + -i-, *h₃ew- + -i-} — odziewać, ubierać [jajo (~), jajko (~), owca (~)] {owię; owisz; owit;; owina; owiwa; owite;; owimy; owicie; owiąt}
-wieić / (*vina / *wīˀtei  / ) *weyh₁-  — ścigać, polować, tropić [wina, winić] {wieję; wiejesz; wiejet;; wiejena; wiejewa; wiejete;; wiejemy; wiejecie; wiejąt}
-koić / *kojiti / *kʷyeh₁- — odpoczywać [koić, spokojny] {koję; koisz; koit;; koina; koiwa; koite;; koimy; koicie; kojąt}
-czenić / (*čęti /) *ken- — rozpoczynać [czynić, zaczynać, początek] {czenię; czenisz; czenit;; czenina; czeniwa; czenite;; czenimy; czenicie; czeniąt}
-preżyć / *pragnǫti / *preg- — pragnąć [pragnąć, pragnienie] {preżę; preżesz; preżet;; preżena; preżewa; preżete;; preżemy; preżecie; preżąt}
-cierpić / (*terba /) *terp — satysfakcjonować [potrzeba, potrzebować, trzew (?), trzewić (?), cierpieć (?)] {cierpię; cierpiesz; cierpiet;; cierpiena; cierpiewa; cierpiete;; cierpiemy; cierpiecie; cierpiąt}
-wreżyć / (*razъ / *rōźas /)  *wreh₁ǵ-  — łamać, rozdzierać, niszczyć [rzezać, raz, razić, obraz, wyraz, zaraza, uraz] {wreżę; wreżesz; wreżet;; wreżena; wreżewa; wreżete;; wreżemy; wreżecie; wreżąt}
-jebyć / *jeti / *h₃yébʰeti / *h₃yebʰ- — wchodzić w, przenikać, penetrować [jebać, zjeb] {jebię; jebisz; jebiet;; jebiena; jebiewa; jebiete;; jebiemy; jebiecie; jebiąt}
-przeczyć / *prositi / *práśīˀtei / *preḱ- — pytać, prosić [prosić, prośba] {przeczę; przeczesz; przeczet;; przeczena; przeczewa; przeczete;; przeczemy; przeczecie; przecząt}
-kłujić / (*kľučь / *kljaukjas / *klewk-yo-s / *kle(h₂)uk- /) *(s)kleh₂w- — zamykać [klucz] {kłuję; kłujesz; kłujet;; kłujena; kłujewa; kłujete;; kłujemy; kłujecie; kłująt} 
-kalić / *kľuti / *kľьvati / *kljautei / *klewh₂- / *kelh₂- — bić, dźgać [kolec, kłuć] {kalę; kalesz; kalet;; kalena; kalewa; kalete;; kalemy; kalecie; kaląt} 
-łżyć / *lъgàti / *h₂lewgʰ- — kłamać [łgać, *łzec]   {łżę; łżesz; łżet;; łżena; łżewa; łżete;; łżemy; łżecie; łżąt}
-czelić / *klamati / *(s)kel- — zginać, wyginać (strukturalnie, geometrycznie)  [kolano, człon] {czelę; czelesz; czelet;; czelena; czelewa; czelete;; czelemy; czelecie; czeląt}
-gnić / *gňìti / *gʰneyH — gnić, kruszyć się, rozpadać się materialnie [gnić, gnój] {gnię; gniesz; gniet;; gniena; gniewa; gniete;; gniemy; gniecie; gniąt}
-gubić / *gubiti / *gʰowbʰ-éye-ti / {*gʰewbʰ-, *gʰubʰ-} — niszczyć, rujnować [gubić, giąć] {gubię; gubiesz; gubiet;; gubiena; gubiewa; gubiete;; gubiemy; gubiecie; gubiąt}
-śpić / *spěšiti / *spě̑xъ / *spě̀ti / *spḗˀtei / spéh₁-ti / *speh₁-  — dobrze się powodzić [śpieszyć, pośpiech] {śpię; śpiesz; śpiet;; śpiena; śpiewa; śpiete;; śpiemy; śpiecie; śpiąt}
-supić / *sъpati / *supn- /  *supn- / *swep- — spać [sen, spać] {supię; supiesz; supiet;; supiena; supiewa; supiete;; supiemy; supiecie; supiąt}
-czarzyć / (*čarъ  / {*ker-, *kēr-} /) *kʷer- — ciąć, rzeźbić, formować [czar, czarować, czarujący, czarowny, czaruś, czart (?)] {czarzę; czarzesz; czarzet;; czarzena; czarzewa; czarzete;; czarzemy; czarzecie; czarząt}
-jużyć / (*jьgъla / *jьgo / *yugóm /) *yewg- — sprzęgać, łączyć ze sobą, wiązać [igła, iglasty, *iglny] {jużę; jużesz; jużet;; jużena; jużewa; jużete;; jużemy; jużecie; jużąt}
-myć / *myti / {*muH-, *m(y)ewh₁-} — myć [myć] {myję; myjesz; myjet;; myjena; myjewa; myjete;; myjemy; myjecie; myjąt}
-czeszyć / *xoliti / *ksalīˀtei / *ksol-éyeti / *ksol- / *kes-  — zeskrobywać, drapać, wyczesywać, wygładzać [czesać] {czeszę; czeszesz; czeszet;; czeszena; czeszewa; czeszete;; czeszemy; czeszecie; czesząt}
-bejić / *bojàti / *bajā́ˀtei / *bʰoyh₂-eh₂-ti / *bʰeyh₂- — bać się [bać się] {beję; bejesz; bejet;; bejena; bejewa; bejete;; bejemy; bejecie; bejąt}
-łowić / *loviti / *law- / *leh₂w-  — łapać, przechwytywać, dostawać, otrzymywać [łów, łowić] {łowię; łowiesz; łowiet;; łowiena; łowiewa; łowiete;; łowiemy; łowiecie; łowiąt}
-drużyć / (*drugъ / *draugás /) *dʰrewgʰ- — towarzyszyć (komuś), podążać za (kimś), być lojalnym (komuś) [druh, drugi, drużyna] {drużę; drużesz; drużet;; drużena; drużewa; drużete;; drużemy; drużecie; drużąt}
-żemić / *žęti / *gémtei / *gem-  — sprasowywać, wyciskać [żąć, dożynki] {żemię; żemiesz; żemiet;; żemiena; żemiewa; żemiete;; żemiemy; żemiecie; żemiąt}
-sczujić / *čùti / *(s)kéwh₁-ye-ti / *(s)kewh₁- — zwracać uwagę, dostrzegać, obserwować [czuć, samopoczucie, czucie, uczucie] {sczuję; sczujesz; sczujet;; sczujena; sczujewa; sczujete;; sczujemy; sczujecie; sczująt}
-leścić / *lьščati / *lьsk- / {*leik-, *leisk-} — być jasnym, błyszczeć, lśnić [lśnić, lśniący] {leśczę; leścisz; leścit;; leścina; leściwa; leścite;; leścimy; leścicie; leściąt}
-przyjić / *prijati / *priHós / *preyH- — milić [komuś], uprzyjemniać [komuś], kochać [kogoś] [przyjaciel, sprzyjać] {przyję; przyjesz; przyjet;; przyjena; przyjewa; przyjete;; przyjemy; przyjecie; przyjąt} 
-walić / *valiti / {*wōlás,*wōlús} / *welH- — toczyć, falować [wał, walić, walenie] {walę; walisz; walet;; walina; waliwa; walite;; walimy; walicie; waląt}
-jązić / *ǫzъkъ / *anźukas / *anźus / *h₂énǵʰus / *h₂enǵʰ- — zwężać, ścieśniać, kompresować [wąski, zwężać] {ąjżę; jążesz; jążet;; jążena; jążewa; jążete;; jążemy; jążecie; jążąt}
-# Ekspresywne
+mneć / (*pàmę̄tь /) *mintís / *mn̥tís / *méntis / *men- — myśleć, pamiętać [pamięć] {mnę; mnesz; mnet;; mnewa; mneta; mnete;; mnemy; mnecie; mnąt }
+mrzeć / *mertì (*mьr-) / *mertéi / *mer- — zanikać [śmierć, umierać, zmarł, morze] {mrzę; mrzesz; mrzet;; mrzewa; mrzeta; mrzete; mrzemy; mrzecie; mrząt}
+wydeć / (*voda / *wandō / *wédōr [kolektyw od wódr̥] /) *wed- — wytryskiwać, wypływać, tryskać [woda ← psł. *voda ← bsł. *wandō ← PIE *wédōr (kolektyw r/n-stem ← *wódr̥ [-r]) ← rdzeń *wed- / *ud- "płynąć, tryskać", wydra] {wyzę; wydesz; wydet;; wydewa; wydeta; wydete;; wydemy; wydecie; wydąt}
+wodeć / *voditi / *wádīˀtei / *wodʰéyeti / *wedʰ- — prowadzić, kierować, wieść [przewodzić, prowadzić] {wodzę; wodzesz; wodzet;; wodzewa; wodzeta; wodzete;; wodzemy; wodzecie; wodząt}
+chłeweć, chłyć / *slyšati / *slyxěti / *ḱléwseti / *ḱlew- — słyszeć [sława, słynąć, słowo, słynny, sławić, głuchy] {chłewę; chłysz; chłyt;; chlywa; chłyta; chłyte;; chłymy; chłycie; chłewąt]
+wołeć / *voldati / *walˀdā́ˀtei / *h₂welh₁dʰh₁- / *h₂welh₁-s / *h₂welh₁- — mieć moc, znaczenie, władać [władza, władać, władca] {wołę; wołesz; wołet;; wołewa; wołeta; wołete;; wołemy; wołecie; wołąt}
+maźeć / *màzati / *mōˀź- / *meh₂ǵ- — ugniatać, formować rękami, lepić z miękkiej masy [masa, masło, maślanka] {mażę; maźesz; maźet;; maźewa; mażeta; maźete;; maźemy; maźecie; mażąt}
+szejeć / *šiti / *sjū́ˀtei / *syewH- / *seh₂y- – łączyć, wiązać [szyć, szydło] {szeję; szejesz; szejet;; szejewa; szejeta; szejete;; szejemy; szejecie; szejąt}
+radeć / (*radъ /)  *rēd- — zadowalać, weselić [rad, *rady] {radzę; radesz; radet;; radewa; radeta; radete;; rademy; radecie; radząt}
+rodeć / *roditi / *ord- — wzrastać [rodъ → ród, naród, narodzony, zrodzony, narodziny, urodziny] {rodzę; rodesz; rodet;; rodewa; rodeta; rodete;; rodemy; rodecie; rodząt}
+rzeczeć / *rekti / *(H)rek- — krzyczeć, ryczeć [rzec, *rěčь → rzecz, rzekł, zrzekł, przyrzekł, urzekł] {rzekę; rzeczesz; rzeczet;; rzeczewa; rzeczeta; reczete;; rzeczemy; rzeczecie; rzecząt} 
+serzeć / *sьrbъ / *sŕbъ / *sorbъ / *ser- — być na straży, trwać w stanie czuwania, zachowywać uważność [Serbia, Serb, Sorb, pasierb] {serzę; seresz; seret / sert;; serewa; sereta; serete;; seremy; serzecie; serząt}
+jemeć / *em- / *h₁em- — brać coś sobie [imię, imienie, objąć, zdjąć, mieć, przejąć, jeniec] {jemę; jemesz; jemet;; jemewa; jemeta; jemete;; jememy; jemecie; jemąt}
+grzebeć / *grabiti / *grā́ˀbīˀtei /  {*gʰrebʰ-, *gʰreb-, *gʰrebh₂-} — zagarniać coś do siebie (gwałtownie, agresywnie, wydzierając) [grabie, grabież, zagrabić, grabić, grzebień] {grzebę; grzebesz; grzebet;; grzebewa; grzebeta; grzebete;; grzebemy; grzebąt}
+jeseć / (*bỳti / *bū́ˀtei) / *h₁ésti — być, istnieć [być, byt, bycie, ***h₁ésh₂r̥ - płyn ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppbet / błet;; bewa / błewa; beta / błeta; bete / błete;; bymy / błemy; becie / błecie; bąt / błąt}
+jejeć / (*iti /) *h₁ey- — poruszać się, iść [iść] {jeję; jejesz; jejet;; jejewa; jejeta; jejete;; jejemy; jejecie; jejąt}
+jedeć / *ěsti / *h₁ed- — jeść, spożywać [jeść, jadło] {jedzę; jedesz; jedet;; jedewa; jedeta; jedete;; jedemy; jedecie; jedząt}
+dejeć / *dàti / *dṓˀtei / *dédeh₃ti / *deh₃- — dawać, przekazywać [dać, dar, śniadanie, danie] {deję; deisz / dejesz; deit / dejet;; dejewa; dejeta; dejete;; dejemy; dejecie; dejąt}
+wiedeć / *viděti / *weyd- — widzieć, postrzegać umysłem/umysłowo, poznawać przez obserwację [widzieć, widok, wiedzieć, wiem, wiedza] {wiedzę; wiedesz; wiedet;; wiedzewa; wiedeta; wiedete;; wiedemy; wiedecie; wiedząt}
+wierteć / vьrtiti / wert- — obracać się, kręcić się fizycznie [wiercić, wywiercić, wiercieć, wiertło, *wrzemię (czas), wracać, wrzeciono, wrócić, zwrócić] {wiercę; wiercesz; wiercet;; wiercewa; wierceta; wiercete;; wiercemy; wiercecie; wiercąt}
+czejeć / *činiti / *činǫti / *kʷey-¹ — odpłacać, wyrównywać [czyn, czynność, cena, przyczyna, kajać się] {czeję; czejesz; czejet;; czejewa; czejeta; czejete;; czejemy; czejecie; czejąt}
+teczeć / *tesati / *téśtei / *tetḱ- / *teḱ- — rodzić, stwarzać [czesać, ciosać, ciosło] {tekę; teczesz; teczet / tekt;; teczewa; teczeta; teczete;; teczemy; teczecie; tekąt}
+godeć / *goditi / *gʰedʰ- — łączyć, zbierać razem (→ łączyć, pasować, zgadzać) [dogodzić, godzić, zgoda, pogoda] {godę; godesz; godet;; godewa; godeta; godzete;; godemy; godecie; godąt} 
+dobeć / *dobiti / *dʰh₂ebʰ- — przypasowywać, czynić odpowiednim, składać w całość [zdobić, ozdoba, przyozdobić, doba, dobry] {dobę; dobesz; dobet;; dobewa; dobeta; dobete;; dobemy; dobecie; dobąt}
+grodeć, żerdeć / *gorditi /  *gordъ / *gárdas / *gʰordʰ-os / *gʰerdʰ- — otaczać, zabudowywać [żerdź, gród, ogród, ogradzać, nagroda, wynagrodzić] {grodzę / żerdzę; grodesz / żerdesz; grodzet / żerdzet;; grodewa / żerdewa; grodeta / żerdeta; grodete / żerdete;; grodemy / żerdemy; grodecie / żerdecie; grodząt / żerdząt}
+[~~~] dzieżeć / *zemľà / *zemja / *źémijāˀ / {*dʰéǵʰōm, *(dʰ)ǵʰm̥-yéh₂} — ubijać, deptać, gnieść [ziemia, czarnoziem] [pewne: dzieżemia jako "earth"/”ziemia”; werbalna baza niepewna] {dzieżę; dzieżesz; dzieżet;; dzieżewa; dzieżeta; dzieżete;; dzieżemy; dzieżecie; dzieżąt}
+woleć / *vľ̥kъ / *wĺ̥kʷos / *u̯l̥kʷós / *u̯el- (*wel-) - szarpać, wyrywać [wełna, wilk = *wel- + ko]  {wolę; wolesz; wolet;; wolewa; woleta; wolete;; wolemy; wolecie; woląt}
+plejeć / (*plod- /) *pleh₁- — napełniać, wypełniać [płód, plemię, pełny, plon] {pleję; plejesz; plejet;; plejewa; plejeta; plejete;; plejemy; plejecie; plejąt}
+robeć / *orbiti  /  *orbъ / *árbas / *h₃órbʰos / *h₃erbʰ- — przełączać stan, przynależność, status [robota, robotnik, robić] {robę; robesz; robet;; robewa; robeta; robete;; robemy; robecie; robąt} 
+pajeć / (páteř / pater / *patēr / *ph₂tḗr) / *peh₂- — być na straży, czuwać, doglądać [pacierz, paść, pasterz ← paść + terz] {paję; pajesz; pajet;; pajewa; pajeta; pajete;; pajemy; pajecie; pająt}
+seweć, suć / *sui- / *sū- / *suH- / *suh₁- / (*sewh₁-, *sewh₃-) -— wydawać, rodzić, produkować [syn, sutek??, świnia?] {sewę; sewesz / susz; sewet / sut;; sewewa / suwa; seweta / suta; sewete / sute;; sewemy / sumy; sewecie / sucie; sewąt}
+dzieweć / *dьněti / *dyew-  — świecić (fizycznie) [dzień, dziś, południe, dzisiaj, dziwny] {dziewę;ppppPp dziewewa; dzieweta; dziewete;; dziewemy;; dziewecie;; dziewąt}
+okweć,oczeweć / (*aka / *ak- /  *h₃ókʷs /) / *h₃ekʷ- — widzieć (fizycznie), mieć wzrok skierowany na coś [oko, okno, baczyć] {okwę; oczewesz; okwet / oczewet;; okwewa / oczewewa; okweta / oczeweta; okwete / oczewete;; okwemy / oczewemy; okwicie / oczewecie; okwąt / oczewąt}
+wiejeć / (*vixъrъ /  *weiˀšuras /  *weiˀšulas /) *weh₁i-s- / *weh₁y- — wić się, kręcić się [wicher, wichura, wić, wój, wino, wieniec, wicz] {weję wejesz; wejet;; wejewa; wejeta; wejete;; wejemy; wejecie; wejąt}
+plęteć / *poľe / *pleth₂- — rozprzestrzeniać się, rozpościerać się, być płaskim [pole, polski] {plęcę; plęcesz; plęcet;; plęcewa; plęceta; plęcete;; plęcemy; plęcecie; plęcząt}
+świeteć / světiti / *śwaitī́ˀtei / *ḱweyt- — świecić, “robić to co robi świat” (abstrakcyjne) [świat, świecić, światło] {świecę; świecesz; świecet;; świecewa; świeceta; świecete;; świecemy; świececie; świecąt}
+merzieć / mьrzěti / merǵ- — zastygać z zimna, tężeć z zimna, tracić ciepło [mróz, marznąć] {merzię; merziesz; merziet;; merziewa; merzieta; merziete;; merziemy; merzicie; merziąt}
+wieć / *vě̀jati / *věti / *wḗˀtei / *h₂wḗh₁ti, /  *h₂weh₁-  — wiać [wiatr, wiać] {wię; wiesz; wiet;; wiewa; wieta; wiete;; wiemy; wiecie; wiąt}
+pieżeć / *peyḱ- / *peyg- — oznaczać nacięciami [pisać, piegi, pstry, piętno, pigment] {peżę; peżesz; peżet;; peżewa; peżeta; peżete;; peżemy; peżecie; peżąt}
+pieczeć / *pekti / *pekt- / *pekʷ- — dojrzewać ciepłem (materiały jedzeniowe) [piec, pieczeń, piekarnik, wypiek, upiec, pieczony] {piekę; pieczesz; pieczet;; pieczewa; pieczeta; pieczete;; pieczemy; pieczecie; piekąt}
+mudeć / (*myd-slь / *mūdʰ-slĭ- /) *mēudʰ- / *muHdʰ- — myśleć, dążyć, badać [myśl, myśleć] {mudę; mudesz; mudet;; mudewa; mudeta; mudete;; mudemy; mudecie; mudąt}
+młoweć / *mъlviti / *mlewH- — mówić [mówić, mowa, umowa, namawiać, umawiać, wymawiać, przemawiać] {młowę; młowesz; młowet;; młowewa; młoweta; młowete;; młowemy; młowecie; młówiąt}
+stejeć / *stati /  *stā́ˀtei /  *steh₂ — stać [stać, wstawać, ustawać, dostawać, wystawiać, stawiać] {steję; stejesz; stejet;; stejewa; stejeta; stejete;; stejemy; stejecie; stejąt}
+tomeć, tęć / *tęti / *tinˀtei / *temh₁- — ciąć, rodzielać (fizycznie) [ciąć, ucinać, wycinać, przecinać, odcinać, docinać] {tomę; tomesz; tomet / cięt;; tomewa / tęwa; tometa / cięta; tomete / cięte;; tomemy;  tomecie / tęcie; tomiąt}
+sieczeć / *sěkati / *sek- — odcinać, rozdzielać, rozcinać [siekać, siekiera] {siekę; sieczesz; sieczet;; sieczewa; sieczeta; sieczete;; sieczemy; sieczecie; siekąt}
+żreć /  *žerti / *gerˀtei / *gʷerh₃- — spożywać, jeść, połykać [żreć, obżarty] {żrę; żresz; żret;; żrewa; żreta; żrete;; żremy; żrecie; żrąt}
+grzeć / *grěti / *gʷʰer- — ogrzewać, grzać [gorzałka, ogrzewać, grzeję, grzejnik] {grzę; grzesz; grzet;; grzewa; grzeta; grzete;; grzemy; grzecie; grząt}
+iżeć / (*jьgra / *ígrāˀ / *h₂ig-réh₂ /) *h₂eyg- — skakać, pląsać, tańczyć, brać udział w obrzędowej zabawie [grać, igrać] {igę; iżesz; iżet;; iżewa; iżeta; iżete;; iżemy; ożecie; igąt}
+drożeć / (*dьrgati / *dьrnǫti /) *derHgʰ- — szarpać. wyrywać, rozciągać [droga, drżeć, drgać] {drogę; drożesz; drożet;; drożewa; drożeta; drożete;; drożemy; drożecie; drogąt}
+ścieżeć / (*stьžьka /  *stьdza / *stьga / *stigāˀ / *stigʰ-eh₂ /) *steygʰ-  — iść, kroczyć, wspinać się [ścieżka, wstęga, wstążka] {ściegę; ścieżesz; ścieżet;; ścieżewa; ścieżeta; ścieżete;; ścieżemy; ścieżecie; ściegąt}
+tworzeć / *tvoriti / *twarīˀtei / *twerH- — chwytać, przybierać kształt ( chwytać/brać i formować je) [tworzyć, twór, *tworzec] {tworzę; tworzesz; tworzet;; tworzewa; tworzeta; tworzete;; tworzemy; tworzecie; tworząt}  
+jaweć / *aviti / *h₂ew- — dostrzegać, widzieć, postrzegać, być świadomym (czegoś) [jawić, jawny, objawiony, zjawa] {jawę;; jawesz; jawet;; jawewa; jaweta; jawete;; jawemy; jawecie; jawąt}
+czeczeć / (*kazati /) *kʷeḱ- — postrzegać, zauważać, uchwycać wzrokiem (akt percepcji) [kazać, pokazać, kazanie, kazna] {czekę; czeczesz; czeczet;; czeczewa; czeczeta; czeczete;; czeczemy; czeczecie; czekąt}
+beżeć / (běťi / *bḗˀgtei / *bʰégʷ-e-ti /) *bʰegʷ- — uciekać, biec [biec, biegać, bieg, *“przybieżeli”] {beżę; beżesz; beżet;; beżewa; beżeta; beżete;; beżemy; beżecie; beżąt}
+skeczeć, ścieczeć / (*skokъ / *skakas / *skok-ó-s) *skek- — skakać [skok, skakać] {skaczę / ścieczę; skaczesz / ścieczesz; skaczet / ścieczet;; skaczewa; / ścieczewa; skaczeta / ścieczeta; skaczete / ścieczete;; skaczemy / ścieczemy; skaczecie / ścieczecie; skacząt / ściecząt}
+pieseć / (*pьxati / *pištei / *pis-é-ti) *peys- — miażdżyć [pchać] {piesę; piesesz; pieset;; piesewa; pieseta; piesete;; piesemy; piesecie; piesąt}
+tężeć / (*tęgnǫti /) / *tęťi / *tingtei / *tengʰ- — ciągnąć, ciążyć [ciągnąć, ciężki, ciężar] [ciężę; ciężesz; ciężet;; ciężewa; tężeta / ciężeta; ciężete;; tężemy / ciężemy; tężecie / ciężecie; ciężąt}
+wieleć / *voliti / *walīˀtei / *wolh₁-éye-ti / *welh₁- — wybierać, chcieć [woleć, wolny, wielki, wiele, wola] {wielę; wielesz; wielet;; wielewa; wieleta; wielete;; wielemy; wielecie; wieląt}
+pełeć / *pъtati / {*peu-, *pew-}  — dociekać, badać, sprawdzać [pytać, pytanie] {pełę; pełesz; pełet;; pełewa; pełeta; pełete;; pełemy; pełecie; pełąt}
+sełpeć, supeć / *supn- / *supn- /  *swep- — spać [spać, sen?] {supę / sełpę; supesz / sełpesz; supet / sełpet;; supewa / sełpewa; supeta / sełpeta; supete / sełpete;; supemy / sełpemy; supecie / sełpecie; supąt / sełpąt} 
+padeć / *pàsti / *pṓˀstei / *ped- — upadać, spadać [spaść, upadać, przypadek, przypadać, spadek, upadek] {padę; padesz; padet;; padewa; padeta; padete;; pademy; padecie; padąt}
+pędeć / *pǫditi / *(s)pond-éye-ti / *(s)pend- — rozciągać, “to stretch” [pędzić, spędzić, przepędzić] {pędę; pędesz; pędet;; pędewa; pędeta; pędete;; pędemy; pędecie; pęząt}
+siedeć / *sěděti / *sēdḗˀtei / *sed-éh₁-ye-ti / *sed- — siedzieć [siedzieć, osada, osiedle, sidło] {siedzę; siedzesz; siedzet;; siedzewa; siedzeta; siedzete;; siedzemy; siedzecie; siedząt}
+leżeć / *ležati / *legʰ- — kłaść, pokładać [leżeć, nocleg, leżenie] {leżę; leżesz; leżet;; leżewa; leżeta; leżete;; leżemy; leżecie; leżąt} 
+goneć / *gonìti / *gánīˀtei / *gʷʰon-éye-ti / *gʷʰon-éye-ti / *gʷʰen- — uderzać, zabijać, razić [gonić, goniec] {gonę; gonesz; gonet;; gonewa; goneta; gonete;; gonemy; gonecie; gonąt}
+duszeć / *dyšati / *dáuṣas / *dʰwes- — dychać (jako przepływ powietrza) [dyszeć, oddech, wydech, zdechł, dusić] {duszę; duszesz; duszet;; duszewa; duszeta; duszete;; duszemy; duszecie; dusząt}
+dęć /  *dǫti / *dúmˀtei / *dʰemH- — nadmuchiwać, wtłaczać powietrze [*duxati + *dǫti = dmuchać ? (złączenie 2 plemion?), dąć, wzdęty] {demę; demesz; demet;; demewa; demeta; demete;; dememy; demecie; demąt} 
+gryźć / *gryzti / *grūˀźtei /  *gʷruHǵʰ-  — gryźć [gryźć] {gryzę; gryzesz; gryzet;; gryzewa; gryzeta; gryzete;; gryzemy; gryzecie; gryząt}
+żuć / *žьvàti / *žuti / *ǵyewh₁- — żuć [żuć] {żewę; żewesz / żusz; żewet / żut;; żewewa / żuwa; żeweta / żuta; żewete / żute; żewemy / żumy; żewecie / żucie; żewąt}
+poić / *piti / *peh₃- — pić [pić, poić] {poję; poisz / pojesz; poit / pojet;; poiwie / pojewa; poita / pojeta; poite / pojete;; poimy / pojemy; poicie / pojecie; pojąt}
+liżeć / *lizati / *léiźtei / *léyǵʰti / *leyǵʰ- lizać [lizać] {liżę; liżesz; liżet;; liżewa; liżeta; liżete;; liżemy; liżecie; liżąt}
+suczeć / *sъsati / *suk- / ? — ssać [ssać] {sukę; suczesz; suczet;; suczewa; suczeta; sucete;; suczemy; suczecie; sukąt}
+pleczeć / * plesti / *pleśtei /  *pleḱ-t- /  *pleḱ- — pleść, splatać, wiązać [pleść] {plekę; plecesz; plecet;; plecewa; pleceta; plecete;; plecemy; plececie; plekąt}
+koweć, kuć /  *kovàti /  *kauˀ- / *kowh₂- / *kewh₂- — bić, uderzać, kuć [kowal, kuć] {kowę; kowesz / kusz; kowet / kut;; kowewa / kuwa; koweta / kuta; kowete / kute;; kowemy / kumy; kowecie / kucie; kowąt}
+lejpeć / *lěpiti / *laip- / *loyp-éye-ti / *leyp- — kleić, przyklejać, łączyć fizycznie [lepki, lepić, lepszy, najlepszy] {lepię; lepesz; lepet;; lepewa; lepeta; lepete;; lepemy; lepecie; lepiąt}
+zneć / *znàti / *źnōˀtei / *ǵneh₃-  — rozpoznawać, wiedzieć [znać, znak] {znę; znesz; znot / znet;; znewa; zneta; znete;; znemy; znocie; znąt}
+możeć / *moťi / *mogtì / *megʰ- — móc, być w stanie [móc] {mogę; możesz; możet; możewa; możeta; możete; możemy; możecie; mogąt}
+gaszeć / *gasìti / *(s)gʷes- — gasić, ugaszać [gasić, ugaszać, zgaszać, zgasić, przygasić, azbest ← asbestos ← ἄσβεστος ← ἀ- + σβεστός ← σβέννῡμι + -τός ← (s)gʷes] {gaszę; gasesz; gaset;; gasewa; gaseta; gasete;; gasemy; gasecie; gasząt}
+mroczeć / *morčiti / *morkъ + *-iti / *markas /  *mergʷ- — ściemniać (przestrzennie, ogólnie) [mrok, mroczny] {mrokę, mroczesz; mroczet;; mroczewa; mroczeta; mroczete;; mroczemy; mroczecie; mrokąt}
+leić, lejeć / *lьjati / *leˀitei / *leyH- — lać [lać] {leję; leisz / lejesz; lejet;; lejewa; lejeta; lejete;; lejemy; lejecie; lejąt}
+ciepeć / (*teplъ / ) *tep- / *tep-  — ocieplać [ciepły, ocieplać, docieplać] {ciepę; ciepesz; ciepet;; ciepewa; ciepeta; ciepete;; ciepemy; ciepecie; ciepą]
+bierzeć / *bьrati / *bírāˀtei / *bʰéreti / *bʰer-  — nieść [brać, brzemię] {bierę; bierzesz; bierzet / biert;; bierzewa; bierzeta; bierzete;; bierzemy; bierzecie; bierąt} 
+strzeć / (*trimati / *trьměti / *strьměti /) *strьmъ / *strьmь / *(s)terh₁- — usztywniać [stromy, trzymać] {strę; strzesz; strzet;; strzewa; strzeta; strzete;; strzemy; strzecie; strąt}
+sić, sieć / *sijati / *sinъ / *(s)ḱHi-nós / {*(s)ḱeh₁y-,*(s)ḱeh₁y-} — zachowywać się jak światło: emitować je, umożliwiać widzenie przez nie oraz przechodzić w jego rozproszenie i zanik [siwy, siny, siano] {sieję; siejesz; siejet;; siejewa; siejeta; sejete;; siejemy; siejecie; siejąt}
+ciemeć / *tьmьnъ / *tьma / *tímāˀ / *tm̥H-éh₂ / *temH-  — ściemniać (fizycznie) [ciemny, sciemniać] {ciemię; ciemesz; ciemet;; ciemewa; ciemeta; ciemete;; ciememy; ciemecie; ciemiąt}
+nieczeć / *nesti / *neśtei / *h₁neḱ- — odbierać, przenosić [nosić] {niecę; niecesz; niecet;; niecewa; nieceta; niecete;; niecemy; niececie; niecąt}
+budeć / *budìti / *báudīˀtei /  *bʰowdʰéyeti / *bʰewdʰ — budzić [budzić] {budzę; budzesz; budzet;; budzewa; budzeta; budzete;; budzemy; budzecie; budząt}
+dzieweć / *dymiti / *dymъ / *dū́ˀmas / *dʰuh₂mós / *dʰewh₂- — dymić [dym, dymić] {dziewę; dziewesz; dziewet;; dziewewa; dzieweta; dziewete;; dziewemy; dziewecie; dziewąt}
+doić, dojeć / *dojiti / *dojь /  *dʰeh₁(y)- — karmić mlekiem matki [doić] {doję; doesz; doet;; doewa; doeta; doete;; doemy; doecie; doją}
+żyć, żejeć / *žìti / *gīˀwetei / *gʷíh₃weti / *gʷih₃wós / *gʷeyh₃- — żyć [żyć, życie] {żeję; żejesz; żejet;; żejewa; żejeta; żejete;; żejemy; żejecie; żejąt}
+pieleć / *polti / *pelh₁- — palić [płomień, palić, popiół] {pielę; pielesz; pielet;; pielewa; pieleta; pielete;; pielemy; pielecie; pieląt}
+niebeć / *nebo / *nébas  / *nébʰos / *nebʰ- (1)  — parować, wilgotnieć [niebo, *”niebiosa”] {niebę; nebesz; nebet;; niebewa; niebeta; niebete;; niebemy; niebecie; nebąt}
+zwoneć / *zvoniti / *zvon- / *ǵʰwon- — wydawać dzwięk [dzwon, dzwonić, dzwięk] {zwonę; zwonesz; zwonet;; zwonewa; zwoneta; zwonete;; zwonemy; dzwonecie; zwonąt}
+kuleć / *kolo / *kálan /  *kʷól-os ~ *kʷól-es- / *kʷel- — kręcić wokół [koło, kolić, człowiek = *kʷel- (“kręcić, obracać”) + *weyk- (“to overcome”)] {kulę; kulesz; kulet;; kulewa; kuleta; kulete;; kulemy; kulecie; kuląt}
+wieczeć / (*věkъ / *wáikas) / *weyk-  — pokonywać, “to overcome” [wiek, wieczny, wieczność, odwet] {wiekę; wieczesz; wieczet;; wiekewa; wieketa; wiekete;; wieczemy; wieczecie; wiekąt}
+wrzeć / *vьrěti / *wirˀ(ē)tei / *wr̥ — gotować [wrzeć, wywar] {wrzę; wrzesz; wrzet;; wrzewa; wrzeta; wrzete;; wrzemy; wrzecie; wrąt}
+kerzeć / *kriti / *(s)ker- — ciąć, rozdzielać, oddzielać (abstrakcyjnie) [krótki, krzemień, kora, skóra, krócić, kret, kark, krzywy] {kerzę; kerzesz; kerzet / kert;; kerzewie / kerwa; kerzeta / kerta; kerzete / kerte; kerzemy; kerzecie / kercie; kerząt / kerąt} 
+bełżeć / (*bolzina / *balźeinas /) *bʰelǵʰ- — puchnąć [budżet ← budget (fr.) ← bougette (s.fr.) ← bouge (s.fr.) ← bulga (łac.) (?) ← bolgā (gali.) ← *bolgos (p.ceł.) ← *bʰólǵʰ-o-s (PIE) ←  *bʰelǵʰ- (PIE), **bolzina (p.sł)] {bełżę; bełżesz; bełżet;; bełżewa; bełżeta; bełżete;; bełżemy; bełżecie / bężecie; bełżąt / bężąt}
+bejeć / *biti / *bī́ˀtei / *bʰeyh₂- — wprawiać w nagły ruch / wstrząs (→ uderzać, razić; → wzbudzać drżenie / strach) [bić, pobić, bitwa, bój, bojowy, obawiać się, bać się]  {beję; bejesz; beje;; bejewa; bejeta; bejete;; bejemy; bejecie; bejąt}
+mejeć / *mijati / *mey-  — zmieniać, zamieniać [mimo, mijać, zamienić, wymienić, przemienić, zmienić, odmienić] {meję; meisz / mejesz; meit / mejet;; meiwa / mejewa; meita / mejeta; meite / mejete;; meimy / miejemy; meicie / mejecie; mejąt}
+pełżeć / (*pęstь / *penkstis / *pn̥kʷstis /) *pewǵ-  — kłuć, uderzać punktowo [pięść] {pełżę; pełżesz; pełżet;; pełżewa; pełżeta; pełżete;; pełżemy; pełżecie; pełżąt}
+dziemeć / (*domъ / *damús / *dom-u-s / *dṓm /) *dem- — budować, składać coś razem [dom] {dziemę; dziemesz; dzemet;; dziemewa; dziemeta; dziemete;; dziememy; dziemecie; dziemiąt}
+boleć / bolěti / *bʰol-i- / *bʰel- / *bʰol(H)-i- / *bʰel(H)- — osłabiać, uciskać [boleć, ból] {bolę; bolesz; bolet;; bolewa; boleta; bolete;; bolemy; bolecie; boląt}
+bredeć / *brodìti / *brádīˀtei / *bʰrodʰ-éye-ti / *bʰredʰ- — brodzić, przechodzić przez wodę, brnąć [brodzić, bród, brud] {bredzę; bredzesz; bredzet;; brzedzewa; bredzeta; bredzete;; bredzemy; bredzecie; bredząt}
+uczeć / *učiti / *auˀkīˀtei / *h₁owk-éye-ti / *h₁ewk- — przyzwyczajać się, nabywać nawyku [uczyć, nauczyciel, zwyknąć, przyzwyczaić] {uczę; uczesz; uczet;; uczewa; uczeta; uczete;; uczemy; uczecie; ucząt}
+mreżeć / (*bъrzъ / *burźus / *br̥ǵʰús /) *mreǵʰ- (1) — skracać, krócić [bardzo, *bardy] {mreżę; mreżesz; mreszet;; mreżewa; mreżeta; mreżete;; mreżemy; mreżecie; mreżąt}
+dłubeć / *dьlbati / *dьlbti /  *dʰelbʰ-  — kopać, wykopywać, wydobywać [dłuto, dłubać] {dłubę; dłubesz; dłubet;; dłubewa; dłubeta; dłubete;; dłubemy; dłubecie; dłubąt}
+[~] uć / (*aje / *ṓjan / *h₂ōwyóm /) *h₂éwis / {*h₂ew- + -i-, *h₃ew- + -i-} — odziewać, ubierać, owijać [jajo (~), jajko (~), owca (~)] {owę; owesz; owet;; owewa; oweta; owete;; owemy; owecie; owąt}
+wić / (*vina / *wīˀtei  / ) *weyh₁-  — ścigać, polować, tropić [wina, winić] {wieję; wiejesz; wiejet;; wiejewa; wiejeta; wiejete;; wiejemy; wiejecie; wiejąt}
+koić, kojeć / *kojiti / *kʷyeh₁- — odpoczywać [koić, spokojny] {koję; kojesz/ koisz; kojet;; kojewa; kojeta; kojete;; kojemy; kojecie; kojąt}
+czeneć / (*čęti /) *ken- — rozpoczynać [czynić, zaczynać, początek] {czenę; czenesz; czenet;; czenewa; czeneta; czenete;; czenemy; czenecie; czeniąt}
+preżeć / *pragnǫti / *preg- — pragnąć [pragnąć, pragnienie] {preżę; preżesz; preżet;; preżewa; preżeta; preżete;; preżemy; preżecie; preżąt}
+cierpeć / (*terba /) *terp — satysfakcjonować [potrzeba, potrzebować, trzew (?), trzewić (?), cierpieć (?)] {cierpę; cierpesz; cierpet / cierpt;; cierpewa; cierpeta; cierpete;; cierpemy; cierpecie; cierpąt}
+wreżeć / (*razъ / *rōźas /)  *wreh₁ǵ-  — łamać, rozdzierać, niszczyć [rzezać, raz, razić, obraz, wyraz, zaraza, uraz] {wreżę; wreżesz; wreżet;; wreżewa; wreżeta; wreżete;; wreżemy; wreżecie; wreżąt}
+jebeć / *jeti / *h₃yébʰeti / *h₃yebʰ- — wchodzić w, przenikać, penetrować [jebać, zjeb] {jebę; jebesz; jebet;; jebewa; jebeta; jebete;; jebemy; jebecie; jebąt}
+prześć / *prositi / *práśīˀtei / *preḱ- — pytać, prosić [prosić, prośba] {przesę; przeszesz; przeszet;; przeszewa; przeszeta; przeszete;; przeszemy; przeszecie; przesąt}
+kłóć / *kľuti / *kľьvati / *kljautei / *klewh₂- / *kelh₂- — bić, dźgać [kolec, kłuć] {kiełę; kielesz; kielet;; kielewa; kieleta; kielete;; kielemy; kielecie; kiełąt} 
+łżeć / *lъgàti / *h₂lewgʰ- — kłamać [łgać, *łżec]   {łgę; łżesz; łżet;; łżewa; łżeta; łżete;; łżemy; łżecie; łgąt}
+skleć / *klamati / *(s)kel- — zginać, wyginać (strukturalnie, geometrycznie)  [kolano, człon] {skolę; skelesz; skelet;; skelewa; skeleta; skelete;; skelemy; skelecie; skoląt}
+gnić / *gňìti / *gʰneyH — gnić, kruszyć się, rozpadać się materialnie [gnić, gnój] {gnię; gniesz; gniet;; gniewa; gnieta; gniete;; gniemy; gniecie; gniąt}
+gubeć / *gubiti / *gʰowbʰ-éye-ti / {*gʰewbʰ-, *gʰubʰ-} — niszczyć, rujnować [gubić, giąć] {gubę; gubesz; gubet;; gubewa; gubeta; gubete;; gubemy; gubecie; gubąt}
+spieć / *spěšiti / *spě̑xъ / *spě̀ti / *spḗˀtei / spéh₁-ti / *speh₁-  — dobrze się powodzić [śpieszyć, pośpiech] {spię; spisz; spit;; spiwa; spita; spite;; spimy; spicie; spit}
+supeć / *sъpati / *supn- /  *supn- / *swep- — spać [sen, spać] {supę; supesz; supet;; supewa; supeta; supete;; supemy; supecie; supąt}
+czerzeć / (*čarъ  / {*ker-, *kēr-} /) *kʷer- — ciąć, rzeźbić, formować [czar, czarować, czarujący, czarowny, czaruś, czart (?)] {czerę; czeresz; czerzet;; czerzewa; czareta; czarete;; czaremy; czarecie; czarąt}
+jużeć / (*jьgъla / *jьgo / *yugóm /) *yewg- — sprzęgać, łączyć ze sobą, wiązać [igła, iglasty, *iglny] {jugę; jużesz; jużet;; jużewa; jużeta; jużete;; jużemy; jużecie; jugąt}
+muć / *myti / {*muH-, *m(y)ewh₁-} — myć [myć] {mewę; mewesz; mewet;; mewewa; meweta; mewete;; mewemy; mewecie; mewąt}
+czeszeć / *xoliti / *ksalīˀtei / *ksol-éyeti / *ksol- / *kes-  — zeskrobywać, drapać, wyczesywać, wygładzać [czesać] {czesę; czeszesz; czeszet;; czeszewa; czeszeta; czeszete;; czeszemy; czeszecie; czesąt}
+beić, bejeć / *bojàti / *bajā́ˀtei / *bʰoyh₂-eh₂-ti / *bʰeyh₂- — bać się [bać się] {beję; bejesz; bejet;; bejewa; bejeta; bejete;; bejemy; bejecie; bejąt}
+łuć, łoweć / *loviti / *law- / *leh₂w-  — łapać, przechwytywać, dostawać, otrzymywać [łów, łowić] {łowę; łowesz; łowet;; łowewa; łoweta; łowete;; łowemy; łowecie; łowąt}
+drużeć / (*drugъ / *draugás /) *dʰrewgʰ- — towarzyszyć (komuś), podążać za (kimś), być lojalnym (komuś) [druh, drugi, drużyna] {drużę; drużesz; drużet;; drużewa; drużeta; drużete;; drużemy; drużecie; drużąt}
+żęć / *žęti / *gémtei / *gem-  — sprasowywać, wyciskać [żąć, dożynki] {żemę; żemesz; żemet;; żemewa; żemeta; żemete;; żememy; żemecie; żemąt}
+czuć / *čùti / *(s)kéwh₁-ye-ti / *(s)kewh₁- — zwracać uwagę, dostrzegać, obserwować [czuć, samopoczucie, czucie, uczucie] {czewę; czewesz; czewet;; czewewa; czeweta; czewete;;   czewemy; czewecie; czewąt}
+lszczeć / *lьščati / *lьsk- / {*leik-, *leisk-} — być jasnym, błyszczeć, lśnić [lśnić, lśniący] {lszczę; lszczesz; lszczet;; lszczewa; lszczeta; lszczete;; lszczemy; lszczecie; lszcziąt}
+przyjeć / *prijati / *priHós / *preyH- — milić [komuś], uprzyjemniać [komuś], kochać [kogoś] [przyjaciel, sprzyjać] {przyję; przyjesz; przyjet;; przyjewa; przyjeta; przyjete;; przyjemy; przyjecie; przyjąt} 
+waleć / *valiti / {*wōlás,*wōlús} / *welH- — toczyć, falować [wał, walić, walenie] {walę; walesz; walet;; walewa; waleta; walete;; walemy; walecie; waląt}
+jązieć / *ǫzъkъ / *anźukas / *anźus / *h₂énǵʰus / *h₂enǵʰ- — zwężać, ścieśniać, kompresować [wąski, zwężać] {jąźę; jąziesz; jąziet;; jąziewa; jązieta; jąziete;; jąziemy; jąziecie; jąźąt}
+padeć / *pàsti / *pṓˀstei / *ped- — potykać się, upadać [spadek, spaść, spadać] {padę; padesz; padet;; padewa; padeta; padete;; pademy; padecie; padąt}
+bligeć, blizeć, blizgeć / *blěskъ / {*bʰleyǵ-, *bʰleyg-} — świecić się jasno [błysk, błyskawica, błyszczeć, błyskać] [bligę / blizę / blizgę; bliżesz / blizesz / blizgesz; bliżet / bliget / blizget;; bliżewa / blizewa / blizgewa; bliżeta / blizeta / blizgeta; bliżete / blizete / blizgete;; bliżemy / blizemy / blizgemy; bliżecie / blizecie / blizgecie; bliżąt / bliząt / blizgąt}
+ptuć / *pľuti / *(s)pjāˀutei / *(s)ptyēw- — pluć [pluć, plucie, plunąć, splunąć] {ptewę; ptewesz; ptewet;; ptewewa; pteweta; ptewete; ptewemy; ptewecie; ptewąt}
+# Ekspresywne / dzwiękonaśladowcze
 chlup / *chlu- / ? — dźwięk + ruch cieczy; pluskanie, rozlewanie [chlup, chlupać, chluśnięcie, chlupot]
-plę / *plu- / ? — wyrzut śliny lub cieczy; ekspresywny rdzeń wydechu i odrzutu [pluć, plucie, plunąć]
-plusk / *plusk- / ? — dźwięk uderzenia cieczy o powierzchnię [plusk, pluskać, pluśnięcie]
+plusk / *plusk- / ? — dźwięk uderzenia cieczy o powierzchnię [plusk, pluskać, pluśnięcie, plusnąć]
 trzask / *trzask- / ? — nagły dźwięk pękania, uderzenia, łamania [trzask, trzasnąć, roztrzaskać]
 chrup / *chrup- / ? — dźwięk kruszenia / gryzienia [chrup, chrupać, chrupnięcie]
-mlask / *mlask- / ? — dźwięk pracy ust przy jedzeniu [mlask, mlaskać, mlaskanie
+mlask / *mlask- / ? — dźwięk pracy ust przy jedzeniu [mlask, mlaskać, mlaskanie]
 szelest / *szelest- / ? — dźwięk tarcia lekkich materiałów [szelest, szeleścić]
 bulgot / *bulgot- / ? — dźwięk wrzenia / cieczy z gazem [bulgot, bulgotać]
-błysk / *błysk- / ? — nagły impuls światła (efekt percepcyjny) [błysk, błyskawica, błyszczeć, błyskać]
-gulgot / *gulgot- / ? — gardłowy / cieczowy dźwięk przepływu [gulgot, gulgotać]
+belch / *bъlkotati / {*bhel, *bhlu} — gardłowy / cieczowy dźwięk przepływu [gulgot, gulgotać, bełkot, bełkotać]
 klep / *klep- / ? — suchy, płaski dźwięk uderzenia [klep, klepać, klepnięcie, klepot, klepacz, klepadło]
 szept / *šьpъtъ / ? — dźwięk szeptu [szept, szeptać]
 [~~~] łop / *lopъ — dźwięk uderzenia liściem [łopata] [pewne: łop jako “liść”]
