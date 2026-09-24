@@ -8,7 +8,7 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 
 ## Dokumenty
 
-- [Czasowniki](https://docs.google.com/document/d/1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ/edit?usp=sharing) — czasy, tryby, imiesłowy, inchoatyw
+- [Czasowniki](https://docs.google.com/document/d/1w5PIg9GaFC4y-Sf_NEq5r1FhytTLxOYaN3CLq4KnpmE/edit?usp=sharing) — czasy, tryby, imiesłowy, inchoatyw
 - [Spójniki](https://docs.google.com/document/d/1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas/edit?usp=sharing) — łączniki i operatory zdaniowe
 - [Przedrostki](https://docs.google.com/document/d/18O8hLNg7t0Xr9IoqCS-XXN8IHakmAISckTYL9m7KLB0/edit?usp=sharing) — prefiksy przyimkowe i kierunkowe
 - [Przyimki / Partykuły](https://docs.google.com/document/d/1s3JmEY-QAqwX3PiRK8KtiXOYQgMO07XwxgBdwjjk44c/edit?usp=sharing) — przyimki i partykuły
@@ -26,7 +26,7 @@ Rekonstrukcja i regularyzacja systemu gramatycznego opartego na prasłowiańszcz
 > `pdf`, `doc`, `docx`, `odt`, `rtf`, `txt`
 
 ```bash
-wget 'https://docs.google.com/document/export?format=pdf&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' --retry-on-http-error=500 -O Czasowniki.pdf
+wget 'https://docs.google.com/document/export?format=pdf&id=1w5PIg9GaFC4y-Sf_NEq5r1FhytTLxOYaN3CLq4KnpmE' --retry-on-http-error=500 -O Czasowniki.pdf
 
 wget 'https://docs.google.com/document/export?format=pdf&id=1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas' --retry-on-http-error=500 -O Spojniki.pdf
 
@@ -48,7 +48,7 @@ wget 'https://docs.google.com/document/export?format=pdf&id=1lCjF7ljRjHNukde3QC1
 ### TXT
 
 ```bash
-wget 'https://docs.google.com/document/export?format=txt&id=1bBhzdu2ReuzlsNoUzCr2z_Z0bjQQzbWZZBLpXmDdemQ' --retry-on-http-error=500 -O Czasowniki.txt
+wget 'https://docs.google.com/document/export?format=txt&id=1w5PIg9GaFC4y-Sf_NEq5r1FhytTLxOYaN3CLq4KnpmE' --retry-on-http-error=500 -O Czasowniki.txt
 
 wget 'https://docs.google.com/document/export?format=txt&id=1iiT4mzIln_J_gTR6i_JhU_1zx6aePrMxcN6Xp9USdas' --retry-on-http-error=500 -O Spojniki.txt
 
