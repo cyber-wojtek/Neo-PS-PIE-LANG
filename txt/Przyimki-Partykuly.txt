@@ -2,43 +2,35 @@
 iz (*jьz- / *iz)
 * znaczenie: „z, z wnętrza na zewnątrz”
 * rekcja: dopełniacz
-* użycie: także jako prefiks
 ________________
 
 
-wy (*vy-)
+ud (*vy- / *úd)
 * znaczenie: „na zewnątrz”
 * funkcja: prefiks kierunkowy („out”)
 ________________
 
 
-wz / woz / wez (*vъz / *uz)
+wz / woz / wez / uz (*vъz / *uz)
 * znaczenie: „w górę, ponad”
 * rekcja: biernik
-* użycie: także jako prefikfnois
 ________________
 
 
-u (*u-)
+u / ow (*u- / *h₂ew)
 * znaczenie: „od, z dala od”
 * rekcja: dopełniacz
 ________________
 
 
-od (*otъ)
-* znaczenie: „od, z dala od”
+ot (*otъ / ~*h₁óti)
+* znaczenie: „dalej, poza, za granicą czegoś”
 ________________
 
 
 do (*do)
 * znaczenie: „do, aż do”
 * rekcja: dopełniacz
-________________
-
-
-przy (*pri)
-* znaczenie: „przy, obok, przy czymś”
-* rekcja: głównie miejscownik
 ________________
 
 
@@ -49,31 +41,19 @@ ________________
 
 
 po (*po)
-* znaczenie: „po”
+* znaczenie: „od czegoś, precz”
 * rekcja: miejscownik
 ________________
 
 
 prze / per (*per-)
-* znaczenie: „przez”
-________________
-
-
-pro (*pro)
-* znaczenie: „dla, w przód”
-* rekcja: biernik
+* znaczenie: „przez, naprzód, poprzez”
 ________________
 
 
 są / sun (*sъ(n))
 * znaczenie: „z, razem z”, „towarzysząc, obok”
 * rekcja: narzędnik
-________________
-
-
-bez (*bez(ъ))
-* znaczenie: „bez”
-* rekcja: dopełniacz
 ________________
 
 
@@ -88,41 +68,27 @@ ni (*ni)
 ________________
 
 
-o(b) (*o(b))
+ob (*o(b))
 * znaczenie: „wokół, o czymś”
 * rekcja: miejscownik albo biernik
 ________________
 
 
-pod (*podъ)
-* znaczenie: „pod, niżej, poniżej”
-* rekcja:
-   * narzędnik — stan
-   * biernik — ruch ku czemuś
-________________
-
-
 za (*za)
-* znaczenie: „za, za czymś”
+* znaczenie: „za, poza, z tyłu”
 * rekcja: narzędnik, biernik, dopełniacz zależnie od użycia
 * też jest sufiksem
 ________________
 
 
-w / we (*vъ(n))
+in (*vъ(n) / *h₁én)
 * znaczenie: „w, wewnątrz, we”
 * rekcja: miejscownik i biernik
 ________________
 
 
-roz / orz (*orz-)
+or (*orz- / ~*h₁erdʰe / *h₁er-)
 * znaczenie: „roz-, oddzielnie, osobno, rozdzielnie”
-________________
-
-
-niż (*nizъ)
-* znaczenie: „w dół, poniżej”
-* rekcja: biernik
 ________________
 
 
@@ -131,30 +97,20 @@ s (*sъ)
 ________________
 
 
-ku (kъ)
+ku (*kъ(n))
 * znaczenie: „ku, w kierunku”
 * rekcja: przyimek
-* użycie: przyimek kierunkowy, bez funkcji prefiksalnej w klasycznym sensie
-
-
-________________
-
-
-li (*li)
-* znaczenie: partykuła pytajna „czy”
-* użycie: enklityczna (po pierwszym wyrazie w zdaniu)
-* też jest sufiksem
 ________________
 
 
 że (*že)
-* znaczenie: „że, „właśnie”, „przecież”
+* znaczenie: partykuła emfatyczna “właśnie, przecież, właściwie”
 * też jest sufiksem
 ________________
 
 
 bo (*bo)
-* znaczenie: partykuła wzmacniająca / uzasadniająca („bowiem”, „przecież”, „bo (jak wiadomo)”)
+* znaczenie: partykuła wzmacniająca, “właśnie, przecież, zaprawdę, napewno”
 * też jest sufiksem
 ________________
 
@@ -169,20 +125,3 @@ ________________
 
 ju (*ju)
 * znaczenie: “już”
-
-
-________________
-
-
-
-
-przed (*perdъ)
-* znaczenie: “w przód od; przed"
-________________
-
-
-
-
-ć / ci (*ťь / *ti)                                                                                                                        
-* znaczenie: partykuła wzmacniająca / wskazująca ("właśnie ten", "oto")                                                                   
-* jedynie jako sufiks

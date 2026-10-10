@@ -1,7 +1,7 @@
 ﻿PRZEDROSTKI
 
 
-w / we (*vъ(n) / *vъ / *vo)
+in (*vъ(n) / *h₁én)
 * znaczenie: „w, wewnątrz, do środka”
 * rekcja: miejscownik i biernik
 * użycie: także jako prefiks
@@ -9,66 +9,41 @@ iz (*jьz / *iz)
 * znaczenie: „z, z wnętrza na zewnątrz”
 * rekcja: dopełniacz
 * użycie: także jako prefiks
-wy (*vy-)
+ud (*vy- / *úd)
 * znaczenie: „na zewnątrz
 * funkcja: prefiks kierunkowy („out”)
-wz / woz (*vъz / *uz)
+wz / woz / wez / uz (*vъz / *uz)
 * znaczenie: „w górę, ponad”
 * rekcja: biernik
 * użycie: także jako prefiks
-u (*u)
+u / ow (*u- / *h₂ew)
 * znaczenie: „od, z dala od”
 * rekcja: dopełniacz
 * użycie: także jako prefiks
-od (*otъ)
+ot (*otъ / ~*h₁óti)
 * znaczenie: „od, z dala od”
 * rekcja: dopełniacz
 do (*do)
 * znaczenie: „do, aż do”
 * rekcja: dopełniacz
-przy (*pri)
-* znaczenie: „przy, obok, przy czymś”
-* rekcja: głównie miejscownik
 na (*na)
 * znaczenie: „na”
 * rekcja: miejscownik albo biernik
 po (*po)
-* znaczenie: „po”
+* znaczenie: „od czegoś, precz”
 * rekcja: miejscownik
 prze (*per)
-* znaczenie: „w przód; przez”
-pro (*pro)
-* znaczenie: „dla”
-* rekcja: biernik
+* znaczenie: „przez, naprzód, poprzez”
 są / sun (*sъ(n))
 * znaczenie: „z, razem z”
 * rekcja: narzędnik
-bez (*bez(ъ))
-* znaczenie: „bez”
-* rekcja: dopełniacz
-o(b) (*o(b))
+ob (*o(b))
 * znaczenie: „wokół, o czymś”
 * rekcja: miejscownik albo biernik
-pod (*podъ)
-* znaczenie: „pod, niżej, poniżej”
-* rekcja:
-   * narzędnik — stan
-   * biernik — ruch ku czemuś
-* użycie: także jako prefiks
 za (*za)
-* znaczenie: „za, za czymś”
+* znaczenie: „za, poza, z tyłu”
 * rekcja: narzędnik, biernik, dopełniacz zależnie od użycia
-* użycie: także jako prefiks
-roz / orz- (*orz-)
+or (*orz- / ~*h₁erdʰe / *h₁er-)
 * znaczenie: „roz-, oddzielnie, osobno, rozdzielnie”; w źródle: dis-, un-, apart
-niż (*nizъ)
-* znaczenie: „w dół, poniżej”
-* rekcja: biernik
 s (*sъ-)
-* znaczenie: prefiks typu „eu-”
-* dokładniej: „aktualność, prawdziwość, autentyczność”
-naj (*naji- / *najь-)
-* znaczenie: „naj-”
-* funkcja: prefiks superlatywny
-pra (pra-)
-* znaczenie: „pra-, najdawniejszy, pierwotny; wielki, starszy”
+* znaczenie:  „naprawdę, serio, aktualność, prawdziwość, autentyczność”
